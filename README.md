@@ -6,19 +6,21 @@
 
 <img src="5_Screenshots_and_Assets/logo.png" alt="Logo" width="130" />
 
-# Network Monitor Professional Tool v1.0
+# 🛡️ Network Monitor Professional Tool v1.0
 ### **Free Community Edition & Enterprise NOC Edition Showcase**
 ### **الأداة الاحترافية لمراقبة الشبكات، فروع الـ VPN، السيرفرات، أجهزة MikroTik، السويتشات وكاميرات المراقبة**
 
-[![Release](https://img.shields.io/badge/Release-v1.0%20Free%20%26%20Enterprise-00FF88?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/releases)
-[![Download ZIP](https://img.shields.io/badge/Download-Full%20Package%20(ZIP)-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip)
-[![Access](https://img.shields.io/badge/Admin%20Login-admin%20%2F%20Admin%40Salemtechno-FF9F1C?style=for-the-badge&logo=microsoft&logoColor=white)](#-default-login-credentials--بيانات-تسجيل-الدخول-وباسورد-الأدمن)
-[![Website](https://img.shields.io/badge/Website-salemtechno.com-2EC4B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.salemtechno.com)
-[![Developer](https://img.shields.io/badge/Developer-Eng.%20Mahmoud%20Salem-E71D36?style=for-the-badge)](https://www.salemtechno.com)
+<p align="center">
+  <a href="https://github.com/SalemTechno/Network-Monitor-Professional-Tool/releases"><img src="https://img.shields.io/badge/Release-v1.0%20Free%20%26%20Enterprise-00FF88?style=for-the-badge&logo=windows&logoColor=white" alt="Release" /></a>
+  <a href="https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Full%20Package%20(ZIP)-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP" /></a>
+  <a href="#-default-login-credentials--بيانات-تسجيل-الدخول-وباسورد-الأدمن"><img src="https://img.shields.io/badge/Admin%20Login-admin%20%2F%20Admin%40Salemtechno-FF9F1C?style=for-the-badge&logo=microsoft&logoColor=white" alt="Admin Login" /></a>
+  <a href="https://www.salemtechno.com"><img src="https://img.shields.io/badge/Website-salemtechno.com-2EC4B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://wa.me/201000920353"><img src="https://img.shields.io/badge/WhatsApp%20%2F%20Tel-01000920353-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
 
-**Developed by: Eng. Mahmoud Salem (مهندس محمود سالم)**  
-**Company:** [Salem Techno IT Solutions](https://www.salemtechno.com) | **Tel / WhatsApp:** `01000920353`  
-**Official Website:** [https://www.salemtechno.com](https://www.salemtechno.com)
+| 👨‍💻 **المطور (Developed By)** | 🏢 **الشركة (Company)** | 📞 **الهاتف / واتساب (Tel / WhatsApp)** | 🌐 **الموقع الرسمي (Official Website)** |
+| :---: | :---: | :---: | :---: |
+| **Eng. Mahmoud Salem**<br/>**(مهندس محمود سالم)** | **[Salem Techno IT Solutions](https://www.salemtechno.com/)** | **`01000920353`** | **[https://www.salemtechno.com](https://www.salemtechno.com/)** |
 
 ---
 
@@ -28,6 +30,7 @@
 [📸 شرح وصور النسخة المجانية (Free Edition Tour)](#-visual-tour--interface-guide-free-edition--شرح-مصوّر-لواجهات-النسخة-المجانية) •
 [🚨 الإشعارات الجانبية عند سقوط السيرفرات (Side Alerts)](#-8️⃣-الإشعارات-الجانبية-الفورية-عند-سقوط-سيرفر-أو-فرع-live-side-alert-notifications) •
 [🚀 شرح وصور نسخة المؤسسات (Enterprise Edition Showcase)](#-enterprise-edition-showcase) •
+[📲 ربط الواتساب بالـ QR والإيميل واللوج (WhatsApp QR & Logs)](#-9️⃣-مركز-الإشعارات-الموحد-ربط-الواتساب-المباشر-بالـ-qr-code--زر-generate--refresh-qr--منع-الحظر--إيميل-gmail-smtp) •
 [📊 مقارنة الإصدارات (Free vs. Enterprise)](#-comparison-free-edition-vs-enterprise-edition--مقارنة-الإصدارات) •
 [👨‍💻 تواصل مع المطور (Contact Developer)](#-developer--contact-information--بيانات-المطور-والتواصل-وطلب-نسخة-المؤسسات)
 
@@ -45,8 +48,8 @@
 | 📂 [**`2_Setup_Installer_EXE`**](./2_Setup_Installer_EXE/) | **معالج التثبيت القياسي (`Setup Installer EXE`)** — يثبت البرنامج وينشئ اختصارات سطح المكتب وقائمة ابدأ | `1.1 MB` | [⬇️ **تحميل مباشر لمعالج التثبيت (Setup.exe)**](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/2_Setup_Installer_EXE/Network_Monitor_Professional_Tool_v1.0_Setup.exe) |
 | 📂 [**`3_MSI_Enterprise_Package`**](./3_MSI_Enterprise_Package/) | **حزمة التثبيت المؤسسية (`Windows Installer MSI`)** — مخصصة للتوزيع المركزي عبر Active Directory GPO | `1.1 MB` | [⬇️ **تحميل مباشر لحزمة الـ MSI (Installer.msi)**](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/3_MSI_Enterprise_Package/Network_Monitor_Professional_Tool_v1.0.msi) |
 | 📂 [**`4_Documentation_and_Guide`**](./4_Documentation_and_Guide/) | **الدليل التفاعلي الشامل باللغة العربية (`HTML5 Guide`)** — شرح كامل لكافة القوائم والخصائص بالصور | `4.1 MB` | [⬇️ **تحميل الدليل التفاعلي (Arabic HTML5 Guide)**](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/4_Documentation_and_Guide/Network_Monitor_Pro_Arabic_Guide_HTML5.html) |
-| 📂 [**`5_Screenshots_and_Assets`**](./5_Screenshots_and_Assets/) | **معرض صور الواجهات والشعارات (`Screenshots & Assets`)** — يضم صور النسخة المجانية ونسخة المؤسسات `Enterprise` | `21 PNGs` | [🖼️ **تصفح مجلد الصور (Screenshots Folder)**](./5_Screenshots_and_Assets/) |
-| 📦 **`Full Repository ZIP`** | **الحزمة الكاملة (`All Editions + Guide + Screenshots ZIP`)** — جميع الملفات والمجلدات في ملف مضغوط واحد | `6.8 MB` | [📦 **تحميل الحزمة الكاملة مضغوطة (Download All as ZIP)**](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip) |
+| 📂 [**`5_Screenshots_and_Assets`**](./5_Screenshots_and_Assets/) | **معرض صور الواجهات والشعارات (`Screenshots & Assets`)** — يضم صور النسخة المجانية ونسخة المؤسسات `Enterprise` | `26 PNGs` | [🖼️ **تصفح مجلد الصور (Screenshots Folder)**](./5_Screenshots_and_Assets/) |
+| 📦 **`Full Repository ZIP`** | **الحزمة الكاملة (`All Editions + Guide + Screenshots ZIP`)** — جميع الملفات والمجلدات في ملف مضغوط واحد | `7.5 MB` | [📦 **تحميل الحزمة الكاملة مضغوطة (Download All as ZIP)**](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip) |
 
 > 💡 **ملاحظة للتثبيت الصامت (Silent Deployment for IT Admins):**
 > - لتثبيت نسخة `Setup.exe` صامتاً: `Network_Monitor_Professional_Tool_v1.0_Setup.exe /S`
@@ -60,7 +63,7 @@
 
 | الصلاحية (Access Role) | اسم المستخدم (Username) | كلمة المرور الافتراضية (Password) | الصلاحيات المتاحة (Permissions) |
 | :--- | :---: | :---: | :--- |
-| 🛡️ **مدير النظام (`Administrator - Full Control`)** | **`admin`** | **`Admin@Salemtechno`** | تحكم كامل: إضافة وتعديل وحذف الفروع والسيرفرات، ضبط السرينة، وتغيير الإعدادات |
+| 🛡️ **مدير النظام (`Administrator - Full Control`)** | **`admin`** | **`Admin@Salemtechno`** | تحكم كامل: إضافة وتعديل وحذف الفروع والسيرفرات، ضبط السرينة، منع السكون `Keep-Awake`، وتغيير الإعدادات |
 | 👁️ **المشرف / المراقب (`Supervisor - Monitor Only`)** | **`supervisor`** | **`IT@Salemtechno`** | متابعة الشاشة الحية والخرائط الحرارية والتقارير (مع صلاحيات يحددها الأدمن) |
 
 ---
@@ -71,7 +74,7 @@
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_02_dashboard_live.png" alt="Live NOC Dashboard - Free Edition" width="100%" />
-<p><i>الشاشة الرئيسية للنسخة المجانية (Free Edition NOC Dashboard) — مراقبة حية لفروع الـ VPN والسيرفرات مع الخريطة الحرارية والترمينال التشخيصي</i></p>
+<p><i>الشاشة الرئيسية للنسخة المجانية (Free Edition NOC Dashboard) — مراقبة حية لفروع الـ VPN والسيرفرات مع الخريطة الحرارية، سجل الأحداث الفوري، وتفعيل وضع منع السكون 24/7</i></p>
 </div>
 
 ---
@@ -88,21 +91,21 @@
 
 ### 3. 🚨 Dual-Tier Siren Alert Engine & Side Popup Notifications (نظام الإنذار الصوتي والإشعارات الجانبية الفورية)
 - **إنذار تحذيري (`Warning Alert`):** عند ارتفاع البنج أو بداية التقطيع قبل السقوط الكامل.
-- **إنذار طوارئ (`Critical Down Siren`):** صافرة إنذار مستمرة عند سقوط أي فرع أو سيرفر بعد تجاوز عدد المحاولات المحدد (`Confirm Threshold`)، مع إمكانية تخصيص ملفات صوت `.WAV` خارجية أو كتم صوت فرع معين (`Mute 15m`).
+- **إنذار طوارئ (`Critical Down Siren`):** صافرة إنذار مستمرة عند سقوط أي فرع أو سيرفر بعد تجاوز عدد المحاولات المحدد (`Confirm Threshold`)، مع إمكانية تخصيص ملفات صوت `.WAV` خارجية أو كتم صوت فرع معين (`Mute 15m` مع إعادة تفعيل تلقائية بعد 15 دقيقة).
 - **إشعارات جانبية منبثقة فورية (`Live Side Popup Notifications`):** تظهر تلقائياً في جانب الشاشة فوق كافة نوافذ ويندوز فور سقوط أي سيرفر أو فرع مع عرض اسم السيرفر، عنوان الـ IP، مدة الانقطاع (`TIMEOUT`)، وأزرار الكتم المؤقت (`Mute 15m`) أو الإغلاق (`Dismiss`).
 
-### 4. 🗓️ Multi-Range Stability Heatmaps (خرائط حرارية للاستقرار: 24 ساعة / 7 أيام / 30 يوماً)
-- تسجيل تاريخي مستمر لحالة كل فرع وسيرفر مع عرض بصري فوري:
+### 4. 🗓️ Multi-Range Stability Heatmaps (خرائط حرارية للاستقرار: 24 ساعة / 7 أيام / 30 يوماً + زر تصفير السجل)
+- تسجيل تاريخي مستمر لحالة كل فرع وسيرفر مع عرض بصري فوري وإمكانية تصفير السجل بضغطة زر (`Reset Heatmap`):
   - **اليوم (`Day - 24h`):** 24 مربعاً تمثل كل ساعة في اليوم.
   - **الأسبوع (`Week - 7d`):** استقرار كل يوم خلال آخر 7 أيام.
   - **الشهر (`Month - 30d`):** سجل كامل لآخر 30 يوماً مع نسبة الاستقرار المئوية (`Uptime %`) وعدد مرات السقوط والعودة (`Down / Up Count`).
 
 ### 5. 🖨️ Executive HTML5 & Landscape Printable SLA Reports (تقارير بالعرض مرقّمة جاهزة للطباعة `A4 Landscape`)
-- بضغطة زر واحدة على **`Save & Print Report`**، يقوم النظام بتوليد تقرير رسمي منسق وجاهز للطباعة **بالعرض (`@page { size: A4 landscape }`)** أو الحفظ كـ `PDF / HTML` لضمان ظهور جميع الأعمدة، عناوين الـ IP، الملاحظات، والخريطة الحرارية بوضوح تام 100%.
+- بضغطة زر واحدة على **`Print HTML Report`**، يقوم النظام بتوليد تقرير رسمي منسق وجاهز للطباعة **بالعرض (`@page { size: A4 landscape }`)** أو الحفظ كـ `PDF / HTML` لضمان ظهور جميع الأعمدة، عناوين الـ IP، الملاحظات، والخريطة الحرارية بوضوح تام 100%.
 - **ترقيم تلقائي لكل ورقة في الطباعة (`Page X of Y`):** يتم تقسيم الجداول الطويلة تلقائياً مع تكرار رؤوس الأعمدة في كل ورقة، وطباعة شريط سفلي في كل صفحة يحتوي على رقم الورقة من الإجمالي (**`Page 1 of N`**) وتاريخ ووقت الطباعة بنظام 12 ساعة (`AM/PM`).
 
 ### 6. 🛡️ Role-Based Access Control & 24/7 NOC Keep-Awake (نظام صلاحيات المسؤول ومنع السكون وشاشة التوقف)
-- حفظ تلقائي ومشفر لكافة الإعدادات وبيانات الفروع والسيرفرات وسجلات الاستقرار محلياً.
+- حفظ تلقائي ومشفر لكافة الإعدادات وبيانات الفروع والسيرفرات وسجلات الاستقرار محلياً بمعيار `AES-256 + Windows DPAPI`.
 - نظام صلاحيات مزدوج (**`Admin`** للتحكم الكامل وإضافة/تعديل الفروع والإعدادات، و**`Supervisor / Viewer`** للمراقبة فقط في شاشات العرض وغرف العمليات).
 - **منع وضع السكون وشاشة التوقف (`Prevent Windows Sleep & Screensaver - 24/7 Keep-Awake`):** خيار مدمج في إعدادات الأدمن (`Admin Settings`) يمنع جهاز المراقبة من الدخول في وضع السكون (`Sleep`) أو تشغيل شاشة التوقف (`Screensaver`) طوال فترة عمل البرنامج لضمان استمرار المراقبة والإنذارات على مدار الساعة دون انقطاع.
 
@@ -111,7 +114,7 @@
 ## 📸 Visual Tour & Interface Guide (Free Edition) | شرح مصوّر لواجهات النسخة المجانية
 
 ### 1️⃣ شاشة تسجيل الدخول ونظام الصلاحيات (Access Control Login)
-واجهة دخول تدعم التبديل بين حساب المسؤول (`Administrator`: اسم المستخدم **`admin`** / الباسورد **`Admin@Salemtechno`**) وحساب المشرف (`Supervisor`: اسم المستخدم **`supervisor`** / الباسورد **`IT@Salemtechno`**) مع حفظ تلقائي للإعدادات.
+واجهة دخول محمية تدعم التبديل بين حساب مدير النظام (`Administrator`: اسم المستخدم **`admin`** / الباسورد **`Admin@Salemtechno`**) وحساب المشرف (`Supervisor`: اسم المستخدم **`supervisor`** / الباسورد **`IT@Salemtechno`**) مع زر إظهار/إخفاء كلمة المرور **`[*]`** وحفظ تلقائي مشفر للإعدادات:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_01_login.png" alt="01 - Login Screen" width="75%" />
@@ -120,7 +123,7 @@
 ---
 
 ### 2️⃣ لوحة التحكم الرئيسية (Main NOC Live Dashboard)
-تعرض في الأعلى شريط الإحصائيات اللحظي (`ONLINE`, `HIGH PING / WARN`, `CRITICAL / DOWN`, `30D DOWN / UP`)، يليه شريط الأدوات السريع، ثم مصفوفة الفروع على اليسار ومصفوفة السيرفرات على اليمين، وفي الأسفل الخريطة الحرارية وسجل الأحداث اللحظي (`Live Cyber Terminal`).
+تعرض الشاشة الرئيسية في الأعلى مؤشر حالة الإنترنت الرئيسي (**`ISP ONLINE`**) وشريط الإحصائيات اللحظي (`TOTAL NODES`, `ONLINE`, `HIGH PING / WARN`, `CRITICAL / DOWN`, `30D DOWN / UP`)، يليه شريط الأدوات السريع (`+ Add Branch / Server`, `Check / Refresh`, `Select All`, `Filter`, `Outage & Heatmap Report`, `Sound: ON`, `Admin Settings`, `Full Screen F11`, `Hide to Tray`, `About`, `Switch User`, `Logout`)، ثم مصفوفة الفروع على اليسار ومصفوفة السيرفرات على اليمين، وفي الأسفل الخريطة الحرارية المصغرة وسجل الأحداث اللحظي (`LIVE EVENT & ALERT LOG`) الذي يظهر حالة عمل النظام وتفعيل وضع **`24/7 NOC Keep-Awake`**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_02_dashboard_live.png" alt="02 - Main Dashboard Live" width="95%" />
@@ -129,7 +132,7 @@
 ---
 
 ### 3️⃣ نافذة إضافة وتعديل فرع أو سيرفر (Node Configuration Editor)
-تتيح تحديد اسم الفرع أو السيرفر، عنوان الـ `IP` أو `Hostname`، التصنيف (`VPN Branch` أو `Server / Host`)، حد البنج التحذيري (`Warn Latency ms`)، وتفعيل أو كتم التنبيه الصوتي لهذه النقطة بشكل مستقل.
+تتيح تحديد اسم الفرع أو السيرفر، عنوان الـ `IP` أو `Hostname`، رقم الترتيب (`Order #`)، التصنيف (`VPN Branch` أو `Server / Host`)، الفاصل الزمني للفحص بالثواني (`Check Interval`)، مهلة تأكيد السقوط بالدقائق (`Down Confirm Mins`)، حدود البنج التحذيري والحرج (`Warning / Critical Ping ms`)، اختيار نغمات الإنذار المدمجة أو ملفات `.WAV` مخصصة، وإعدادات إعادة التشغيل عن بُعد (`Remote Reboot`) مع زر إظهار كلمة المرور **`[*]`**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_03_node_editor_windows.png" alt="03 - Node Editor" width="65%" />
@@ -137,8 +140,12 @@
 
 ---
 
-### 4️⃣ إعدادات المسؤول ونظام الإنذار (Admin Settings & Siren Configuration)
-لوحة تحكم شاملة لضبط الفاصل الزمني للفحص (`Poll Interval`)، مهلة الاتصال (`Ping Timeout`)، عدد المحاولات لتأكيد السقوط (`Confirm Retries`)، إعدادات فحص الإنترنت الرئيسي (`ISP Check`)، اختيار ملفات صوت الإنذار `.WAV`، وإدارة صلاحيات وكلمات مرور الحسابات.
+### 4️⃣ إعدادات المسؤول، منع السكون 24/7، ونظام السرينة (Admin Settings, 24/7 Keep-Awake & Siren Configuration)
+لوحة تحكم شاملة لمدير النظام (`Admin Settings`) تضم:
+- **إدارة كلمات المرور وتأكيدها (`Admin & Supervisor Credentials`)** مع أزرار إظهار/إخفاء الباسورد **`[*]`**.
+- **تخصيص صلاحيات المشرف (`Supervisor Permissions`):** تحديد ما يُسمح للمشرف بفعله (إعادة التشغيل عن بُعد، كتم الصوت، إضافة/تعديل الأجهزة، أو استخدام أدوات الفحص).
+- **خيارات التشغيل الدائم (`Startup, Tray & 24/7 Keep-Awake`):** التشغيل التلقائي مع ويندوز، التصغير بجوار الساعة، وخيار **`Prevent Windows Sleep & Screensaver While Program is Running (24/7 NOC Keep-Awake)`** لمنع الجهاز من الدخول في وضع السكون أو شاشة التوقف أثناء عمل البرنامج.
+- **إعدادات صافرة الطوارئ الجماعية (`Continuous Outage Siren & 15m Auto-Resume`):** تحديد عدد الفروع لتفعيل صافرة الطوارئ المستمرة ومدة الكتم المؤقت (15 دقيقة) قبل إعادة التفعيل التلقائي:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_04_admin_settings_siren.png" alt="04 - Admin Settings & Siren" width="75%" />
@@ -146,8 +153,8 @@
 
 ---
 
-### 5️⃣ الخريطة الحرارية الشهرية — 30 يوماً (30-Day Monthly Stability Heatmap)
-تحليل تفصيلي لاستقرار كل فرع وسيرفر على مدار 30 يوماً كاملة مع حساب تلقائي لنسبة التواجد (`Uptime %`) وإجمالي حالات الانقطاع والعودة.
+### 5️⃣ الخريطة الحرارية الشهرية — 30 يوماً والطباعة بالعرض المرقمة (30-Day Monthly Stability Heatmap & Landscape Report)
+تحليل تفصيلي لاستقرار كل فرع وسيرفر على مدار 30 يوماً كاملة مع حساب تلقائي لنسبة التواجد (`Uptime %`) وإجمالي حالات الانقطاع والعودة (`Down / Up Events`)، مع زر **`Reset Heatmap`** لتصفير السجل، وزر **`Print HTML Report`** الذي يطبع التقرير **بالعرض (`A4 Landscape`)** مع **ترقيم تلقائي لكل صفحة (`Page X of Y`)**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_05_heatmap_30d.png" alt="05 - 30-Day Heatmap" width="90%" />
@@ -156,7 +163,7 @@
 ---
 
 ### 6️⃣ الخريطة الحرارية اليومية — 24 ساعة (24-Hour Hourly Stability Heatmap)
-مراقبة دقيقة ساعة بساعة على مدار الـ 24 ساعة لتحديد أوقات الذروة أو التقطيع المتكرر في الفروع والخطوط.
+مراقبة دقيقة ساعة بساعة (`00:00` إلى `23:00`) على مدار الـ 24 ساعة لتحديد أوقات الذروة أو الانقطاعات المتكررة في الفروع والخطوط، مع إمكانية التبديل الفوري بين عرض اليوم (`Day 24h`)، الأسبوع (`Week 7d`)، والشهر (`Month 30d`) أو تكبير التقرير بملء الشاشة **`Full Screen (F11)`**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_06_heatmap_24h.png" alt="06 - 24-Hour Heatmap" width="90%" />
@@ -164,8 +171,8 @@
 
 ---
 
-### 7️⃣ نافذة الفحص الحي وتتبع المسار واختيار فترة التقرير (Live Inspector & Printable Report)
-معاينة حية مكبرة لأي فرع أو سيرفر مع زر `Live Traceroute` وإمكانية اختيار فترة التقرير (`24 ساعة / 7 أيام / 30 يوماً`) للطباعة الفورية.
+### 7️⃣ نافذة الفحص الحي وتتبع المسار واختيار فترة التقرير (Live Inspector, Traceroute & Report Period Picker)
+معاينة حية مكبرة لأي فرع أو سيرفر عند الضغط على **`[View]`** تعرض عداد الانقطاع المستمر (`TIMEOUT 9m 24s`) مع أزرار **`Check / Ping Now`** و**`Live Traceroute`** لتتبع المسار ومعرفة مكان القطع، وبجوارها نافذة اختيار فترة التقرير (`Day 24h / Week 7d / Month 30d`) قبل الطباعة بالعرض:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_07_emergency_toast.png" alt="07 - Live Inspector & Report Picker" width="85%" />
@@ -183,7 +190,7 @@
 ---
 
 ### 9️⃣ نافذة حول البرنامج وبيانات المطور (About & Developer Info)
-توضح إصدار البرنامج، مواصفات النظام، وبيانات التواصل المباشر مع المطور **مهندس محمود سالم — Salem Techno IT Solutions**.
+توضح إصدار البرنامج، مواصفات النظام، وبيانات التواصل المباشر مع المطور **مهندس محمود سالم — Salem Techno IT Solutions**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/doc_08_about.png" alt="09 - About Dialog" width="65%" />
@@ -207,36 +214,36 @@
 
 </div>
 
-بالإضافة إلى النسخة المجانية المرفوعة في هذا المستودع، تتوفر نسخة المؤسسات المتقدمة **(`Enterprise Edition`)** المصممة للشركات الكبرى، المصانع، البنوك، ومراكز البيانات التي تحتاج إلى **ربط مباشر مع أجهزة MikroTik RouterOS API**، ومراقبة السويتشات وكاميرات المراقبة وأجهزة الـ NVR/DVR، وحساب مؤشرات جودة الخدمة **`QoS % / Packet Loss % / Jitter`**، وإعادة تشغيل الأجهزة عن بُعد **`Remote Reboot`**.
+بالإضافة إلى النسخة المجانية المرفوعة في هذا المستودع، تتوفر نسخة المؤسسات المتقدمة **(`Enterprise Edition`)** المصممة للشركات الكبرى، المصانع، البنوك، ومراكز البيانات التي تحتاج إلى **ربط مباشر للواتساب بالـ QR Code على جميع الأجهزة مع نظام منع الحظر وإشعارات البريد الإلكتروني Gmail SMTP وتسجيل كامل للرسائل في اللوج**، و**ربط مباشر مع أجهزة MikroTik RouterOS API**، ومراقبة السويتشات وكاميرات المراقبة وأجهزة الـ NVR/DVR، وحساب مؤشرات جودة الخدمة **`QoS % / Packet Loss % / Jitter`**، وتقارير عدم استقرار الخدمة **`UNSTABLE — NOT DOWN`**، والخريطة التفاعلية للشبكة **`Topology Map`**، والفاحص التلقائي للـ IP **`Auto IP Scanner`**.
 
 ---
 
 ## 🔥 المميزات الحصرية في نسخة المؤسسات (Enterprise Exclusive Capabilities)
 
-1. **📡 الربط المباشر مع أجهزة مايكروتك (`MikroTik RouterOS API Concentrator - Port 8728`):**
+1. **📡 الربط المباشر مع أجهزة مايكروتك (`MikroTik RouterOS API Concentrator - Port 8728/8291`):**
    - لوحة علوية مخصصة لراوتر المايكروتك الرئيسي بالمركز الرئيسي (**`MASTER MKT`**) وراوترات الفروع (**`SUB-MKT`**).
-   - سحب ومراقبة خطوط وفروع الـ VPN (`PPTP / L2TP / SSTP / OpenVPN / WireGuard / GRE / EoIP`) مباشرة من داخل المايكروتك.
+   - سحب ومراقبة خطوط وفروع الـ VPN (`PPTP / L2TP / SSTP / OpenVPN / WireGuard / GRE / EoIP`) مباشرة من داخل المايكروتك، مع نسخ احتياطي أسبوعي تلقائي لملفات إعدادات المايكروتك (`.rsc`).
    - عرض معدل سحب الترافيك اللحظي (**`Pull: ↓ kbps / ↑ kbps`**)، زمن التشغيل (**`Uptime`**)، ومؤشر جودة الخط (**`QoS %`**).
    - أزرار تحكم فورية على شريط المايكروتك: فحص فوري (**`Check`**)، تتبع المسار (**`Trace`**)، وإعادة تشغيل الراوتر عن بُعد (**`Reboot`**).
 
-2. **🔌 مراقبة شاملة لكافة معدات الشبكة والبروتوكولات (`ICMP + TCP Ports + HTTP/HTTPS`):**
+2. **🔌 مراقبة شاملة لكافة معدات الشبكة والبروتوكولات (`ICMP + TCP Ports + HTTP/HTTPS + Hardware Telemetry`):**
    - مراقبة **فروع الـ VPN (`VPN Branches`)**، **السيرفرات (`Windows / Linux / SQL / ERP Servers`)**، **راوترات المايكروتك (`MikroTik Routers`)**، **السويتشات المدارة (`Cisco / HP / Aruba L2 & L3 Switches`)**، و**أنظمة الكاميرات والتسجيل (`Hikvision / Dahua NVR, DVR & IP Cameras`)**.
-   - دعم الفحص عبر **`ICMP Ping`** أو فحص بورتات الخدمة **`TCP Port (مثل 80, 443, 3389, 8291, 8728, 554, 1433)`** أو **`HTTP/HTTPS Status`**.
+   - دعم الفحص عبر **`ICMP Ping`** أو فحص بورتات الخدمة **`TCP Port (مثل 80, 443, 3389, 8291, 8728, 554, 1433)`** مع قياس استهلاك المعالج والرامات والقرص الصلب (`CPU % / RAM % / Disk %`).
 
 3. **📈 تحليل متقدم لجودة الاتصال (`Live QoS %, Packet Loss % & Jitter ms`):**
    - تعرض كل بطاقة جهاز في نسخة المؤسسات نسبة جودة الاتصال اللحظية (**`QoS: 99.7%`**)، نسبة فقدان الحزم (**`Loss: 0%`**)، ومعدل التذبذب (**`Jitter ms`**) لاكتشاف ضعف الخطوط قبل انقطاعها.
 
 4. **🛠️ أدوات تحكم وتشخيص عن بُعد (`Remote Reboot & Multi-Hop Traceroute`):**
-   - إمكانية عمل **`Reboot`** عن بُعد للسيرفرات أو راوترات المايكروتك أو الأجهزة المدعومة مباشرة من داخل البرنامج مع تسجيل العملية في سجل الأحداث.
+   - إمكانية عمل **`Reboot`** عن بُعد للسيرفرات أو راوترات المايكروتك أو الأجهزة المدعومة مباشرة من داخل البرنامج مع تسجيل العملية في سجل التدقيق الأمني.
    - أداة **`Trace`** مدمجة لتتبع مسار الحزم (`Hop-by-Hop Traceroute`) ومعرفة النقطة المسببة للبطء أو الانقطاع فوراً.
 
 5. **📲 ربط الواتساب المباشر بالـ QR Code على جميع الأجهزة ونظام منع الحظر والتسجيل الكامل في اللوج (`Universal Multi-Browser WhatsApp QR Engine + Generate/Refresh QR + Anti-Ban Rotator + Full Dispatch Logging`):**
-   - **محرك QR عالمي يعمل على جميع أجهزة ويندوز (`Universal Multi-Browser QR Engine`):** يدعم التشغيل التلقائي عبر **`Mozilla Firefox`** و**`Microsoft Edge`** و**`Google Chrome`** و**`Brave`** مع معالجة تلقائية لصلاحيات المستخدم وسياسات المجموعة (`Group Policy`) ليظهر الباركود فوراً على أي جهاز بدون استثناء، مع إمكانية الضغط على الباركود لتكبيره في نافذة مستقلة.
-   - **زر توليد وتحديث الباركود (`Generate / Refresh QR`):** زر مخصص لإعادة توليد كود QR جديد فوراً في حال انتهاء صلاحية الكود أو الرغبة في تنشيط الجلسة، مع حفظ الجلسة وتشفيرها بمعيار **`AES-256 + Windows DPAPI`** بحيث تستكمل الجلسة عملها تلقائياً حتى بعد عمل ريستارت للجهاز دون الحاجة لإعادة المسح، ومؤشر حالة حي (**`● ONLINE (CONNECTED)` / `● OFFLINE`**) وزر تسجيل خروج محمي للأدمن (**`Logout & Wipe`**).
-   - **تسجيل تفصيلي لكل رسالة واتساب وإيميل في اللوج (`Full WhatsApp & Email Dispatch Logging`):** عند إرسال أي رسالة واتساب أو بريد إلكتروني (سواء تنبيه سقوط أو عودة أو عدم استقرار أو رسالة اختبار)، يسجل البرنامج فوراً كافة تفاصيل الرسالة (اسم الفرع/السيرفر، الـ IP، الرقم أو الإيميل المستلم، بوابة الإرسال، وحالة الوصول بالتوقيت 12 ساعة) في كل من **سجل الأحداث الحي على الشاشة الرئيسية (`Live Event Log`)** و**سجل التدقيق الأمني (`Audit Logs`)**.
+   - **محرك QR عالمي يعمل على جميع أجهزة ويندوز (`Universal Multi-Browser QR Engine`):** يدعم التشغيل التلقائي عبر **`Mozilla Firefox`** و**`Microsoft Edge`** و**`Google Chrome`** و**`Brave`** مع معالجة تلقائية لصلاحيات المستخدم (`%LocalAppData%`) وسياسات المجموعة (`Group Policy`) ليظهر الباركود فوراً على أي جهاز بدون استثناء، مع إمكانية الضغط على الباركود لتكبيره في نافذة مستقلة.
+   - **زر توليد وتحديث الباركود (`Generate / Refresh QR`):** زر مخصص لإعادة توليد كود QR جديد فوراً في حال انتهاء صلاحية الكود أو الرغبة في تنشيط الجلسة، مع حفظ الجلسة وتشفيرها بمعيار **`AES-256 + Windows DPAPI`** بحيث تستكمل الجلسة عملها تلقائياً حتى بعد عمل ريستارت للجهاز دون الحاجة لإعادة المسح، ومؤشر حالة حي (**`● ONLINE (CONNECTED)` / `● OFFLINE`**) وزر تسجيل خروج محمي للأدمن (**`Logout Session`**).
+   - **تسجيل تفصيلي لكل رسالة واتساب وإيميل في اللوج (`Full WhatsApp & Email Dispatch Logging`):** عند إرسال أي رسالة واتساب أو بريد إلكتروني (سواء تنبيه سقوط أو عودة أو عدم استقرار أو رسالة اختبار)، يسجل البرنامج فوراً كافة تفاصيل الرسالة (اسم الفرع/السيرفر، الـ IP، الرقم أو الإيميل المستلم، بوابة الإرسال، وحالة الوصول بالتوقيت 12 ساعة) في كل من **سجل الأحداث الحي على الشاشة الرئيسية (`Live Event Log`)** و**سجل التدقيق الأمني (`Audit Log`)**.
    - **نظام منع الحظر وتغيير صياغة الرسائل (`Anti-Ban Multi-Template Message Rotator`):** يحتوي البرنامج على **5 قوالب وصيغ نصية مختلفة لكل حالة** (سقوط كامل `CRITICAL DOWN`، عدم استقرار وتقطيع `SERVICE UNSTABLE`، عودة للعمل `RECOVERED ONLINE`، وسقوط جماعي `MASS OUTAGE`) ويقوم بالتبديل التلقائي بينها في كل إشعار مع إضافة كود مرجعي عشوائي فريد (**`#NOC-XXXX`**) وفاصل زمني يحاكي الكتابة البشرية لمنع البلوكات.
    - **التاريخ والوقت بنظام 12 ساعة (`12-Hour AM/PM Timestamp`):** يُكتب في كل رسالة واتساب وإيميل وقت وتاريخ الإرسال الدقيق بالصيغة **`Sent On: dd/MM/yyyy — hh:mm:ss AM/PM`**.
-   - **دعم 6 بوابات واتساب + بريد إلكتروني مشفر (`smtp.gmail.com` Port 465 SSL & Port 587 STARTTLS):** يدعم الربط المباشر بالـ QR Code بالإضافة إلى `Meta Official WhatsApp Cloud API (v20.0)`، `UltraMsg`، `Green-API`، `CallMeBot`، و`Custom Webhook`، مع دعم كامل لإرسال إيميلات `Gmail SMTP` عبر بورت `465` (Implicit SSL) وبورت `587` (STARTTLS) تلقائياً.
+   - **دعم 6 بوابات واتساب + بريد إلكتروني مشفر (`smtp.gmail.com` Port 465 SSL & Port 587 STARTTLS):** يدعم الربط المباشر بالـ QR Code بالإضافة إلى `Meta Official WhatsApp Cloud API (v20.0)`، `UltraMsg`، `Green-API`, `CallMeBot`، و`Custom Webhook`، مع دعم كامل لإرسال إيميلات `Gmail SMTP` عبر بورت `465` (Implicit SSL) وبورت `587` (STARTTLS) تلقائياً.
 
 6. **📉 تقرير عدم استقرار الخدمة والطباعة بالعرض بترقيم الصفحات (`Service Instability Report & Landscape Page-Numbered Printing`):**
    - تقرير تحليلي مفصل ومستقل يرصد نوبات قطع البنج السريعة التي تعود قبل مهلة تأكيد الانقطاع (`UNSTABLE — NOT DOWN`)، مع خريطة توزيع الـ 24 ساعة ودعم التكبير **`F11 Full Screen`**.
@@ -265,11 +272,12 @@
 | **تسجيل كامل لبيانات رسائل الواتساب والإيميل المرسلة في الـ `Live Log` والـ `Audit Log`** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **نظام منع الحظر وتبديل صيغ الرسائل العشوائية + التوقيت بنظام 12 ساعة (`AM/PM`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **إشعارات الإيميل `Gmail SMTP (Port 465 SSL & 587 STARTTLS)` وبوابة `Meta API`** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
-| **ربط مباشر مع راوترات `MikroTik RouterOS API (Port 8728)`** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
+| **ربط مباشر مع راوترات `MikroTik RouterOS API (Port 8728/8291)`** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **لوحة `MASTER MKT` و `SUB-MKT` مع سحب الترافيك الحي (`↓/↑ kbps`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **فحص البورتات والخدمات (`TCP Port Check & HTTP/HTTPS`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **مراقبة السويتشات وأجهزة `DVR / NVR` وكاميرات `IP Cameras`** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **حساب جودة الخدمة (`QoS %`) وفقدان الحزم (`Loss %`) والـ `Jitter`** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
+| **تقرير عدم استقرار الخدمة وتقطيع البنج (`Service Instability Report — UNSTABLE`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **الخريطة التفاعلية للشبكة (`Topology Map`) والفاحص التلقائي (`Auto IP Scanner`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **إعادة تشغيل الأجهزة عن بُعد (`Remote Reboot`) وتتبع المسار (`Trace`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
 | **تصدير واستيراد الإعدادات المشفرة (`Export / Import Encrypted .nmcfg`)** | ❌ غير متاح | ✅ **حصري في نسخة Enterprise** |
@@ -278,8 +286,8 @@
 
 ## 🖼️ جولة مصوّرة وشرح تفصيلي لنسخة المؤسسات (Enterprise Visual Walkthrough)
 
-### 1️⃣ اللوحة الرئيسية لنسخة المؤسسات (Enterprise Live NOC & MikroTik Concentrator)
-تظهر في هذه الشاشة لوحة المايكروتك الرئيسي (**`MASTER MKT — MikroTik CCR2004 Core Router`**) متصلاً عبر `RouterOS API` مع عرض الترافيك الحي (`Pull: ↓0.4 / ↑0.4 kbps`) ونسبة الجودة (`QoS: 99.7%`) وأزرار **`Check` / `Trace` / `Reboot`**، يليها راوتر الفرع (**`SUB-MKT — MikroTik RB4011`**)، ثم مصفوفة فروع الـ VPN ومصفوفة السيرفرات والسويتشات وأجهزة الـ NVR/DVR مع مؤشرات الـ `QoS %` والـ `Loss %` لكل نقطة:
+### 1️⃣ اللوحة الرئيسية لنسخة المؤسسات (Enterprise Live NOC, MikroTik Concentrator & Live Dispatch Log)
+تظهر في هذه الشاشة لوحة المايكروتك الرئيسي (**`MASTER MKT — MikroTik CCR2004 Core Router`**) متصلاً عبر `RouterOS API` مع عرض الترافيك الحي (`Pull: ↓ / ↑ kbps`) ونسبة الجودة (`QoS %`) وأزرار **`Check` / `Trace` / `Reboot`**، ومؤشر حالة جلسة الواتساب المباشرة في الأعلى، وشريط الأدوات الكامل (`Topology Map`, `IP Scanner`, `Outage & Heatmap`, `Service Instability`, `Notifications`, `Admin Settings`, `Audit Log`)، ومصفوفة الفروع والسيرفرات، وفي الأسفل يظهر **سجل الأحداث الفوري (`LIVE EVENT & ALERT LOG`)** مسجلاً فيه تلقائياً تفاصيل رسائل الواتساب والإيميل المرسلة (`WHATSAPP SENT OK`, `EMAIL SENT OK`) وحالة تفعيل **`24/7 NOC Keep-Awake`**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/ent_02_dashboard_live.png" alt="Enterprise 02 - Live NOC Dashboard" width="100%" />
@@ -288,7 +296,7 @@
 ---
 
 ### 2️⃣ بوابة الدخول ونظام الصلاحيات لنسخة المؤسسات (Enterprise Login Portal)
-شاشة الدخول الخاصة بإصدار **`Enterprise Edition`** مع دعم حسابات المسؤول (`Administrator`) والمشرف (`Supervisor`):
+شاشة الدخول الخاصة بإصدار **`Enterprise Edition`** مع دعم حسابات المسؤول (`Administrator`) والمشرف (`Supervisor`) وزر إظهار كلمة المرور **`[*]`**:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/ent_01_login.png" alt="Enterprise 01 - Login Gateway" width="75%" />
@@ -297,7 +305,7 @@
 ---
 
 ### 3️⃣ نافذة إضافة وإعداد راوتر MikroTik والسيرفرات والكاميرات (Enterprise Node & Protocol Editor)
-تمكّن مهندس الشبكة من تحديد نوع الجهاز (`MikroTik Core / Sub Router`, `VPN Branch`, `Windows / Linux Server`, `Managed Switch`, `DVR / NVR / IP Camera`)، اختيار بروتوكول الفحص (`ICMP Ping`, `TCP Port`, `RouterOS API`)، وإدخال بيانات الاتصال وبورت الـ API أو أوامر الـ `Remote Reboot`:
+تمكّن مهندس الشبكة من اختيار قالب جاهز (`Monitoring Profile Template`) أو تحديد نوع الجهاز (`Master MikroTik`, `Sub MikroTik`, `VPN Branch`, `Windows / Linux Server`, `Switch / DVR / IP Camera`)، واختيار بروتوكول الفحص (`ICMP Ping`, `TCP Port`, `RouterOS API`)، وإدخال بيانات الاتصال وبورت الـ API أو أوامر الـ `Remote Reboot` مع تأكيد كلمة المرور:
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/ent_03_node_editor_mikrotik.png" alt="Enterprise 03 - MikroTik & Multi-Protocol Node Editor" width="68%" />
@@ -305,8 +313,8 @@
 
 ---
 
-### 4️⃣ إعدادات المسؤول والنسخ الاحتياطي للإعدادات (Enterprise Admin Settings & Config Backup)
-تتيح ضبط معايير حساب الـ `QoS %`، فترات الفحص، إعدادات صافرات الإنذار، بالإضافة إلى تصدير واستيراد ملفات الإعدادات (`Export Config` / `Import Config`):
+### 4️⃣ إعدادات المسؤول، منع السكون 24/7، والنسخ الاحتياطي المشفر (Enterprise Admin Settings, Keep-Awake & Encrypted .nmcfg Backup)
+تتيح ضبط حسابات الأدمن والمشرف، وتحديد صلاحيات المشرف بدقة، وتفعيل خيار **`Prevent Windows Sleep & Screensaver While Program is Running (24/7 NOC Keep-Awake)`** لمنع الجهاز من الدخول في وضع السكون أو شاشة التوقف أثناء عمل البرنامج، وضبط صافرة الطوارئ الجماعية (`Continuous Outage Siren & 15m Auto-Resume`)، بالإضافة إلى تصدير واستيراد ملفات الإعدادات المشفرة بالكامل (**`Export / Import Encrypted .nmcfg`**):
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/ent_04_admin_settings_export_import.png" alt="Enterprise 04 - Admin Settings & Config Export/Import" width="75%" />
@@ -314,8 +322,8 @@
 
 ---
 
-### 5️⃣ الخريطة الحرارية الشهرية 30 يوماً ومؤشرات الجودة (Enterprise 30-Day QoS & Stability Heatmap)
-تعرض سجل الاستقرار الكامل لآخر 30 يوماً لكافة الفروع، راوترات المايكروتك، السيرفرات، السويتشات، وأجهزة الـ NVR مع نسب التواجد (`Uptime %`) ومؤشرات الجودة:
+### 5️⃣ الخريطة الحرارية الشهرية 30 يوماً ومؤشرات الجودة والطباعة بالعرض (Enterprise 30-Day QoS Heatmap & A4 Landscape Print)
+تعرض سجل الاستقرار الكامل لآخر 30 يوماً لكافة الفروع، راوترات المايكروتك، السيرفرات، السويتشات، وأجهزة الـ NVR مع نسب التواجد (`Uptime %`) ومؤشرات جودة الخدمة (`QoS %`)، مع إمكانية تصفير السجل (**`Reset Heatmap`**) أو طباعة التقرير بالعرض (**`Print HTML Report — A4 Landscape`**) بترقيم تلقائي لكل صفحة (`Page X of Y`):
 
 <div align="center">
 <img src="5_Screenshots_and_Assets/ent_05_heatmap_qos_30d.png" alt="Enterprise 05 - 30-Day QoS Heatmap" width="92%" />
@@ -324,28 +332,101 @@
 ---
 
 ### 6️⃣ الخريطة الحرارية اليومية 24 ساعة لنسخة المؤسسات (Enterprise 24-Hour Stability Matrix)
-متابعة دقيقة على مدار 24 ساعة لكافة خطوط الربط والسيرفرات ومعدات الشبكة:
+متابعة دقيقة على مدار 24 ساعة ساعة بساعة لكافة خطوط الربط والسيرفرات ومعدات الشبكة مع حساب لحظي لجودة الخدمة:
 
 <div align="center">
-<img src="5_Screenshots_and_Assets/ent_06_heatmap_24h.png" alt="Enterprise 06 - 24-Hour Heatmap" width="92%" />
+<img src="5_Screenshots_and_Assets/ent_06_heatmap_qos_24h.png" alt="Enterprise 06 - 24-Hour Heatmap" width="92%" />
 </div>
 
 ---
 
-### 7️⃣ الإشعارات الجانبية عند سقوط السيرفرات في نسخة المؤسسات (Enterprise Server-Down Side Alerts)
+### 7️⃣ نافذة الفحص الحي للمايكروتك وتتبع المسار واختيار فترة التقرير (Enterprise Live Inspector & Report Period Picker)
+تعرض نافذة الفحص الحي تفاصيل الجهاز، عداد الـ `TIMEOUT` المستمر، استهلاك موارد السيرفر (`CPU / RAM / Disk`)، وأزرار **`Check / Ping Now`** و**`Live Traceroute`** و**`Remote Reboot`**، وبجوارها نافذة اختيار فترة التقرير (`24h / 7d / 30d`) للطباعة بالعرض:
+
+<div align="center">
+<img src="5_Screenshots_and_Assets/ent_07_inspector_mikrotik_report_picker.png" alt="Enterprise 07 - Live Inspector & Report Period Picker" width="92%" />
+</div>
+
+---
+
+### 8️⃣ الإشعارات الجانبية عند سقوط السيرفرات في نسخة المؤسسات (Enterprise Server-Down Side Alerts)
 ظهور الإشعارات الجانبية الفورية على يمين الشاشة في نسخة المؤسسات عند توقف أي سيرفر أو نقطة حيوية مع أزرار الكتم المؤقت (`Mute 15m`) والإغلاق (`Dismiss`):
 
 <div align="center">
-<img src="5_Screenshots_and_Assets/ent_07_server_down_side_alert.png" alt="Enterprise 07 - Server Down Side Alert Notifications" width="95%" />
+<img src="5_Screenshots_and_Assets/ent_07_server_down_side_alert.png" alt="Enterprise 08 - Server Down Side Alert Notifications" width="95%" />
 </div>
 
 ---
 
-### 8️⃣ بطاقة معلومات نسخة المؤسسات وبيانات المطور (Enterprise About & Licensing Dialog)
+### 9️⃣ مركز الإشعارات الموحد: ربط الواتساب المباشر بالـ QR Code + زر Generate / Refresh QR + منع الحظر + إيميل Gmail SMTP
+نافذة **`Notifications Center`** الموحدة في نسخة المؤسسات وتنقسم إلى قسمين رئيسيين:
+1. **قسم البريد الإلكتروني (`1. SMTP EMAIL ALERTS` على اليسار):**
+   - مضبوط افتراضياً على **`smtp.gmail.com`** مع زر إعداد سريع **`Gmail`** ودعم أوتوماتيكي لبورت **`587 (STARTTLS)`** وبورت **`465 (Implicit SSL)`**.
+   - يدعم إدخال **`Google App Password`** (المكون من 16 حرفاً) مع إزالة المسافات تلقائياً وزر إظهار/إخفاء **`[*]`**، وتحديد الإيميلات المستلمة (`Recipients`)، واختيار أحداث الإرسال (`Confirmed Outage DOWN`, `Service Recovery UP`, `Service Instability UNSTABLE`)، وزر اختبار فوري **`Send Test Email Now`**.
+2. **قسم إشعارات الواتساب الفورية (`2. WHATSAPP INSTANT ALERTS` على اليمين):**
+   - **الربط المباشر بالـ QR Code (`0. Direct WhatsApp QR Code Link`):** يعرض مربع الباركود مباشرة داخل النافذة مع إمكانية الضغط عليه لتكبيره، ويعمل على **جميع أجهزة ويندوز بدون استثناء** بفضل المحرك العالمي المتعدد (`Firefox + Edge + Chrome + Brave`).
+   - **زر `Generate / Refresh QR`:** لتوليد كود QR جديد فوراً أو تحديثه في حال انتهاء صلاحيته.
+   - **حفظ الجلسة التلقائي المشفر (`Persistent AES-256 / DPAPI Session`):** تظل الجلسة متصلة وتستكمل الإرسال تلقائياً حتى بعد إعادة تشغيل الجهاز (`Restart`) دون الحاجة لإعادة مسح الكود، مع زر **`Logout Session`** لإنهاء الجلسة ومسحها بأمان.
+   - **نظام منع الحظر وتغيير الرسائل والتوقيت 12 ساعة (`Anti-Ban Multi-Template Rotator + 12h AM/PM`):** يبدل تلقائياً بين **5 صياغات نصية مختلفة لكل مشكلة** (سقوط، عدم استقرار، عودة) مع إضافة كود عشوائي (`#NOC-XXXX`) وتاريخ ووقت الإرسال بنظام **12 ساعة (`AM/PM`)**، مع زر **`Preview Anti-Ban`** لمعاينة الرسائل وزر **`Send Test WhatsApp Now`**:
+
+<div align="center">
+<img src="5_Screenshots_and_Assets/ent_09_notifications_whatsapp_qr.png" alt="Enterprise 09 - Notifications Center: WhatsApp QR Code & Gmail SMTP" width="92%" />
+</div>
+
+---
+
+### 🔟 تقرير عدم استقرار الخدمة وتقطيع البنج والطباعة بالعرض المرقمة (`Service Instability & Ping Flapping Report — UNSTABLE Not DOWN`)
+نافذة تحليلية متخصصة ترصد الخطوط والفروع والسيرفرات التي تعاني من **تقطيع متكرر في البنج (`Ping Drops / Packet Flapping`)** يعود قبل اكتمال مهلة السقوط الكامل، فتُصنف الحالة بدقة كـ **`UNSTABLE (NOT DOWN)`** (غير مستقر وليس ساقطاً بالكامل):
+- تعرض بطاقات ملخص تنفيذي لإجمالي الأجهزة غير المستقرة، إجمالي نوبات التقطيع (`Drop Episodes`)، عدد الحزم المفقودة (`Lost Requests`)، وإجمالي ثواني التقطيع.
+- رسم بياني لتوزيع نوبات التقطيع على مدار الـ **24 ساعة (`24-Hour Instability Distribution`)** وقائمة أكثر الأجهزة تقطيعاً (`Top Unstable Nodes`).
+- جدول تفصيلي لكل جهاز وجدول زمني لكل واقعة تقطيع بالساعة والدقيقة والثانية، مع زر **`Reset Instability`** لتصفير السجل، وزر **`Print HTML Report`** لطباعة التقرير **بالعرض (`A4 Landscape`)** مع **ترقيم تلقائي لكل ورقة (`Page X of Y`)**:
+
+<div align="center">
+<img src="5_Screenshots_and_Assets/ent_10_instability_report.png" alt="Enterprise 10 - Service Instability & Ping Drop Analytics Report" width="95%" />
+</div>
+
+---
+
+### 1️⃣1️⃣ الخريطة التفاعلية الحية للشبكة (`Interactive Visual Network Topology Map`)
+خريطة رسومية تفاعلية حية توضح هيكل الشبكة بالكامل بدءاً من بوابة الإنترنت الرئيسية (**`ISP Internet Gateway`**) مروراً براوتر المايكروتك المركزي (**`Master MikroTik CCR2004`**) ووصولاً إلى جميع **فروع الـ VPN** و**السيرفرات والسويتشات وأنظمة الكاميرات**، مع إشارات ضوئية متحركة تمثل تدفق البيانات اللحظي، وعرض حالة كل نقطة وزمن البنج واستهلاك الموارد (`CPU / RAM / Disk`)، وإمكانية الضغط على أي جهاز لفتح نافذة الفحص المباشر:
+
+<div align="center">
+<img src="5_Screenshots_and_Assets/ent_11_topology_map.png" alt="Enterprise 11 - Interactive Visual Network Topology Map" width="92%" />
+</div>
+
+---
+
+### 1️⃣2️⃣ الفاحص التلقائي للشبكة واكتشاف الأجهزة المتصلة (`Auto Network & IP Subnet Scanner`)
+أداة مدمجة لفحص أي نطاق عناوين IP على الشبكة المحلية أو فروع الـ VPN بضغطة زر:
+- زر **`Auto Subnet`** يكتشف نطاق الشبكة الحالية تلقائياً، وزر **`Scan Network Now`** يفحص النطاق بالكامل بسرعة فائقة عبر خيوط متوازية (`Multi-Threaded Scanner`).
+- يتعرف الفاحص تلقائياً على نوع كل جهاز متصل عبر البورتات المفتوحة: **`MikroTik RouterOS (8728/8291)`**، **`Windows Server / PC (445/3389)`**، **`Linux / SSH Server (22)`**، **`Switch / DVR / IP Cam (80/554)`**، أو **`Branch / IP Gateway (ICMP)`**.
+- يمكنك تحديد الأجهزة المكتشفة بعلامة `[✓]` والضغط على **`+ Add Checked to Monitor`** لإضافتها جميعاً لشاشة المراقبة الحية فوراً:
+
+<div align="center">
+<img src="5_Screenshots_and_Assets/ent_12_ip_scanner.png" alt="Enterprise 12 - Auto Network & IP Subnet Scanner" width="90%" />
+</div>
+
+---
+
+### 1️⃣3️⃣ سجل التدقيق الأمني وتوثيق رسائل الواتساب والإيميل المرسلة في اللوج (`Security Audit Log & Notification Dispatch Log`)
+يسجل البرنامج تلقائياً كافة العمليات الإدارية بالإضافة إلى **تسجيل تفصيلي كامل لكل رسالة واتساب أو بريد إلكتروني يتم إرسالها** (`WHATSAPP_SENT_DOWN`, `EMAIL_SENT_DOWN`, `WHATSAPP_SENT_INSTABILITY`, `WHATSAPP_SENT_RECOVERED`) شاملاً:
+- **تاريخ ووقت الإرسال بنظام 12 ساعة (`AM/PM`)**
+- **اسم الفرع أو السيرفر وعنوان الـ IP**
+- **رقم الهاتف أو البريد الإلكتروني المستلم وبوابة الإرسال (`Direct WhatsApp QR Session` / `smtp.gmail.com:587`)**
+- **رقم القالب النصي والكود العشوائي المرسل (`Template # & Token #NOC-XXXX`)**
+مع إمكانية البحث الفوري في السجل وتصديره إلى ملف **`CSV`** عبر زر **`Export Audit CSV`**:
+
+<div align="center">
+<img src="5_Screenshots_and_Assets/ent_13_audit_dispatch_log.png" alt="Enterprise 13 - Security Audit & Notification Dispatch Log" width="92%" />
+</div>
+
+---
+
+### 1️⃣4️⃣ بطاقة معلومات نسخة المؤسسات وبيانات المطور (`Enterprise About & Licensing Dialog`)
 توضح تفاصيل إصدار **`Network Monitor Professional Tool v1.0 - Enterprise`** وبيانات التواصل المباشر للحصول على النسخة المؤسسية والدعم الفني:
 
 <div align="center">
-<img src="5_Screenshots_and_Assets/ent_08_about.png" alt="Enterprise 08 - About Enterprise Edition" width="65%" />
+<img src="5_Screenshots_and_Assets/ent_08_about.png" alt="Enterprise 14 - About Enterprise Edition" width="65%" />
 </div>
 
 ---
@@ -362,8 +443,8 @@
    - **حساب المشرف (`Supervisor`):** اسم المستخدم `supervisor` | كلمة المرور `IT@Salemtechno`
 3. **إضافة الفروع والسيرفرات:**
    - اضغط على زر **`+ Add Branch / Server`** في أعلى اليسار لإضافة عناوين الـ IP الخاصة بفروع الـ VPN والسيرفرات الخاصة بك.
-4. **تفعيل وضع شاشة غرفة العمليات (`NOC Wallboard Mode`):**
-   - اضغط على **`Full Screen (F11)`** لعرض اللوحة بملء الشاشة على شاشات المراقبة في قسم الـ IT.
+4. **تفعيل وضع منع السكون وشاشة غرفة العمليات (`24/7 Keep-Awake & NOC Wallboard Mode`):**
+   - من داخل **`Admin Settings`** يمكنك تفعيل خيار **`Prevent Windows Sleep & Screensaver (24/7 NOC Keep-Awake)`**، والضغط على **`Full Screen (F11)`** لعرض اللوحة بملء الشاشة على شاشات المراقبة في قسم الـ IT.
 
 ---
 
