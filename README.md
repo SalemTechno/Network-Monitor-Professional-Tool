@@ -10,29 +10,43 @@
 ### **Free Community Edition & Enterprise NOC Edition Showcase**
 ### **الأداة الاحترافية لمراقبة الشبكات، فروع الـ VPN، السيرفرات، أجهزة MikroTik، السويتشات وكاميرات المراقبة**
 
-<p align="center">
-  <a href="https://github.com/SalemTechno/Network-Monitor-Professional-Tool/releases"><img src="https://img.shields.io/badge/Release-v1.0%20Free%20%26%20Enterprise-00FF88?style=for-the-badge&logo=windows&logoColor=white" alt="Release" /></a>
-  <a href="https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Full%20Package%20(ZIP)-00B4D8?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP" /></a>
-  <a href="#-default-login-credentials--بيانات-تسجيل-الدخول-وباسورد-الأدمن"><img src="https://img.shields.io/badge/Admin%20Login-admin%20%2F%20Admin%40Salemtechno-FF9F1C?style=for-the-badge&logo=microsoft&logoColor=white" alt="Admin Login" /></a>
-  <a href="https://www.salemtechno.com"><img src="https://img.shields.io/badge/Website-salemtechno.com-2EC4B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://wa.me/201000920353"><img src="https://img.shields.io/badge/WhatsApp%20%2F%20Tel-01000920353-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center">🚀 <b>الإصدار (Release)</b><br/><a href="#-repository-folders--direct-downloads--هيكل-المجلدات-والتحميل-المباشر"><kbd><b>v1.0 Free &amp; Enterprise</b></kbd></a></td>
+    <td align="center">📦 <b>التحميل الكامل (Full Package)</b><br/><a href="https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip"><kbd><b>⬇️ Download Full ZIP</b></kbd></a></td>
+    <td align="center">🔑 <b>بيانات الدخول (Default Login)</b><br/><a href="#-default-login-credentials--بيانات-تسجيل-الدخول-وباسورد-الأدمن"><code>admin</code> / <code>Admin@Salemtechno</code></a></td>
+    <td align="center">🌐 <b>الموقع الرسمي (Official Website)</b><br/><a href="https://www.salemtechno.com/"><kbd><b>www.salemtechno.com</b></kbd></a></td>
+    <td align="center">💬 <b>تواصل واتساب (WhatsApp / Tel)</b><br/><a href="https://wa.me/201000920353"><kbd><b>📞 01000920353</b></kbd></a></td>
+  </tr>
+</table>
 
-| 👨‍💻 **المطور (Developed By)** | 🏢 **الشركة (Company)** | 📞 **الهاتف / واتساب (Tel / WhatsApp)** | 🌐 **الموقع الرسمي (Official Website)** |
-| :---: | :---: | :---: | :---: |
-| **Eng. Mahmoud Salem**<br/>**(مهندس محمود سالم)** | **[Salem Techno IT Solutions](https://www.salemtechno.com/)** | **`01000920353`** | **[https://www.salemtechno.com](https://www.salemtechno.com/)** |
+<table>
+  <tr>
+    <td align="center">👨‍💻 <b>المطور (Developed By)</b><br/><b>Eng. Mahmoud Salem (مهندس محمود سالم)</b></td>
+    <td align="center">🏢 <b>الشركة (Company)</b><br/><a href="https://www.salemtechno.com/"><b>Salem Techno IT Solutions</b></a></td>
+    <td align="center">📞 <b>الهاتف / واتساب (Tel / WhatsApp)</b><br/><code>01000920353</code></td>
+    <td align="center">🌐 <b>الموقع الرسمي (Official Website)</b><br/><a href="https://www.salemtechno.com/"><b>https://www.salemtechno.com</b></a></td>
+  </tr>
+</table>
 
 ---
 
 ### 🔗 Quick Navigation | انتقال سريع
-[📥 التحميل المباشر (Direct Downloads)](#-repository-folders--direct-downloads--هيكل-المجلدات-والتحميل-المباشر) •
-[🔑 باسورد الأدمن وبيانات الدخول (Admin Password)](#-default-login-credentials--بيانات-تسجيل-الدخول-وباسورد-الأدمن) •
-[📸 شرح وصور النسخة المجانية (Free Edition Tour)](#-visual-tour--interface-guide-free-edition--شرح-مصوّر-لواجهات-النسخة-المجانية) •
-[🚨 الإشعارات الجانبية عند سقوط السيرفرات (Side Alerts)](#-8️⃣-الإشعارات-الجانبية-الفورية-عند-سقوط-سيرفر-أو-فرع-live-side-alert-notifications) •
-[🚀 شرح وصور نسخة المؤسسات (Enterprise Edition Showcase)](#-enterprise-edition-showcase) •
-[📲 ربط الواتساب بالـ QR والإيميل واللوج (WhatsApp QR & Logs)](#-9️⃣-مركز-الإشعارات-الموحد-ربط-الواتساب-المباشر-بالـ-qr-code--زر-generate--refresh-qr--منع-الحظر--إيميل-gmail-smtp) •
-[📊 مقارنة الإصدارات (Free vs. Enterprise)](#-comparison-free-edition-vs-enterprise-edition--مقارنة-الإصدارات) •
-[👨‍💻 تواصل مع المطور (Contact Developer)](#-developer--contact-information--بيانات-المطور-والتواصل-وطلب-نسخة-المؤسسات)
+
+<table>
+  <tr>
+    <td align="center"><a href="#-repository-folders--direct-downloads--هيكل-المجلدات-والتحميل-المباشر"><b>📥 التحميل المباشر<br/>(Direct Downloads)</b></a></td>
+    <td align="center"><a href="#-default-login-credentials--بيانات-تسجيل-الدخول-وباسورد-الأدمن"><b>🔑 باسورد الأدمن<br/>(Admin Password)</b></a></td>
+    <td align="center"><a href="#-visual-tour--interface-guide-free-edition--شرح-مصوّر-لواجهات-النسخة-المجانية"><b>📸 شرح النسخة المجانية<br/>(Free Edition Tour)</b></a></td>
+    <td align="center"><a href="#-8️⃣-الإشعارات-الجانبية-الفورية-عند-سقوط-سيرفر-أو-فرع-live-side-alert-notifications"><b>🚨 الإشعارات الجانبية<br/>(Side Outage Alerts)</b></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#-enterprise-edition-showcase"><b>🚀 نسخة المؤسسات<br/>(Enterprise Showcase)</b></a></td>
+    <td align="center"><a href="#-9️⃣-مركز-الإشعارات-الموحد-ربط-الواتساب-المباشر-بالـ-qr-code--زر-generate--refresh-qr--منع-الحظر--إيميل-gmail-smtp"><b>📲 ربط الواتساب والـ QR<br/>(WhatsApp QR &amp; Logs)</b></a></td>
+    <td align="center"><a href="#-comparison-free-edition-vs-enterprise-edition--مقارنة-الإصدارات"><b>📊 مقارنة الإصدارات<br/>(Free vs. Enterprise)</b></a></td>
+    <td align="center"><a href="#-developer--contact-information--بيانات-المطور-والتواصل-وطلب-نسخة-المؤسسات"><b>👨‍💻 تواصل مع المطور<br/>(Contact Developer)</b></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -243,7 +257,7 @@
    - **تسجيل تفصيلي لكل رسالة واتساب وإيميل في اللوج (`Full WhatsApp & Email Dispatch Logging`):** عند إرسال أي رسالة واتساب أو بريد إلكتروني (سواء تنبيه سقوط أو عودة أو عدم استقرار أو رسالة اختبار)، يسجل البرنامج فوراً كافة تفاصيل الرسالة (اسم الفرع/السيرفر، الـ IP، الرقم أو الإيميل المستلم، بوابة الإرسال، وحالة الوصول بالتوقيت 12 ساعة) في كل من **سجل الأحداث الحي على الشاشة الرئيسية (`Live Event Log`)** و**سجل التدقيق الأمني (`Audit Log`)**.
    - **نظام منع الحظر وتغيير صياغة الرسائل (`Anti-Ban Multi-Template Message Rotator`):** يحتوي البرنامج على **5 قوالب وصيغ نصية مختلفة لكل حالة** (سقوط كامل `CRITICAL DOWN`، عدم استقرار وتقطيع `SERVICE UNSTABLE`، عودة للعمل `RECOVERED ONLINE`، وسقوط جماعي `MASS OUTAGE`) ويقوم بالتبديل التلقائي بينها في كل إشعار مع إضافة كود مرجعي عشوائي فريد (**`#NOC-XXXX`**) وفاصل زمني يحاكي الكتابة البشرية لمنع البلوكات.
    - **التاريخ والوقت بنظام 12 ساعة (`12-Hour AM/PM Timestamp`):** يُكتب في كل رسالة واتساب وإيميل وقت وتاريخ الإرسال الدقيق بالصيغة **`Sent On: dd/MM/yyyy — hh:mm:ss AM/PM`**.
-   - **دعم 6 بوابات واتساب + بريد إلكتروني مشفر (`smtp.gmail.com` Port 465 SSL & Port 587 STARTTLS):** يدعم الربط المباشر بالـ QR Code بالإضافة إلى `Meta Official WhatsApp Cloud API (v20.0)`، `UltraMsg`، `Green-API`, `CallMeBot`، و`Custom Webhook`، مع دعم كامل لإرسال إيميلات `Gmail SMTP` عبر بورت `465` (Implicit SSL) وبورت `587` (STARTTLS) تلقائياً.
+   - **دعم 6 بوابات واتساب + بريد إلكتروني مشفر (`smtp.gmail.com` Port 465 SSL & Port 587 STARTTLS):** يدعم الربط المباشر بالـ QR Code بالإضافة إلى `Meta Official WhatsApp Cloud API (v20.0)`، `UltraMsg`، `Green-API`، `CallMeBot`، و`Custom Webhook`، مع دعم كامل لإرسال إيميلات `Gmail SMTP` عبر بورت `465` (Implicit SSL) وبورت `587` (STARTTLS) تلقائياً.
 
 6. **📉 تقرير عدم استقرار الخدمة والطباعة بالعرض بترقيم الصفحات (`Service Instability Report & Landscape Page-Numbered Printing`):**
    - تقرير تحليلي مفصل ومستقل يرصد نوبات قطع البنج السريعة التي تعود قبل مهلة تأكيد الانقطاع (`UNSTABLE — NOT DOWN`)، مع خريطة توزيع الـ 24 ساعة ودعم التكبير **`F11 Full Screen`**.
