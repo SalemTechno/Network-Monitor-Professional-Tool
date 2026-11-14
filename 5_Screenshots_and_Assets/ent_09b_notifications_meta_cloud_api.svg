@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="996" height="650" viewBox="0 0 996 650" font-family="Segoe UI, Consolas, Arial, sans-serif">
+  <defs>
+    <pattern id="grid2" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#0b261c" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="996" height="650" fill="#cbd5e1" rx="6"/>
+  <rect x="0" y="0" width="996" height="30" fill="#dbeafe" rx="6"/>
+  <circle cx="16" cy="15" r="8" fill="#064e3b" stroke="#00ff88" stroke-width="1.5"/>
+  <text x="32" y="20" fill="#334155" font-size="12.5" font-weight="600">Notifications Center - SMTP Email &amp; WhatsApp (Meta Official Cloud API + Optional Utility Template)</text>
+  <rect x="950" y="5" width="38" height="20" rx="3" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="965" y="19" fill="#334155" font-size="12" font-weight="bold">X</text>
+
+  <rect x="6" y="30" width="984" height="614" fill="#040d0a"/>
+  <rect x="6" y="30" width="984" height="614" fill="url(#grid2)"/>
+  <rect x="9" y="33" width="978" height="608" fill="none" stroke="#00ff88" stroke-width="2" rx="4"/>
+
+  <rect x="20" y="44" width="956" height="42" rx="8" fill="#082419" stroke="#00ff88" stroke-width="1.4"/>
+  <text x="36" y="70" fill="#00ff88" font-size="14" font-weight="bold">NOTIFICATIONS CENTER - SMTP EMAIL (smtp.gmail.com) &amp; WHATSAPP INSTANT GATEWAYS</text>
+
+  <rect x="20" y="96" width="466" height="456" rx="10" fill="#071a26" stroke="#38bdf8" stroke-width="1.3"/>
+  <text x="36" y="122" fill="#38bdf8" font-size="13" font-weight="bold">1. SMTP EMAIL ALERTS (DEFAULT: smtp.gmail.com | TLS 587)</text>
+  <rect x="36" y="136" width="14" height="14" fill="#ffffff"/><text x="39" y="148" fill="#0284c7" font-size="12" font-weight="bold">v</text>
+  <text x="56" y="148" fill="#4ade80" font-size="12.5" font-weight="bold">Enable Automatic SMTP Email Alerts</text>
+
+  <text x="36" y="182" fill="#cbd5e1" font-size="12">SMTP Host:</text>
+  <rect x="114" y="164" width="132" height="26" fill="#041019" stroke="#475569"/>
+  <text x="120" y="181" fill="#ffffff" font-size="12">smtp.gmail.com</text>
+  <text x="256" y="182" fill="#cbd5e1" font-size="12">Port:</text>
+  <rect x="290" y="164" width="52" height="26" fill="#041019" stroke="#475569"/>
+  <text x="300" y="181" fill="#4ade80" font-size="12" font-weight="bold">587</text>
+  <rect x="352" y="170" width="13" height="13" fill="#ffffff"/><text x="355" y="181" fill="#0284c7" font-size="11" font-weight="bold">v</text>
+  <text x="370" y="181" fill="#ffffff" font-size="11.5" font-weight="bold">SSL/TLS</text>
+  <rect x="422" y="162" width="52" height="29" rx="5" fill="#0369a1" stroke="#38bdf8"/>
+  <text x="448" y="181" fill="#ffffff" font-size="11.5" font-weight="bold" text-anchor="middle">Gmail</text>
+
+  <text x="36" y="218" fill="#cbd5e1" font-size="12">Sender Email:</text>
+  <rect x="142" y="200" width="330" height="26" fill="#041019" stroke="#475569"/>
+  <text x="148" y="217" fill="#ffffff" font-size="12">noc.alerts@company-demo.local</text>
+
+  <text x="36" y="254" fill="#cbd5e1" font-size="12">App Password:</text>
+  <rect x="142" y="236" width="292" height="26" fill="#041019" stroke="#475569"/>
+  <text x="148" y="254" fill="#ffffff" font-size="12">****************</text>
+  <rect x="438" y="235" width="34" height="28" rx="5" fill="#0d7a49" stroke="#4ade80"/>
+  <text x="455" y="254" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle">*</text>
+
+  <text x="36" y="278" fill="#facc15" font-size="10.5" font-weight="bold">For smtp.gmail.com: Use a 16-character Google App Password from</text>
+  <text x="36" y="293" fill="#facc15" font-size="10.5" font-weight="bold">myaccount.google.com/apppasswords (spaces stripped automatically).</text>
+
+  <text x="36" y="322" fill="#cbd5e1" font-size="12">Recipients (To):</text>
+  <rect x="142" y="304" width="330" height="26" fill="#041019" stroke="#475569"/>
+  <text x="148" y="321" fill="#ffffff" font-size="11.5">it.admin@company-demo.local, noc.team@company-demo.local</text>
+
+  <text x="36" y="366" fill="#fbbf24" font-size="11.5" font-weight="bold">EMAIL ALERT TRIGGER EVENTS:</text>
+  <rect x="36" y="378" width="13" height="13" fill="#ffffff"/><text x="39" y="389" fill="#0284c7" font-size="11" font-weight="bold">v</text>
+  <text x="55" y="389" fill="#ffffff" font-size="12">Confirmed Outage (CRITICAL DOWN)</text>
+  <rect x="36" y="404" width="13" height="13" fill="#ffffff"/><text x="39" y="415" fill="#0284c7" font-size="11" font-weight="bold">v</text>
+  <text x="55" y="415" fill="#ffffff" font-size="12">Service Recovery Online (RECOVERED UP)</text>
+  <rect x="36" y="430" width="13" height="13" fill="#ffffff"/><text x="39" y="441" fill="#0284c7" font-size="11" font-weight="bold">v</text>
+  <text x="55" y="441" fill="#ffffff" font-size="12">Service Instability / Ping Flapping (UNSTABLE)</text>
+
+  <rect x="36" y="498" width="434" height="38" rx="6" fill="#0c4a6e" stroke="#38bdf8" stroke-width="1.3"/>
+  <text x="253" y="522" fill="#ffffff" font-size="12.5" font-weight="bold" text-anchor="middle">Send Test Email Now</text>
+
+  <rect x="506" y="96" width="470" height="456" rx="10" fill="#061e15" stroke="#4ade80" stroke-width="1.3"/>
+  <text x="522" y="122" fill="#4ade80" font-size="13" font-weight="bold">2. WHATSAPP INSTANT ALERTS (ALL 5 ENTERPRISE GATEWAYS)</text>
+  <rect x="522" y="136" width="14" height="14" fill="#ffffff"/><text x="525" y="148" fill="#047857" font-size="12" font-weight="bold">v</text>
+  <text x="542" y="148" fill="#4ade80" font-size="12.5" font-weight="bold">Enable Automatic WhatsApp Instant Alerts</text>
+
+  <text x="522" y="181" fill="#cbd5e1" font-size="12">Gateway Mode:</text>
+  <rect x="632" y="163" width="328" height="26" fill="#04130d" stroke="#4ade80"/>
+  <text x="640" y="180" fill="#ffffff" font-size="11.5" font-weight="bold">4. Meta Official WhatsApp Cloud API (Graph v20.0)</text>
+
+  <text x="522" y="216" fill="#cbd5e1" font-size="12">Phone Number ID:</text>
+  <rect x="632" y="198" width="328" height="26" fill="#04130d" stroke="#475569"/>
+  <text x="640" y="215" fill="#ffffff" font-size="12">105928471029384</text>
+
+  <text x="522" y="251" fill="#cbd5e1" font-size="12">Bearer Token:</text>
+  <rect x="632" y="233" width="288" height="26" fill="#04130d" stroke="#475569"/>
+  <text x="640" y="251" fill="#ffffff" font-size="12">****************************************</text>
+  <rect x="924" y="232" width="36" height="28" rx="5" fill="#0d7a49" stroke="#4ade80"/>
+  <text x="942" y="251" fill="#ffffff" font-size="13" font-weight="bold" text-anchor="middle">*</text>
+
+  <rect x="522" y="271" width="14" height="14" fill="#ffffff" stroke="#64748b"/>
+  <text x="542" y="283" fill="#fde047" font-size="11.5" font-weight="bold">Optional Meta Template (If Available):</text>
+  <rect x="756" y="266" width="106" height="24" fill="#04130d" stroke="#475569"/>
+  <text x="762" y="282" fill="#ffffff" font-size="11.5">noc_device_alert</text>
+  <rect x="866" y="266" width="46" height="24" fill="#04130d" stroke="#475569"/>
+  <text x="872" y="282" fill="#ffffff" font-size="11.5">en_US</text>
+  <rect x="916" y="264" width="46" height="28" rx="5" fill="#854d0e" stroke="#facc15"/>
+  <text x="939" y="282" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Guide</text>
+
+  <text x="522" y="317" fill="#cbd5e1" font-size="11.5">Phones (1-4):  #1:</text>
+  <rect x="632" y="300" width="144" height="25" fill="#04130d" stroke="#475569"/>
+  <text x="638" y="317" fill="#ffffff" font-size="11.5">+201000000001</text>
+  <text x="786" y="317" fill="#cbd5e1" font-size="11.5">#2:</text>
+  <rect x="810" y="300" width="150" height="25" fill="#04130d" stroke="#475569"/>
+  <text x="816" y="317" fill="#ffffff" font-size="11.5">+201000000002</text>
+
+  <text x="522" y="347" fill="#cbd5e1" font-size="11.5">Phones #3/#4: #3:</text>
+  <rect x="632" y="330" width="144" height="25" fill="#04130d" stroke="#475569"/>
+  <text x="638" y="347" fill="#ffffff" font-size="11.5">+201000000003</text>
+  <text x="786" y="347" fill="#cbd5e1" font-size="11.5">#4:</text>
+  <rect x="810" y="330" width="150" height="25" fill="#04130d" stroke="#475569"/>
+  <text x="816" y="347" fill="#ffffff" font-size="11.5">+201000000004</text>
+
+  <text x="522" y="374" fill="#fbbf24" font-size="11" font-weight="bold">WHATSAPP TRIGGERS &amp; PER-NUMBER DISTINCT TEMPLATE (12H AM/PM):</text>
+  <rect x="522" y="384" width="13" height="13" fill="#ffffff"/><text x="525" y="395" fill="#047857" font-size="11" font-weight="bold">v</text>
+  <text x="541" y="395" fill="#ffffff" font-size="11.5">Confirmed Outage (CRITICAL DOWN)</text>
+  <rect x="522" y="407" width="13" height="13" fill="#ffffff"/><text x="525" y="418" fill="#047857" font-size="11" font-weight="bold">v</text>
+  <text x="541" y="418" fill="#ffffff" font-size="11.5">Service Recovery Online (RECOVERED UP)</text>
+  <rect x="522" y="430" width="13" height="13" fill="#ffffff"/><text x="525" y="441" fill="#047857" font-size="11" font-weight="bold">v</text>
+  <text x="541" y="441" fill="#ffffff" font-size="11.5">Service Instability / Ping Flapping (UNSTABLE)</text>
+  <rect x="522" y="453" width="13" height="13" fill="#ffffff"/><text x="525" y="464" fill="#047857" font-size="11" font-weight="bold">v</text>
+  <text x="541" y="464" fill="#86efac" font-size="11.5">Anti-Ban: Send Different Template to Each of the 1-4 Numbers (12h)</text>
+  <rect x="522" y="476" width="13" height="13" fill="#ffffff"/><text x="525" y="487" fill="#047857" font-size="11" font-weight="bold">v</text>
+  <text x="541" y="487" fill="#7dd3fc" font-size="11.5">Anti-Ban: Append Random Token &amp; Human Typing Delay (#NOC-XXXX)</text>
+
+  <rect x="522" y="498" width="438" height="38" rx="6" fill="#0d7a49" stroke="#4ade80" stroke-width="1.3"/>
+  <text x="741" y="522" fill="#ffffff" font-size="12.5" font-weight="bold" text-anchor="middle">Send Test WhatsApp Now (12h + Anti-Ban + Auto-Fallback)</text>
+
+  <text x="26" y="574" fill="#4ade80" font-size="11.5" font-weight="bold">Optional Meta Template unchecked = Sends normal Anti-Ban messages automatically (or falls back automatically if template unavailable).</text>
+  <rect x="24" y="588" width="256" height="40" rx="6" fill="#0c5c78" stroke="#38bdf8"/>
+  <text x="152" y="613" fill="#ffffff" font-size="12.5" font-weight="bold" text-anchor="middle">Test Desktop Popup &amp; WAV</text>
+  <rect x="296" y="588" width="496" height="40" rx="6" fill="#0d7a49" stroke="#4ade80"/>
+  <text x="544" y="613" fill="#ffffff" font-size="12.5" font-weight="bold" text-anchor="middle">Save Notification Settings</text>
+  <rect x="808" y="588" width="164" height="40" rx="6" fill="#7f1d2d" stroke="#f87171"/>
+  <text x="890" y="613" fill="#ffffff" font-size="12.5" font-weight="bold" text-anchor="middle">Close</text>
+</svg>
