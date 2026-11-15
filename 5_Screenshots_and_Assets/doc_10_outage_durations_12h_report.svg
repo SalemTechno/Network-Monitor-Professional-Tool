@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="690" viewBox="0 0 1160 690" font-family="Segoe UI, Consolas, Arial, sans-serif">
+  <defs>
+    <pattern id="gridFree10" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#0a2420" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1160" height="690" fill="#cbd5e1" rx="6"/>
+  <rect x="0" y="0" width="1160" height="28" fill="#dcfce7" rx="6"/>
+  <circle cx="15" cy="14" r="7.5" fill="#065f46" stroke="#10b981" stroke-width="1.5"/>
+  <text x="30" y="19" fill="#1e293b" font-size="12" font-weight="600">Outage Durations &amp; 12-Hour (From -&gt; To AM/PM) Multi-Outage Report - Free Community Edition v1.0</text>
+  <rect x="1116" y="4" width="36" height="20" rx="3" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="1130" y="18" fill="#334155" font-size="11.5" font-weight="bold">X</text>
+
+  <rect x="5" y="28" width="1150" height="657" fill="#040e12"/>
+  <rect x="5" y="28" width="1150" height="657" fill="url(#gridFree10)"/>
+  <rect x="8" y="31" width="1144" height="651" fill="none" stroke="#10b981" stroke-width="2" rx="4"/>
+
+  <!-- Header -->
+  <rect x="20" y="40" width="1120" height="40" rx="8" fill="#0d2622" stroke="#10b981" stroke-width="1.4"/>
+  <text x="34" y="65" fill="#6ee7b7" font-size="13.5" font-weight="bold">OUTAGE DURATIONS &amp; 12-HOUR (FROM -&gt; TO AM/PM) MULTI-OUTAGE REPORT (FREE EDITION)</text>
+  <text x="1126" y="65" fill="#fde047" font-size="12.5" font-weight="bold" text-anchor="end">12H CLOCK: 2026-11-15  |  04:10:00 AM</text>
+
+  <!-- Toolbar -->
+  <rect x="20" y="88" width="96" height="32" rx="6" fill="#143e4e" stroke="#58afa5"/>
+  <text x="68" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Today (24h)</text>
+  <rect x="122" y="88" width="100" height="32" rx="6" fill="#143e4e" stroke="#58afa5"/>
+  <text x="172" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Last 7 Days</text>
+  <rect x="228" y="88" width="106" height="32" rx="6" fill="#059669" stroke="#6ee7b7" stroke-width="1.5"/>
+  <text x="281" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Last 30 Days</text>
+  <rect x="340" y="88" width="94" height="32" rx="6" fill="#143e4e" stroke="#58afa5"/>
+  <text x="387" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">All History</text>
+
+  <rect x="440" y="90" width="210" height="28" rx="4" fill="#0c1a26" stroke="#fde047"/>
+  <text x="450" y="108" fill="#fde047" font-size="11" font-weight="bold">All Branches &amp; Server (v)</text>
+
+  <rect x="658" y="88" width="132" height="32" rx="6" fill="#991b1b" stroke="#fca5a5"/>
+  <text x="724" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Save &amp; Print HTML</text>
+  <rect x="796" y="88" width="98" height="32" rx="6" fill="#0a8044" stroke="#34d399"/>
+  <text x="845" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Export CSV</text>
+  <rect x="900" y="88" width="108" height="32" rx="6" fill="#9a580c" stroke="#fde047"/>
+  <text x="954" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Reports Folder</text>
+  <rect x="1014" y="88" width="60" height="32" rx="6" fill="#14768a" stroke="#52e8f8"/>
+  <text x="1044" y="108" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">F11 Full</text>
+  <rect x="1080" y="88" width="60" height="32" rx="6" fill="#af202c" stroke="#ff7880"/>
+  <text x="1110" y="108" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">Close</text>
+
+  <!-- 5 KPI Cards -->
+  <rect x="20" y="128" width="216" height="56" rx="8" fill="#0b1a22" stroke="#38bdf8" stroke-width="1.3"/>
+  <text x="32" y="145" fill="#94a3b8" font-size="10" font-weight="bold">AFFECTED BRANCHES</text>
+  <text x="32" y="170" fill="#38bdf8" font-size="15" font-weight="bold">3 of 6 Nodes</text>
+
+  <rect x="246" y="128" width="216" height="56" rx="8" fill="#0b1a22" stroke="#fbbf24" stroke-width="1.3"/>
+  <text x="258" y="145" fill="#94a3b8" font-size="10" font-weight="bold">TOTAL OUTAGES COUNT</text>
+  <text x="258" y="170" fill="#fbbf24" font-size="15" font-weight="bold">6 Session(s)</text>
+
+  <rect x="472" y="128" width="216" height="56" rx="8" fill="#0b1a22" stroke="#f87171" stroke-width="1.3"/>
+  <text x="484" y="145" fill="#94a3b8" font-size="10" font-weight="bold">CURRENTLY OFFLINE (LIVE)</text>
+  <text x="484" y="170" fill="#f87171" font-size="15" font-weight="bold">1 Live DOWN</text>
+
+  <rect x="698" y="128" width="216" height="56" rx="8" fill="#0b1a22" stroke="#fc8181" stroke-width="1.3"/>
+  <text x="710" y="145" fill="#94a3b8" font-size="10" font-weight="bold">TOTAL COMBINED DOWNTIME</text>
+  <text x="710" y="170" fill="#fc8181" font-size="15" font-weight="bold">138 min (2h 18m)</text>
+
+  <rect x="924" y="128" width="216" height="56" rx="8" fill="#0b1a22" stroke="#34d399" stroke-width="1.3"/>
+  <text x="936" y="145" fill="#94a3b8" font-size="10" font-weight="bold">LONGEST SINGLE OUTAGE</text>
+  <text x="936" y="170" fill="#34d399" font-size="14" font-weight="bold">34 min (Branch 03 - VPN)</text>
+
+  <!-- Section 1 -->
+  <text x="20" y="204" fill="#fde047" font-size="11.5" font-weight="bold">1. PER-BRANCH TOTAL DOWNTIME &amp; MULTI-OUTAGE 12-HOUR INTERVALS SUMMARY (إجمالي مدة الانقطاع الكلية وكل مرات الفصل بالـ 12 ساعة لكل فرع)</text>
+  <rect x="20" y="210" width="1120" height="168" fill="#060f14" stroke="#1e293b"/>
+  <rect x="20" y="210" width="1120" height="26" fill="#0f232c"/>
+  <text x="28" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">Rank #</text>
+  <text x="115" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">Branch / Server</text>
+  <text x="285" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">IP Address</text>
+  <text x="380" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">Live Status</text>
+  <text x="505" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">Outage Count</text>
+  <text x="595" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">Total Downtime (Mins &amp; Full)</text>
+  <text x="765" y="227" fill="#6ee7b7" font-size="10.5" font-weight="bold">All Outage Sessions (From 12h AM/PM -&gt; To 12h AM/PM &amp; Duration)</text>
+
+  <!-- Grid 1 Rows -->
+  <rect x="21" y="236" width="1118" height="29" fill="#133330"/>
+  <text x="28" y="255" fill="#ffffff" font-size="10.5" font-weight="bold">#1 AFFECTED</text>
+  <text x="115" y="255" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 03 - East VPN</text>
+  <text x="285" y="255" fill="#ffffff" font-size="10.5">172.16.10.3</text>
+  <text x="380" y="255" fill="#f87171" font-size="10.5" font-weight="bold">OFFLINE (DOWN NOW)</text>
+  <text x="505" y="255" fill="#ffffff" font-size="10.5" font-weight="bold">3 time(s)</text>
+  <text x="595" y="255" fill="#fca5a5" font-size="10.5" font-weight="bold">79 min (1h 19m)</text>
+  <text x="765" y="255" fill="#fde047" font-size="10" font-weight="bold">#1) 01:15 PM -&gt; 01:49 PM (34m) | #2) 07:10 PM -&gt; 07:34 PM (24m) | #3) 03:49 AM -&gt; LIVE (21m)</text>
+
+  <line x1="20" y1="266" x2="1140" y2="266" stroke="#1e293b"/>
+  <text x="28" y="285" fill="#ffffff" font-size="10.5" font-weight="bold">#2 AFFECTED</text>
+  <text x="115" y="285" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 02 - North VPN</text>
+  <text x="285" y="285" fill="#ffffff" font-size="10.5">172.16.10.2</text>
+  <text x="380" y="285" fill="#34d399" font-size="10.5" font-weight="bold">ONLINE</text>
+  <text x="505" y="285" fill="#ffffff" font-size="10.5" font-weight="bold">2 time(s)</text>
+  <text x="595" y="285" fill="#fca5a5" font-size="10.5" font-weight="bold">43 min</text>
+  <text x="765" y="285" fill="#fde047" font-size="10" font-weight="bold">#1) 10:20:00 AM -&gt; 10:38:00 AM (18 min)  |  #2) 04:05:00 PM -&gt; 04:30:00 PM (25 min)</text>
+
+  <line x1="20" y1="296" x2="1140" y2="296" stroke="#1e293b"/>
+  <text x="28" y="315" fill="#ffffff" font-size="10.5" font-weight="bold">#3 AFFECTED</text>
+  <text x="115" y="315" fill="#ffffff" font-size="10.5" font-weight="bold">Main HQ ERP Server</text>
+  <text x="285" y="315" fill="#ffffff" font-size="10.5">192.168.10.20</text>
+  <text x="380" y="315" fill="#34d399" font-size="10.5" font-weight="bold">ONLINE</text>
+  <text x="505" y="315" fill="#ffffff" font-size="10.5" font-weight="bold">1 time(s)</text>
+  <text x="595" y="315" fill="#fca5a5" font-size="10.5" font-weight="bold">16 min</text>
+  <text x="765" y="315" fill="#fde047" font-size="10" font-weight="bold">#1) 02:10:00 AM -&gt; 02:26:00 AM (16 min)</text>
+
+  <line x1="20" y1="326" x2="1140" y2="326" stroke="#1e293b"/>
+  <text x="28" y="345" fill="#94a3b8" font-size="10.5" font-weight="bold">#4 CLEAN</text>
+  <text x="115" y="345" fill="#94a3b8" font-size="10.5" font-weight="bold">Branch 01 - Cairo HQ VPN</text>
+  <text x="285" y="345" fill="#94a3b8" font-size="10.5">172.16.10.1</text>
+  <text x="380" y="345" fill="#34d399" font-size="10.5" font-weight="bold">ONLINE</text>
+  <text x="505" y="345" fill="#94a3b8" font-size="10.5">0 time(s)</text>
+  <text x="595" y="345" fill="#94a3b8" font-size="10.5">0 min</text>
+  <text x="765" y="345" fill="#94a3b8" font-size="10">-- (100% Online — Zero Outages)</text>
+
+  <!-- Section 2 -->
+  <text x="20" y="398" fill="#6ee7b7" font-size="11.5" font-weight="bold">2. INDIVIDUAL OUTAGE SESSIONS LOG - EVERY SINGLE OUTAGE WITH EXACT 12-HOUR (FROM -&gt; TO AM/PM) TIME &amp; MINUTES (تفاصيل كل انقطاع من الساعة كام لكام)</text>
+  <rect x="20" y="404" width="1120" height="212" fill="#060f14" stroke="#1e293b"/>
+  <rect x="20" y="404" width="1120" height="26" fill="#0f232c"/>
+  <text x="28" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">#</text>
+  <text x="55" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">Branch / Server</text>
+  <text x="225" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">IP Address</text>
+  <text x="320" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">Date</text>
+  <text x="415" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">Outage # on Branch</text>
+  <text x="555" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">From Time (12h AM/PM)</text>
+  <text x="710" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">To Time (12h AM/PM)</text>
+  <text x="895" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">Minutes</text>
+  <text x="965" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">Full Duration</text>
+  <text x="1052" y="421" fill="#6ee7b7" font-size="10.5" font-weight="bold">Status</text>
+
+  <!-- Sessions Rows -->
+  <text x="28" y="448" fill="#ffffff" font-size="10.5">1</text>
+  <text x="55" y="448" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 03 - East VPN</text>
+  <text x="225" y="448" fill="#ffffff" font-size="10.5">172.16.10.3</text>
+  <text x="320" y="448" fill="#ffffff" font-size="10.5">2026-11-15</text>
+  <text x="415" y="448" fill="#ffffff" font-size="10.5" font-weight="bold">Outage #3 of 3</text>
+  <text x="555" y="448" fill="#fde047" font-size="10.5" font-weight="bold">03:49:00 AM</text>
+  <text x="710" y="448" fill="#f87171" font-size="10.5" font-weight="bold">Until Now (04:10 AM - LIVE)</text>
+  <text x="895" y="448" fill="#fca5a5" font-size="10.5" font-weight="bold">21 min</text>
+  <text x="965" y="448" fill="#ffffff" font-size="10.5" font-weight="bold">21 min</text>
+  <text x="1052" y="448" fill="#f87171" font-size="10.5" font-weight="bold">ONGOING LIVE</text>
+
+  <line x1="20" y1="458" x2="1140" y2="458" stroke="#1e293b"/>
+  <text x="28" y="477" fill="#ffffff" font-size="10.5">2</text>
+  <text x="55" y="477" fill="#ffffff" font-size="10.5" font-weight="bold">Main HQ ERP Server</text>
+  <text x="225" y="477" fill="#ffffff" font-size="10.5">192.168.10.20</text>
+  <text x="320" y="477" fill="#ffffff" font-size="10.5">2026-11-15</text>
+  <text x="415" y="477" fill="#ffffff" font-size="10.5" font-weight="bold">Outage #1 of 1</text>
+  <text x="555" y="477" fill="#fde047" font-size="10.5" font-weight="bold">02:10:00 AM</text>
+  <text x="710" y="477" fill="#7dd3fc" font-size="10.5" font-weight="bold">02:26:00 AM</text>
+  <text x="895" y="477" fill="#fca5a5" font-size="10.5" font-weight="bold">16 min</text>
+  <text x="965" y="477" fill="#ffffff" font-size="10.5" font-weight="bold">16 min</text>
+  <text x="1052" y="477" fill="#34d399" font-size="10" font-weight="bold">RECOVERED (4ms)</text>
+
+  <line x1="20" y1="487" x2="1140" y2="487" stroke="#1e293b"/>
+  <text x="28" y="506" fill="#ffffff" font-size="10.5">3</text>
+  <text x="55" y="506" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 03 - East VPN</text>
+  <text x="225" y="506" fill="#ffffff" font-size="10.5">172.16.10.3</text>
+  <text x="320" y="506" fill="#ffffff" font-size="10.5">2026-11-14</text>
+  <text x="415" y="506" fill="#ffffff" font-size="10.5" font-weight="bold">Outage #2 of 3</text>
+  <text x="555" y="506" fill="#fde047" font-size="10.5" font-weight="bold">07:10:00 PM</text>
+  <text x="710" y="506" fill="#7dd3fc" font-size="10.5" font-weight="bold">07:34:00 PM</text>
+  <text x="895" y="506" fill="#fca5a5" font-size="10.5" font-weight="bold">24 min</text>
+  <text x="965" y="506" fill="#ffffff" font-size="10.5" font-weight="bold">24 min</text>
+  <text x="1052" y="506" fill="#34d399" font-size="10" font-weight="bold">RECOVERED (22ms)</text>
+
+  <line x1="20" y1="516" x2="1140" y2="516" stroke="#1e293b"/>
+  <text x="28" y="535" fill="#ffffff" font-size="10.5">4</text>
+  <text x="55" y="535" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 02 - North VPN</text>
+  <text x="225" y="535" fill="#ffffff" font-size="10.5">172.16.10.2</text>
+  <text x="320" y="535" fill="#ffffff" font-size="10.5">2026-11-14</text>
+  <text x="415" y="535" fill="#ffffff" font-size="10.5" font-weight="bold">Outage #2 of 2</text>
+  <text x="555" y="535" fill="#fde047" font-size="10.5" font-weight="bold">04:05:00 PM</text>
+  <text x="710" y="535" fill="#7dd3fc" font-size="10.5" font-weight="bold">04:30:00 PM</text>
+  <text x="895" y="535" fill="#fca5a5" font-size="10.5" font-weight="bold">25 min</text>
+  <text x="965" y="535" fill="#ffffff" font-size="10.5" font-weight="bold">25 min</text>
+  <text x="1052" y="535" fill="#34d399" font-size="10" font-weight="bold">RECOVERED (19ms)</text>
+
+  <line x1="20" y1="545" x2="1140" y2="545" stroke="#1e293b"/>
+  <text x="28" y="564" fill="#ffffff" font-size="10.5">5</text>
+  <text x="55" y="564" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 03 - East VPN</text>
+  <text x="225" y="564" fill="#ffffff" font-size="10.5">172.16.10.3</text>
+  <text x="320" y="564" fill="#ffffff" font-size="10.5">2026-11-14</text>
+  <text x="415" y="564" fill="#ffffff" font-size="10.5" font-weight="bold">Outage #1 of 3</text>
+  <text x="555" y="564" fill="#fde047" font-size="10.5" font-weight="bold">01:15:00 PM</text>
+  <text x="710" y="564" fill="#7dd3fc" font-size="10.5" font-weight="bold">01:49:00 PM</text>
+  <text x="895" y="564" fill="#fca5a5" font-size="10.5" font-weight="bold">34 min</text>
+  <text x="965" y="564" fill="#ffffff" font-size="10.5" font-weight="bold">34 min</text>
+  <text x="1052" y="564" fill="#34d399" font-size="10" font-weight="bold">RECOVERED (24ms)</text>
+
+  <line x1="20" y1="574" x2="1140" y2="574" stroke="#1e293b"/>
+  <text x="28" y="593" fill="#ffffff" font-size="10.5">6</text>
+  <text x="55" y="593" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 02 - North VPN</text>
+  <text x="225" y="593" fill="#ffffff" font-size="10.5">172.16.10.2</text>
+  <text x="320" y="593" fill="#ffffff" font-size="10.5">2026-11-14</text>
+  <text x="415" y="593" fill="#ffffff" font-size="10.5" font-weight="bold">Outage #1 of 2</text>
+  <text x="555" y="593" fill="#fde047" font-size="10.5" font-weight="bold">10:20:00 AM</text>
+  <text x="710" y="593" fill="#7dd3fc" font-size="10.5" font-weight="bold">10:38:00 AM</text>
+  <text x="895" y="593" fill="#fca5a5" font-size="10.5" font-weight="bold">18 min</text>
+  <text x="965" y="593" fill="#ffffff" font-size="10.5" font-weight="bold">18 min</text>
+  <text x="1052" y="593" fill="#34d399" font-size="10" font-weight="bold">RECOVERED (18ms)</text>
+
+  <!-- Footer -->
+  <rect x="20" y="630" width="1120" height="36" rx="6" fill="#0d2622" stroke="#10b981"/>
+  <text x="34" y="653" fill="#6ee7b7" font-size="11" font-weight="bold">A4 Landscape Page-Numbered Printable HTML &amp; CSV Export Ready  |  Every Outage Session Logged in 12-Hour (AM/PM) Clock</text>
+  <text x="1126" y="653" fill="#fde047" font-size="11" font-weight="bold" text-anchor="end">Salem Techno IT Solutions • 01000920353</text>
+</svg>
