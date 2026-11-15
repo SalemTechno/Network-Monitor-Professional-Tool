@@ -10,7 +10,7 @@
 ### **Real-Time NOC Network, VPN Branch, Server, MikroTik, Firewall & ISP Router Monitoring Suite**
 ### **المنظومة الاحترافية المتكاملة لمراقبة الشبكات، فروع الـ VPN، السيرفرات، أجهزة MikroTik، الفايروول وراوترات الإنترنت**
 
-**Developed by: Eng. Mahmoud Salem (مهندس محمود سالم) — [Salem Techno IT Solutions](https://www.salemtechno.com)**
+**Developed by: Eng. Mahmoud Salem (مهندس محمود سالم) — [Salem Techno IT Solutions](https://www.salemtechno.com)**  
 📞 **Phone / WhatsApp:** [`01000920353`](https://wa.me/201000920353) (`+201000920353`) &nbsp;|&nbsp; 🌐 **Official Website:** [www.salemtechno.com](https://www.salemtechno.com)
 
 <br />
@@ -69,16 +69,16 @@
 ## 📖 نبذة تعريفية شاملة | Executive Overview (Arabic & English)
 
 > [!IMPORTANT]
-> **🇪🇬 نبذة عن المنظومة (العربية):**
-> **Network Monitor Professional Tool v1.0** هي منظومة غرفة عمليات شبكات (**Real-Time 24/7 NOC Monitoring Suite**) احترافية متكاملة لأنظمة **Windows**، صُممت خصيصاً لمهندسي الشبكات، مديري الـ IT، ومسؤولي البنية التحتية لمراقبة استقرار **خطوط الربط بين الفروع (`VPN Branches`)**، **السيرفرات الحيوية (`Windows / Linux / VoIP PBX`)**، **أجهزة الميكروتيك (`Master & Sub MikroTik RouterOS`)**، **جدران الحماية (`Sophos XG/XGS/UTM`)**، **راوترات شركات الإنترنت في مصر (`WE / Vodafone / Orange / Etisalat — Huawei, ZTE, TP-Link, Nokia`)**، **نقاط الواي فاي (`Access Points`)**، **أجهزة الربط اللاسلكي (`Ubiquiti NanoStation AirOS`)**، **السويتشات وكاميرات المراقبة (`NVR / DVR / IP Cameras`)** في شاشة واحدة حية مع نظام إنذار صوتي وبصري فوري، إشعارات **WhatsApp** و **Gmail SMTP**، إعادة تشغيل عن بُعد وجدولة تلقائية بنظام **12 ساعة (`AM/PM`)**، وخرائط حرارية وتقارير تنفيذية جاهزة للطباعة العرضية المرقمة.
+> **🇪🇬 نبذة عن المنظومة (العربية):**  
+> **Network Monitor Professional Tool v1.0** هي منظومة غرفة عمليات شبكات (**Real-Time 24/7 NOC Monitoring Suite**) احترافية متكاملة لأنظمة **Windows**، صُممت خصيصاً لمهندسي الشبكات، مديري الـ IT، ومسؤولي البنية التحتية لمراقبة استقرار **خطوط الربط بين الفروع (`VPN Branches`)**، **السيرفرات الحيوية (`Windows / Linux / VoIP PBX`)**، **أجهزة الميكروتيك (`Master & Sub MikroTik RouterOS`)**، **جدران الحماية (`Sophos XG/XGS/UTM`)**، **أجهزة روجيه / رييه الصينية (`Ruijie / Reyee Switches, Access Points & Routers: RG-EG / RG-EW / RG-ES / RG-NBS / RG-S2910 / RG-RAP`)**، **راوترات شركات الإنترنت في مصر (`WE / Vodafone / Orange / Etisalat — Huawei, ZTE, TP-Link, Nokia`)**، **نقاط الواي فاي (`Access Points`)**، **أجهزة الربط اللاسلكي (`Ubiquiti NanoStation AirOS`)**، **السويتشات وكاميرات المراقبة (`NVR / DVR / IP Cameras`)** في شاشة واحدة حية مع نظام إنذار صوتي وبصري فوري، إشعارات **WhatsApp** (جلسة QR مباشرة أو **Meta Cloud API الرسمي بوضع فتح الـ 24 ساعة تلقائياً بكلمة `متابعة` + رد `جاري المتابعة`** أو قالب اختياري) و **Gmail SMTP**، إعادة تشغيل عن بُعد وجدولة تلقائية بنظام **12 ساعة (`AM/PM`)**، وخرائط حرارية وتقارير تفصيلية **لمدة كل انقطاع بالدقائق والمدة الكلية وتوقيت السقوط والعودة بنظام 12 ساعة (`From -> To AM/PM`)** حتى عند تعدد مرات الفصل لنفس الفرع!
 
 > [!NOTE]
-> **🇬🇧 Executive Overview (English):**
-> **Network Monitor Professional Tool v1.0** is an enterprise-grade, zero-dependency **24/7 Network Operations Center (NOC) Monitoring Suite** engineered for IT Directors, Network Engineers, and System Administrators on **Windows Desktop & Windows Server**. It provides real-time telemetry, live ping waveforms, **HQ ISP & DNS (`8.8.8.8` / `1.1.1.1`) uplink verification**, **dual-tier acoustic police sirens & custom spoken `.WAV` voice alerts**, **instant desktop side-toast outage popups**, **encrypted right-click remote reboot & 12-hour (`AM/PM`) scheduled auto-reboot**, **multi-gateway WhatsApp alerts (Built-in Persistent QR Session + Official Meta Cloud API + 1-to-4 recipient numbers with anti-ban templates) & Gmail SMTP alerts**, **24h / 7d / 30d stability & QoS heatmaps**, **ping-flapping instability analytics (`UNSTABLE — NOT DOWN`)**, and **A4 landscape page-numbered printable SLA reports**.
+> **🇬🇧 Executive Overview (English):**  
+> **Network Monitor Professional Tool v1.0** is an enterprise-grade, zero-dependency **24/7 Network Operations Center (NOC) Monitoring Suite** engineered for IT Directors, Network Engineers, and System Administrators on **Windows Desktop & Windows Server**. It provides real-time telemetry, live ping waveforms, **HQ ISP & DNS (`8.8.8.8` / `1.1.1.1`) uplink verification**, **dual-tier acoustic police sirens & custom spoken `.WAV` voice alerts**, **instant desktop side-toast outage popups**, **encrypted right-click remote reboot & 12-hour (`AM/PM`) scheduled auto-reboot** (including **Ruijie / Reyee Chinese Switches, APs & Routers**, **MikroTik**, **Sophos**, **WE/ISP Routers**, and **Ubiquiti NanoStation**), **multi-gateway WhatsApp alerts (Built-in Persistent QR Session + Official Meta Cloud API with 24-hour `"متابعة"` keyword opt-in & `"جاري المتابعة"` auto-reply + non-mandatory optional Utility Template + 1-to-4 recipient numbers with anti-ban templates) & Gmail SMTP alerts**, **24h / 7d / 30d stability & QoS heatmaps displaying exact downtime minutes inside outage cells**, **dedicated Multi-Outage 12-Hour (`From -> To AM/PM`) Duration Reports**, **ping-flapping instability analytics (`UNSTABLE — NOT DOWN`)**, and **A4 landscape page-numbered printable SLA reports**.
 
 ### 🎯 هيكل هذا الدليل | How This Documentation Is Organized
-- **[🟢 القسم الأول (PART I — Free Community Edition)](#free-edition):** شرح كامل ومفصل **عربي + إنجليزي** للنسخة المجانية المرفقة للتحميل المباشر في هذا المستودع، مع شرح مصور **لكل شاشة وكل خاصية وكل إعداد بالتفصيل (9 شاشات كاملة)**.
-- **[🚀 القسم الثاني (PART II — Enterprise NOC Edition)](#enterprise-edition):** شرح كامل ومفصل **عربي + إنجليزي** لنسخة المؤسسات الاحترافية المفتوحة بالكامل، مع شرح مصور **لكل شاشة ولكافة الأنظمة والإعدادات الحصرية بالتفصيل (16 شاشة كاملة)**.
+- **[🟢 القسم الأول (PART I — Free Community Edition)](#free-edition):** شرح كامل ومفصل **عربي + إنجليزي** للنسخة المجانية المرفقة للتحميل المباشر في هذا المستودع، مع شرح مصور **لكل شاشة وكل خاصية وكل إعداد بالتفصيل (10 شاشات كاملة)**.
+- **[🚀 القسم الثاني (PART II — Enterprise NOC Edition)](#enterprise-edition):** شرح كامل ومفصل **عربي + إنجليزي** لنسخة المؤسسات الاحترافية المفتوحة بالكامل، مع شرح مصور **لكل شاشة ولكافة الأنظمة والإعدادات الحصرية بالتفصيل (17 شاشة كاملة)**.
 - **[⚖️ القسم الثالث (PART III — Free vs. Enterprise Matrix)](#comparison):** جدول مقارنة شامل ودقيق باللغتين العربية والإنجليزية بين الإصدارين.
 
 ---
@@ -86,16 +86,16 @@
 <a id="downloads"></a>
 ## 📦 التحميل المباشر وهيكل المجلدات | Direct Downloads & Repository Structure
 
-**🇪🇬 العربية:** جميع حزم التوزيع الرسمية للنسخة المجانية (**Free Community Edition**) مرفقة مباشرة داخل هذا المستودع وجاهزة للتشغيل الفوري بدون أي متطلبات خارجية، مع بصمة التحقق الأمنية (`SHA-256`):
+**🇪🇬 العربية:** جميع حزم التوزيع الرسمية للنسخة المجانية (**Free Community Edition**) مرفقة مباشرة داخل هذا المستودع وجاهزة للتشغيل الفوري بدون أي متطلبات خارجية، مع بصمة التحقق الأمنية (`SHA-256`):  
 **🇬🇧 English:** All official binary distribution packages for the **Free Community Edition** are hosted directly in this repository for immediate 1-click download and deployment on Windows, verified with cryptographic `SHA-256` checksums:
 
 | المجلد / الحزمة (Folder / Package) | الوصف الكامل بالعربية والإنجليزية (Bilingual Description) | الحجم (Size) | التحميل المباشر (1-Click Download) |
 | :--- | :--- | :---: | :---: |
-| 📂 [**`1_Portable_Edition`**](./1_Portable_Edition/) | **🇪🇬 النسخة المحمولة المشفرة (`Portable EXE`):** تعمل فوراً بملف تنفيذي واحد بدون تثبيت وتحفظ الإعدادات تلقائياً.<br/>**🇬🇧 Standalone Portable EXE:** Zero-install single encrypted executable; runs instantly and persists encrypted vault settings automatically. | `684 KB` | [<img src="https://img.shields.io/badge/Download-Portable_EXE-10b981?style=for-the-badge" alt="Download Portable EXE" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/1_Portable_Edition/Network%20Monitor%20Professional%20Tool%20v1.0.exe) |
-| 📂 [**`2_Setup_Installer_EXE`**](./2_Setup_Installer_EXE/) | **🇪🇬 معالج التثبيت الرسمي (`Setup Wizard EXE`):** يثبت البرنامج في `Program Files` وينشئ اختصارات سطح المكتب وقائمة ابدأ.<br/>**🇬🇧 Official GUI Setup Wizard:** Installs into `Program Files`, creates Desktop & Start Menu shortcuts, and registers clean uninstaller. | `1.08 MB` | [<img src="https://img.shields.io/badge/Download-Setup_EXE-0284c7?style=for-the-badge" alt="Download Setup EXE" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/2_Setup_Installer_EXE/Network_Monitor_Professional_Tool_v1.0_Setup.exe) |
-| 📂 [**`3_MSI_Enterprise_Package`**](./3_MSI_Enterprise_Package/) | **🇪🇬 حزمة تثبيت المؤسسات (`Windows Installer MSI`):** مخصصة للنشر الصامت عبر الشبكة و Active Directory GPO.<br/>**🇬🇧 Standard Windows MSI Package:** Built for centralized IT deployment via Active Directory Group Policy (GPO) & SCCM/Intune. | `1.10 MB` | [<img src="https://img.shields.io/badge/Download-Installer_MSI-6366f1?style=for-the-badge" alt="Download MSI" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/3_MSI_Enterprise_Package/Network_Monitor_Professional_Tool_v1.0.msi) |
-| 📂 [**`4_Documentation_and_Guide`**](./4_Documentation_and_Guide/) | **🇪🇬 الدليل التفاعلي المصور (`Arabic HTML5 Guide`):** ملف ويب تفاعلي يعمل بدون إنترنت ويشرح كافة القوائم.<br/>**🇬🇧 Offline Interactive HTML5 Guide:** Rich self-contained offline user manual with embedded visual illustrations. | `4.03 MB` | [<img src="https://img.shields.io/badge/Download-HTML5_Guide-8b5cf6?style=for-the-badge" alt="Download Guide" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/4_Documentation_and_Guide/Network_Monitor_Pro_Arabic_Guide_HTML5.html) |
-| 📂 [**`5_Screenshots_and_Assets`**](./5_Screenshots_and_Assets/) | **🇪🇬 معرض الصور والشعارات الرسمية:** جميع لقطات الشاشة النقية للنسخة المجانية ونسخة المؤسسات.<br/>**🇬🇧 Official Screenshots & Brand Gallery:** Full-resolution synthetic-data UI captures for both Free and Enterprise editions. | `29 PNGs` | [<img src="https://img.shields.io/badge/Browse-Screenshots-ec4899?style=for-the-badge" alt="Browse Screenshots" />](./5_Screenshots_and_Assets/) |
+| 📂 [**`1_Portable_Edition`**](./1_Portable_Edition/) | **🇪🇬 النسخة المحمولة المشفرة (`Portable EXE`):** تعمل فوراً بملف تنفيذي واحد بدون تثبيت وتحفظ الإعدادات تلقائياً.<br/>**🇬🇧 Standalone Portable EXE:** Zero-install single encrypted executable; runs instantly and persists encrypted vault settings automatically. | `709 KB` | [<img src="https://img.shields.io/badge/Download-Portable_EXE-10b981?style=for-the-badge" alt="Download Portable EXE" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/1_Portable_Edition/Network%20Monitor%20Professional%20Tool%20v1.0.exe) |
+| 📂 [**`2_Setup_Installer_EXE`**](./2_Setup_Installer_EXE/) | **🇪🇬 معالج التثبيت الرسمي (`Setup Wizard EXE`):** يثبت البرنامج في `Program Files` وينشئ اختصارات سطح المكتب وقائمة ابدأ.<br/>**🇬🇧 Official GUI Setup Wizard:** Installs into `Program Files`, creates Desktop & Start Menu shortcuts, and registers clean uninstaller. | `1.10 MB` | [<img src="https://img.shields.io/badge/Download-Setup_EXE-0284c7?style=for-the-badge" alt="Download Setup EXE" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/2_Setup_Installer_EXE/Network_Monitor_Professional_Tool_v1.0_Setup.exe) |
+| 📂 [**`3_MSI_Enterprise_Package`**](./3_MSI_Enterprise_Package/) | **🇪🇬 حزمة تثبيت المؤسسات (`Windows Installer MSI`):** مخصصة للنشر الصامت عبر الشبكة و Active Directory GPO.<br/>**🇬🇧 Standard Windows MSI Package:** Built for centralized IT deployment via Active Directory Group Policy (GPO) & SCCM/Intune. | `1.13 MB` | [<img src="https://img.shields.io/badge/Download-Installer_MSI-6366f1?style=for-the-badge" alt="Download MSI" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/3_MSI_Enterprise_Package/Network_Monitor_Professional_Tool_v1.0.msi) |
+| 📂 [**`4_Documentation_and_Guide`**](./4_Documentation_and_Guide/) | **🇪🇬 الدليل التفاعلي المصور (`Arabic HTML5 Guide`):** ملف ويب تفاعلي يعمل بدون إنترنت ويشرح كافة القوائم.<br/>**🇬🇧 Offline Interactive HTML5 Guide:** Rich self-contained offline user manual with embedded visual illustrations. | `4.05 MB` | [<img src="https://img.shields.io/badge/Download-HTML5_Guide-8b5cf6?style=for-the-badge" alt="Download Guide" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/raw/main/4_Documentation_and_Guide/Network_Monitor_Pro_Arabic_Guide_HTML5.html) |
+| 📂 [**`5_Screenshots_and_Assets`**](./5_Screenshots_and_Assets/) | **🇪🇬 معرض الصور والشعارات الرسمية:** جميع لقطات الشاشة النقية للنسخة المجانية ونسخة المؤسسات.<br/>**🇬🇧 Official Screenshots & Brand Gallery:** Full-resolution synthetic-data UI captures for both Free and Enterprise editions. | `37 Assets` | [<img src="https://img.shields.io/badge/Browse-Screenshots-ec4899?style=for-the-badge" alt="Browse Screenshots" />](./5_Screenshots_and_Assets/) |
 | 📦 **`Full Repository Archive`** | **🇪🇬 الحزمة الكاملة المضغوطة (`Full ZIP`):** تحميل جميع النسخ مع الدليل والصور في ملف `ZIP` واحد.<br/>**🇬🇧 Complete All-in-One ZIP:** Downloads Portable EXE, Setup EXE, MSI Installer, HTML5 Guide, and assets together. | `~7.5 MB` | [<img src="https://img.shields.io/badge/Download-Full_ZIP-f97316?style=for-the-badge" alt="Download Full ZIP" />](https://github.com/SalemTechno/Network-Monitor-Professional-Tool/archive/refs/heads/main.zip) |
 
 > [!TIP]
@@ -108,7 +108,7 @@
 <a id="credentials"></a>
 ## 🔑 بيانات تسجيل الدخول الافتراضية والصلاحيات | Default Login Credentials & Roles
 
-**🇪🇬 العربية:** عند فتح البرنامج لأول مرة، استخدم بيانات الدخول الافتراضية التالية (ويمكنك تغيير اسم المستخدم وكلمة المرور وتخصيص صلاحيات المشرف في أي وقت من داخل شاشة **`Admin Settings`**):
+**🇪🇬 العربية:** عند فتح البرنامج لأول مرة، استخدم بيانات الدخول الافتراضية التالية (ويمكنك تغيير اسم المستخدم وكلمة المرور وتخصيص صلاحيات المشرف في أي وقت من داخل شاشة **`Admin Settings`**):  
 **🇬🇧 English:** Upon launching the application for the first time, sign in using the default credentials below (both usernames, passwords, and granular Supervisor permissions can be customized anytime inside **`Admin Settings`**):
 
 | مستوى الصلاحية (Access Role) | اسم المستخدم (Username) | كلمة المرور الافتراضية (Default Password) | الصلاحيات المخولة بالتفصيل (Detailed Role Capabilities — AR / EN) |
@@ -161,22 +161,26 @@
    - **🇪🇬 عربي:** حتى لو كان البرنامج مصغراً بجوار الساعة (`System Tray`)، تنبثق بطاقات تحذيرية حمراء في أسفل يمين الشاشة فور سقوط أي سيرفر أو فرع مع زر كتم سريع (`Mute 15m`) أو إغلاق (`Dismiss`).
    - **🇬🇧 English:** Even when minimized to the Windows System Tray, critical red alert cards slide up in the bottom-right corner of the desktop upon server/branch outages with instant `Mute 15m` and `Dismiss` actions.
 
-7. **🔄 إعادة تشغيل السيرفرات عن بُعد بكليك يمين (`Encrypted Right-Click Remote Server Reboot`)**
-   - **🇪🇬 عربي:** إمكانية حفظ بيانات دخول السيرفر بتشفير `AES-256` (`Windows WMI/RPC` أو `Linux SSH` أو `Asterisk/Issabel PBX SSH`) وعمل **Right-Click -> Remote Reboot** لإعادة تشغيل السيرفر المتجمد بضغطة زر.
-   - **🇬🇧 English:** Stores `AES-256` encrypted credentials for `Windows Server (WMI/RPC)`, `Linux SSH`, or `Asterisk/Issabel VoIP PBX SSH`, enabling authorized admins to right-click any server card and trigger an immediate remote reboot.
+7. **🔄 إعادة تشغيل السيرفرات وأجهزة روجيه رييه عن بُعد بكليك يمين (`Encrypted Right-Click Server & Ruijie/Reyee Remote Reboot`)**
+   - **🇪🇬 عربي:** إمكانية حفظ بيانات الدخول بتشفير `AES-256` (`Windows WMI/RPC`، `Linux SSH`، `Asterisk/Issabel PBX SSH`، بالإضافة إلى **أجهزة روجيه / رييه الصينية `Ruijie / Reyee Switches, APs & Routers`**) وعمل **Right-Click -> Remote Reboot** لإعادة تشغيل السيرفر أو الجهاز المتجمد بضغطة زر.
+   - **🇬🇧 English:** Stores `AES-256` encrypted credentials for `Windows Server (WMI/RPC)`, `Linux SSH`, `Asterisk/Issabel VoIP PBX SSH`, and **Chinese `Ruijie / Reyee` Switches, Access Points & Routers (`RG-EG`, `RG-EW`, `RG-ES`, `RG-NBS`, `RG-RAP`)**, enabling authorized admins to right-click any server/device card and trigger an immediate remote reboot.
 
-8. **🗓️ خرائط الاستقرار الحرارية وتقارير الـ SLA العرضية المرقمة (`24h / 7d / 30d Heatmaps & Landscape Reports`)**
-   - **🇪🇬 عربي:** خرائط حرارية تفاعلية لـ `24 ساعة` (بنظام **12 ساعة `AM/PM`**) و`7 أيام` و`30 يوماً` مع ترتيب تلقائي للفروع الأكثر انقطاعاً (`Top Unstable Ranking`)، زر تصفير السجل (`Reset Heatmap`)، وطباعة تقارير `HTML` احترافية بالوضع العرضي (`A4 Landscape`) مرقمة الصفحات (`Page X of Y`).
-   - **🇬🇧 English:** Interactive `24-Hour` (`12:00 AM – 11:00 PM`), `7-Day`, and `30-Day` stability heatmaps with automatic `#1 Unstable` ranking, one-click `Reset Heatmap`, and auto-saved `A4 Landscape` printable reports featuring `Page X of Y` footers and 12-hour `AM/PM` timestamps.
+8. **🗓️ خرائط الاستقرار الحرارية مع دقائق الانقطاع داخل الخلايا وتقارير الـ SLA العرضية (`24h / 7d / 30d Heatmaps with Downtime Minutes & Landscape Reports`)**
+   - **🇪🇬 عربي:** خرائط حرارية تفاعلية لـ `24 ساعة` (بنظام **12 ساعة `AM/PM`**) و`7 أيام` و`30 يوماً` تعرض **عدد مرات السقوط وإجمالي دقائق الانقطاع مباشرة داخل كل خلية حمراء (`2x • 43m`)** مع عمود توقيتات كل فصل (`From -> To 12h AM/PM`)، ترتيب تلقائي للفروع الأكثر انقطاعاً (`Top Unstable Ranking`)، زر تصفير السجل (`Reset Heatmap`)، وطباعة تقارير `HTML` احترافية بالوضع العرضي (`A4 Landscape`) مرقمة الصفحات (`Page X of Y`).
+   - **🇬🇧 English:** Interactive `24-Hour` (`12:00 AM – 11:00 PM`), `7-Day`, and `30-Day` stability heatmaps displaying **exact outage count + downtime minutes directly inside red cells (`2x • 43m`)**, per-session `From -> To 12h AM/PM` outage intervals, automatic `#1 Unstable` ranking, one-click `Reset Heatmap`, and auto-saved `A4 Landscape` printable reports featuring `Page X of Y` footers.
 
 9. **⚡ وضع منع السكون لعمل الشاشات 24/7 (`24/7 NOC Keep-Awake — Prevent Sleep & Screensaver`)**
    - **🇪🇬 عربي:** يمنع دخول الويندوز أو شاشة العرض في وضع السكون (`Sleep`) أو شاشة التوقف (`Screensaver`) طوال فترة عمل البرنامج في غرف المراقبة.
    - **🇬🇧 English:** Uses native Windows execution-state APIs to prevent OS sleep and screensaver activation during 24/7 NOC wallboard operation.
 
+10. **⏱️ تقرير مدد الانقطاع التفصيلي وتعدد مرات السقوط بنظام 12 ساعة (`Outage Durations & 12-Hour From -> To AM/PM Multi-Outage Report`)**
+    - **🇪🇬 عربي:** تقرير مستقل ومتكامل (`Outage Durations`) يعرض لكل فرع أو سيرفر وقع: **مدة الانقطاع بالدقائق والمدة الكاملة (`85 min / 1h 25m`)**، وإذا سقط الفرع أكثر من مرة يسجل **كل انقطاع على حدة من الساعة كام للساعة كام بنظام 12 ساعة (`From hh:mm AM/PM -> To hh:mm AM/PM`)** وحتى الانقطاعات الحية المستمرة حالياً (`Until Now - LIVE`)، مع الطباعة العرضية وتصدير `CSV`.
+    - **🇬🇧 English:** Dedicated **`Outage Durations`** report detailing exact outage minutes and full `Xh Ym` duration per branch, logging **every single outage session with exact 12-hour `From -> To AM/PM` start/recovery times** whenever a branch drops multiple times (including live ongoing outages), complete with `A4 Landscape HTML` printing and `CSV` export.
+
 ---
 
-## 🖼️ ثانياً: الشرح المصور الكامل لكافة شاشات وإعدادات النسخة المجانية (9 شاشات)
-## Screen-by-Screen Visual Guide — Free Community Edition (All 9 Screens)
+## 🖼️ ثانياً: الشرح المصور الكامل لكافة شاشات وإعدادات النسخة المجانية (10 شاشات)
+## Screen-by-Screen Visual Guide — Free Community Edition (All 10 Screens)
 
 ---
 
@@ -211,7 +215,7 @@
     - **`+ Add Branch / Server`:** فتح نافذة إضافة فرع VPN أو سيرفر أو سويتش أو كاميرا جديدة.
     - **`Admin Settings`:** فتح إعدادات الأمان، الحسابات، منع السكون `24/7`، وسرينة الطوارئ.
     - **`Filter: Show All`:** التبديل السريع بين عرض الكل أو الفروع الفاصلة فقط أو البنج المرتفع فقط.
-    - **`Heatmap & Charts`:** فتح شاشة الخرائط الحرارية التفصيلية (`24h / 7d / 30d`).
+    - **`Heatmap & Charts` & `Outage Durations`:** فتح شاشة الخرائط الحرارية التفصيلية (`24h / 7d / 30d`)، أو فتح **تقرير مدد الانقطاع وتفاصيل كل فصل بنظام 12 ساعة (`Outage Durations 12h AM/PM`)**.
     - **`Save & Print Report`:** اختيار فترة التقرير (`24 ساعة / 7 أيام / 30 يوماً`) وحفظه وفتحه للطباعة العرضية الفورية.
     - **`Reports Folder`:** فتح مجلد التقارير المحفوظة تلقائياً على جهازك.
     - **`Test Alert & WAV` / `Audio: ON`:** تجربة التنبيه الصوتي والمنبثق فوراً، أو كتم/تفعيل الصوت العام.
@@ -222,7 +226,7 @@
 - **🇬🇧 Detailed English Explanation (Main NOC Dashboard & Controls):**
   - **Top HQ Uplink Indicator (`ISP & DNS 8.8.8.8 / 1.1.1.1`):** Real-time millisecond health check of headquarters internet connectivity.
   - **Interactive Top-Right KPI Counters:** Live counts for `ONLINE (<100ms)`, `HIGH PING (>100ms)`, `CRITICAL / DOWN`, and `SHOW ALL (30D)` outage/recovery totals; click any pill to filter cards instantly.
-  - **Complete Action Toolbar:** Quick access to `+ Add Branch / Server`, `Admin Settings`, `Filter: Show All`, `Heatmap & Charts`, `Save & Print Report`, `Reports Folder`, `Test Alert & WAV`, `Audio: ON/MUTED`, `Full Screen (F11)`, `Tray` (background system tray mode), `About`, `Switch User`, and `Logout`.
+  - **Complete Action Toolbar:** Quick access to `+ Add Branch / Server`, `Admin Settings`, `Filter: Show All`, `Heatmap & Charts`, **`Outage Durations`** (12-hour `From -> To AM/PM` multi-outage report), `Save & Print Report`, `Reports Folder`, `Test Alert & WAV`, `Audio: ON/MUTED`, `Full Screen (F11)`, `Tray` (background system tray mode), `About`, `Switch User`, and `Logout`.
   - **Dual Split Monitoring Matrix:** Left grid dedicated to **VPN Branches** and right grid dedicated to **Servers, Switches, DVR & IP Cameras** — each card showing live status badge, continuous timeout duration, `Speed / Traffic / Loss % / Min-Avg-Max-Jitter`, live ping graph, and quick **`Edit`** / **`View`** buttons (plus right-click menu for `Remote Reboot`, `Ping`, `Traceroute`, and `Mute 15m`).
   - **Bottom Split Analytics Dock:** Live interactive mini `24h / 7d / 30d` heatmap on the left (with `Reset` and `Full Report`) paired with the **12-hour (`AM/PM`) Live Outage & Recovery Cyber Terminal** on the right.
 
@@ -245,14 +249,14 @@
     - **`High Ping Warning (ms)` & `Critical Ping Red (ms)`:** حدود تحول لون البطاقة للبرتقالي (`180 ms`) أو الأحمر الحرج (`450 ms`).
   - **`3. DOWN & RECOVERY (UP) AUDIO ALERTS (.WAV + LIVE TEST)` (تخصيص الصوتيات والتكرار):**
     - اختيار الصوت عند السقوط (`When Node Goes DOWN`) وعند العودة (`When Node Recovers UP`) سواء الرسالة الصوتية الإنجليزية الجاهزة (`Auto Voice`) أو ملف صوتي مخصص (`Browse .WAV`) مع أزرار تجربة حية (`Test DOWN` / `Test UP`)، وخيار **تكرار التنبيه الصوتي باستمرار كل `X` ثانية حتى يعود الفرع للعمل**.
-  - **`4. ENCRYPTED SERVER REMOTE REBOOT CREDENTIALS` (إعدادات الريستارت عن بُعد):**
-    - تفعيل خيار **`Enable Right-Click Remote Server Reboot`** واختيار البروتوكول (`Windows RPC/WMI` أو `Linux SSH` أو `Asterisk PBX SSH`) وإدخال اسم المستخدم وكلمة المرور والبورت لحفظها بتشفير `AES-256`.
+  - **`4. ENCRYPTED SERVER & RUIJIE/REYEE REMOTE REBOOT CREDENTIALS` (إعدادات الريستارت عن بُعد):**
+    - تفعيل خيار **`Enable Right-Click Remote Server Reboot`** واختيار البروتوكول (`Windows RPC/WMI`، `Linux SSH`، `Asterisk PBX SSH`، أو **أجهزة روجيه / رييه الصينية `Ruijie / Reyee (Switch / AP / Router)`**) وإدخال اسم المستخدم وكلمة المرور والبورت لحفظها بتشفير `AES-256`.
+
 - **🇬🇧 Detailed English Explanation (Node Configuration Editor):**
   - **`1. DEVICE IDENTITY`:** Configure `Branch / Server Name`, `Display Order #`, `IP Address / Host`, node category (`VPN Branch` vs. `Server / Switch / DVR / Camera`), and `Notes / Contact Line` (landline number, branch manager contact, or ISP circuit ID).
   - **`2. PING TIMING, TIMEOUT & LATENCY THRESHOLDS`:** Fine-tune `Ping Every (Seconds)`, `Confirm Down After (Mins)` (anti-false-positive confirmation window), `High Ping Warning (ms)`, and `Critical Ping Red (ms)`.
   - **`3. DOWN & RECOVERY (UP) AUDIO ALERTS`:** Assign built-in spoken English voice alerts (`Auto Voice`), sirens, or custom `.WAV` files (`Browse .WAV`) independently for `DOWN` and `UP` events, test them live, and optionally repeat the `DOWN` voice alert every `N` seconds until recovery.
-  - **`4. ENCRYPTED SERVER REMOTE REBOOT CREDENTIALS`:** Enable right-click remote reboot over `Windows WMI/RPC`, `Linux SSH`, or `Asterisk PBX SSH` with `AES-256` encrypted credentials and custom TCP port.
-
+  - **`4. ENCRYPTED SERVER & RUIJIE/REYEE REMOTE REBOOT CREDENTIALS`:** Enable right-click remote reboot over `Windows WMI/RPC`, `Linux SSH`, `Asterisk PBX SSH`, or **`Ruijie / Reyee (Switch / AP / Router — eWeb HTTP & SSH)`** with `AES-256` encrypted credentials and custom TCP port.
 ---
 
 ### 🔹 شاشة (F-04): إعدادات المسؤول، صلاحيات المشرف، منع السكون 24/7 وسرينة الطوارئ | Admin Security, Roles, Keep-Awake & Emergency Siren
@@ -286,16 +290,16 @@
   <img src="./5_Screenshots_and_Assets/doc_05_heatmap_30d.png" alt="F-05 Free Edition 30-Day Monthly Stability Heatmap" width="100%" />
 </div>
 
-- **🇪🇬 الشرح التفصيلي بالعربية (خريطة 30 يوماً والتقارير التنفيذية):**
-  - **مصفوفة الـ 30 يوماً الملونة (`30-DAY MONTHLY HEATMAP`):** تمثل كل خلية يوماً كاملاً لكل فرع أو سيرفر (أخضر = مستقر تماماً، برتقالي = بنج مرتفع، أحمر مع رقم = عدد مرات السقوط المؤكد في ذلك اليوم). تمرير الماوس على أي خلية يعرض تفاصيل اليوم بدقة.
-  - **مخطط الانقطاع مقابل العودة (`OUTAGE DOWN vs. RECOVERY UP CHART`):** شريط مقارن بصري يوضح إجمالي مرات الفصل والعودة ونسبة الاستقرار المئوية (`Uptime %`).
-  - **جدول الترتيب التلقائي للأعطال (`Rank #1 UNSTABLE`):** يرتب جميع الفروع والسيرفرات تنازلياً من الأكثر انقطاعاً إلى الأكثر استقراراً، شاملاً: عدد مرات السقوط، مرات العودة، إجمالي دقائق التوقف (`Downtime`)، متوسط البنج، نسبة الـ `Uptime %`، وملاحظات الفرع، مع توقيت **12 ساعة (`AM/PM`)**.
-  - **أزرار الطباعة والتصفير (`Save & Print Report` / `Reset Heatmap`):** حفظ وطباعة التقرير بالوضع العرضي `A4 Landscape` مرقماً (`Page X of Y`)، أو تصفير السجل الحراري بالكامل لبدء دورة قياس جديدة.
+- **🇪🇬 الشرح التفصيلي بالعربية (خريطة 30 يوماً، دقائق الانقطاع داخل الخلايا، والتقارير التنفيذية):**
+  - **مصفوفة الـ 30 يوماً الملونة مع دقائق الفصل داخل الخلية (`30-DAY MONTHLY HEATMAP WITH DOWNTIME MINUTES`):** تمثل كل خلية يوماً كاملاً لكل فرع أو سيرفر (أخضر = مستقر تماماً، برتقالي = بنج مرتفع، **أحمر مع عدد المرات وإجمالي الدقائق مثل `2x • 43m`**). تمرير الماوس على أي خلية يعرض تفاصيل كل فصل بالساعة والدقيقة بنظام 12 ساعة (`From -> To AM/PM`).
+  - **مخطط الانقطاع مقابل العودة (`OUTAGE DOWN vs. RECOVERY UP CHART`):** شريط مقارن بصري يوضح إجمالي مرات الفصل والعودة مع إجمالي المدة الزمنية (`3 Down (1h19m) / 2 Up`) ونسبة الاستقرار المئوية (`Uptime %`).
+  - **جدول الترتيب التلقائي للأعطال (`Rank #1 UNSTABLE`):** يرتب جميع الفروع والسيرفرات تنازلياً من الأكثر انقطاعاً إلى الأكثر استقراراً، شاملاً: عدد مرات السقوط، مرات العودة، **إجمالي مدة التوقف بالدقائق والساعات (`79 min (1h 19m)`)**، وعمود **`Outage Intervals (From -> To 12h AM/PM)`** الذي يعرض كل فصل من الساعة كام للساعة كام، مع زر **`Outage Durations (12h)`** لفتح التقرير التفصيلي الكامل.
+  - **أزرار الطباعة والتصفير (`Save & Print Report` / `Reset Heatmap`):** حفظ وطباعة التقرير بالوضع العرضي `A4 Landscape` مرقماً (`Page X of Y`), أو تصفير السجل الحراري بالكامل لبدء دورة قياس جديدة.
 
-- **🇬🇧 Detailed English Explanation (30-Day Monthly Heatmap & SLA Ranking):**
-  - **`30-DAY MONTHLY HEATMAP`:** Visualizes 30 rolling calendar days per device (Green = Online, Amber = High Latency, Red + Counter = Confirmed Outage count on that date) with interactive hover tooltips.
-  - **`OUTAGE (DOWN) VS. RECOVERY (UP) CHART`:** Side-by-side horizontal bar chart summarizing cumulative down/up events and overall SLA percentage.
-  - **Automated Instability Ranking Table (`#1 UNSTABLE` First):** Sorts all monitored nodes from highest outage frequency/downtime to 100% stable nodes, displaying exact `Last Check` in **12-hour `AM/PM` format**, `Down Count`, `Recovery Count`, `Total Downtime (mins)`, `Avg Ping`, `Uptime %`, and `Branch Notes`.
+- **🇬🇧 Detailed English Explanation (30-Day Monthly Heatmap, Cell Downtime Minutes & SLA Ranking):**
+  - **`30-DAY MONTHLY HEATMAP`:** Visualizes 30 rolling calendar days per device (Green = Online, Amber = High Latency, **Red + Count & Exact Minutes e.g. `2x • 43m`**) with interactive hover tooltips listing every `From -> To 12h AM/PM` outage span.
+  - **`OUTAGE (DOWN) VS. RECOVERY (UP) CHART`:** Side-by-side horizontal bar chart summarizing cumulative down/up events, combined downtime (`1h19m`), and overall SLA percentage.
+  - **Automated Instability Ranking Table (`#1 UNSTABLE` First):** Sorts all monitored nodes from highest outage frequency/downtime to 100% stable nodes, displaying exact `Last Check` in **12-hour `AM/PM` format**, `Down Count`, `Recovery Count`, `Total Downtime (mins & Xh Ym)`, **`Outage Intervals (From -> To 12h AM/PM)`**, `Avg Ping`, `Uptime %`, and a 1-click **`Outage Durations (12h)`** report button.
   - **One-Click `Save & Print Report` & `Reset Heatmap`:** Generates clean `A4 Landscape` multi-page reports (`Page X of Y`) or clears historical counters cleanly after lab testing.
 
 ---
@@ -338,10 +342,30 @@
 
 ---
 
-### 🔹 شاشة (F-09): نافذة معلومات النسخة المجانية والتواصل مع المطور | Free Edition About & Support Dialog
+### 🔹 شاشة (F-09): تقرير مدد الانقطاع التفصيلي وتعدد مرات السقوط بنظام 12 ساعة (`From -> To AM/PM`) | Outage Durations & 12-Hour Multi-Outage Report
 
 <div align="center">
-  <img src="./5_Screenshots_and_Assets/doc_08_about.png" alt="F-09 Free Edition About Dialog" width="680" />
+  <img src="./5_Screenshots_and_Assets/doc_10_outage_durations_12h_report.svg" alt="F-09 Free Edition Outage Durations and 12-Hour Multi-Outage Report" width="100%" />
+</div>
+
+- **🇪🇬 الشرح التفصيلي بالعربية (تقرير مدد الانقطاع وتوقيتات كل فصل بالـ 12 ساعة):**
+  - يُفتح مباشرة من زر **`Outage Durations`** في الشاشة الرئيسية أو من داخل الـ `Heatmap`، ويوفر فلاتر زمنية فورية (**`Today 24h` / `Last 7 Days` / `Last 30 Days` / `All History`**) مع إمكانية اختيار فرع بعينه أو كل الفروع.
+  - **5 بطاقات إحصائية علوية:** عدد الفروع المتأثرة، إجمالي مرات الانقطاع، الفروع الفاصلة حالياً (`LIVE DOWN`)، **إجمالي مدة التوقف المجمعة بالدقائق والساعات (`138 min / 2h 18m`)**، وأطول مدة انقطاع منفردة.
+  - **الجدول الأول (`Per-Branch Total Downtime & Multi-Outage 12h Summary`):** يعرض لكل فرع عدد مرات وقوعه، المدة الكلية بالدقائق والساعات (`79 min / 1h 19m`)، وسرد جميع مرات السقوط بجانب بعضها بنظام **12 ساعة (`#1) 01:15 PM -> 01:49 PM (34m) | #2) 07:10 PM -> 07:34 PM (24m)`)**.
+  - **الجدول الثاني (`Individual Outage Sessions Log — From -> To 12h AM/PM`):** يفصّل **كل مرة وقع فيها الفرع في سطر مستقل** موضحاً رقم العطل على الفرع (`Outage #2 of 3`)، وقت البداية **`From Time (12h AM/PM)`**، وقت العودة **`To Time (12h AM/PM)`** (أو `Until Now - LIVE` إذا كان ما زال واقعاً)، المدة بالدقائق والمدة الكاملة، مع أزرار **`Save & Print HTML`** العرضي المرقم و **`Export CSV`**.
+
+- **🇬🇧 Detailed English Explanation (Outage Durations & 12-Hour Multi-Outage Report):**
+  - Accessible directly from the main toolbar (`Outage Durations`) or inside `Heatmap & Charts`, featuring `Today (24h)`, `Last 7 Days`, `Last 30 Days`, and `All History` filters plus per-branch filtering.
+  - **5 Executive KPI Cards:** Affected Branches, Total Outages Count, Currently Offline (`LIVE DOWN`), Total Combined Downtime (`138 min / 2h 18m`), and Longest Single Outage.
+  - **Table 1 (`Per-Branch Summary`):** Ranks branches by total downtime (both exact minutes and `Xh Ym`) and lists all 12-hour `From -> To AM/PM` intervals side by side when a branch drops multiple times.
+  - **Table 2 (`Individual Outage Sessions Log`):** Logs every single outage occurrence chronologically (`Outage #1 of 3`, `Outage #2 of 3`, etc.) with exact **12-hour `From Time (AM/PM)` -> `To Time (AM/PM)`** (or `Until Now - LIVE`), exact minutes, full duration, and 1-click **`Save & Print HTML` (`A4 Landscape`)** + **`Export CSV`**.
+
+---
+
+### 🔹 شاشة (F-10): نافذة معلومات النسخة المجانية والتواصل مع المطور | Free Edition About & Support Dialog
+
+<div align="center">
+  <img src="./5_Screenshots_and_Assets/doc_08_about.png" alt="F-10 Free Edition About Dialog" width="680" />
 </div>
 
 - **🇪🇬 الشرح التفصيلي بالعربية:** تعرض ملخص البنية الهندسية للإصدار المجاني وبيانات التواصل الرسمية مع مطور النظام **م. محمود سالم — شركة سالم تكنو لتكنولوجيا المعلومات (`01000920353` — `www.salemtechno.com`)**.
@@ -365,20 +389,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Edition-Enterprise_NOC_Unlimited-00e676?style=for-the-badge" alt="Enterprise Unlimited" />
   <img src="https://img.shields.io/badge/MikroTik-Master_%26_Sub_RouterOS_API-00b0ff?style=for-the-badge" alt="MikroTik RouterOS API" />
-  <img src="https://img.shields.io/badge/Multi--Vendor_Reboot-WE_%7C_Sophos_%7C_AP_%7C_NanoStation-f59e0b?style=for-the-badge" alt="Multi-Vendor Remote Reboot" />
-  <img src="https://img.shields.io/badge/WhatsApp-Direct_QR_%2B_4_Phones_%2B_Meta_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Gateways" />
+  <img src="https://img.shields.io/badge/Multi--Vendor_Reboot-Ruijie_%7C_WE_%7C_Sophos_%7C_AP_%7C_NanoStation-f59e0b?style=for-the-badge" alt="Multi-Vendor Remote Reboot" />
+  <img src="https://img.shields.io/badge/WhatsApp-Direct_QR_%2B_Meta_24h_%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9_%2B_4_Phones-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Gateways" />
   <img src="https://img.shields.io/badge/Auto_Scheduler-12--Hour_AM%2FPM_Reboot-8b5cf6?style=for-the-badge" alt="12h Reboot Scheduler" />
 </p>
 
 </div>
 
 > [!IMPORTANT]
-> **🇪🇬 لماذا نسخة المؤسسات (`Enterprise NOC Edition`)؟**
-> صُممت نسخة **Enterprise** للشركات متعددة الفروع، المصانع، المستشفيات، البنوك، ومراكز البيانات التي تحتاج إلى **عدد غير محدود من الفروع والسيرفرات والأجهزة**، مع ربط مباشر ببروتوكول **MikroTik RouterOS API**، ودعم كامل لإضافة ومراقبة وعمل **ريستارت عن بُعد (يدوي بكليك يمين أو مجدول تلقائياً بنظام 12 ساعة `AM/PM`)** لراوترات الإنترنت في مصر (**WE / Huawei / ZTE / TP-Link / Nokia**)، جدران الحماية (**Sophos XG / XGS / UTM**)، نقاط الـ **Access Points**، وأجهزة **Ubiquiti NanoStation** مع خاصية **الكشف التلقائي عن الموديل (`Auto-Detect`)**، بالإضافة إلى مركز إشعارات موحد يدعم **الواتساب المباشر عبر الـ QR Code بدون API خارجي**، **الإرسال لـ 1 إلى 4 أرقام بقوالب مختلفة لمنع الحظر**، ودعم **Meta Cloud API الرسمي (بقالب Utility اختياري غير إجباري مع تحويل تلقائي للرسائل العادية)**، وتقارير **عدم استقرار الخدمة وتذبذب البنج (`UNSTABLE — NOT DOWN`)**، وخريطة الشبكة التفاعلية (`Topology Map`)، والماسح التلقائي للـ IP!
+> **🇪🇬 لماذا نسخة المؤسسات (`Enterprise NOC Edition`)؟**  
+> صُممت نسخة **Enterprise** للشركات متعددة الفروع، المصانع، المستشفيات، البنوك، ومراكز البيانات التي تحتاج إلى **عدد غير محدود من الفروع والسيرفرات والأجهزة**، مع ربط مباشر ببروتوكول **MikroTik RouterOS API**، ودعم كامل لإضافة ومراقبة وعمل **ريستارت عن بُعد (يدوي بكليك يمين أو مجدول تلقائياً بنظام 12 ساعة `AM/PM`)** لأجهزة **روجيه / رييه الصينية (`Ruijie / Reyee Switches, Access Points & Routers: RG-EG / RG-EW / RG-ES / RG-NBS / RG-S2910 / RG-RAP`)**، وراوترات الإنترنت في مصر (**WE / Huawei / ZTE / TP-Link / Nokia**)، وجدران الحماية (**Sophos XG / XGS / UTM**)، ونقاط الـ **Access Points**، وأجهزة **Ubiquiti NanoStation** مع خاصية **الكشف التلقائي عن الموديل (`Auto-Detect`)**، بالإضافة إلى مركز إشعارات موحد يدعم **الواتساب المباشر عبر الـ QR Code بدون API خارجي**، **الإرسال لـ 1 إلى 4 أرقام بقوالب مختلفة لمنع الحظر**، ودعم **Meta Cloud API الرسمي (مع ميزة فتح نافذة الـ 24 ساعة تلقائياً بإرسال كلمة `متابعه` أو `متابعة` والرد التلقائي بـ `جاري المتابعة` بدون الحاجة لقوالب + قالب Utility اختياري غير إجباري)**، وتقارير **مدد الانقطاع التفصيلية وتعدد مرات السقوط بنظام 12 ساعة (`From -> To AM/PM`)**، وتقارير **عدم استقرار الخدمة (`UNSTABLE — NOT DOWN`)**، وخريطة الشبكة التفاعلية (`Topology Map`)، والماسح التلقائي للـ IP!
 
 > [!NOTE]
-> **🇬🇧 Why Upgrade to the Enterprise NOC Edition?**
-> Engineered for multi-branch enterprises, ISPs, healthcare networks, factories, and data centers requiring **unlimited monitored devices**, native **Master & Sub-MikroTik RouterOS API telemetry + weekly `.rsc` auto-backups**, multi-vendor **Right-Click & 12-Hour (`AM/PM`) Scheduled Remote Reboot** across **Egyptian ISP/WE VDSL/FTTH Routers (`Huawei`, `ZTE`, `TP-Link`, `Nokia`)**, **Sophos Firewalls (`XG/XGS/UTM`)**, **Enterprise Access Points (`TP-Link Omada`, `D-Link`, `UniFi`)**, **Ubiquiti NanoStation (`AirOS`)**, and **Windows/Linux Servers** with **1-Click Smart Model `Auto-Detect`**, unified **Gmail SMTP + Multi-Gateway WhatsApp Center (Built-in Persistent QR Session, 1-to-4 recipient phones with distinct Anti-Ban templates, and Official Meta Cloud API with non-mandatory optional Utility Template & automatic normal-text fallback)**, **Sub-Timeout Ping Flapping Analytics (`UNSTABLE — NOT DOWN`)**, **Interactive Star/Tree Network Topology Map**, **Multi-Threaded Subnet Scanner**, and **Protected Security & Dispatch Audit Logs**.
+> **🇬🇧 Why Upgrade to the Enterprise NOC Edition?**  
+> Engineered for multi-branch enterprises, ISPs, healthcare networks, factories, and data centers requiring **unlimited monitored devices**, native **Master & Sub-MikroTik RouterOS API telemetry + weekly `.rsc` auto-backups**, multi-vendor **Right-Click & 12-Hour (`AM/PM`) Scheduled Remote Reboot** across **Chinese Ruijie / Reyee Switches, Access Points & Routers (`RG-EG`, `RG-EW`, `RG-ES`, `RG-NBS`, `RG-S2910`, `RG-RAP`)**, **Egyptian ISP/WE VDSL/FTTH Routers (`Huawei`, `ZTE`, `TP-Link`, `Nokia`)**, **Sophos Firewalls (`XG/XGS/UTM`)**, **Enterprise Access Points (`TP-Link Omada`, `D-Link`, `UniFi`)**, **Ubiquiti NanoStation (`AirOS`)**, and **Windows/Linux Servers** with **1-Click Smart Model `Auto-Detect`**, unified **Gmail SMTP + Multi-Gateway WhatsApp Center (Built-in Persistent QR Session, 1-to-4 recipient phones with distinct Anti-Ban templates, and Official Meta Cloud API featuring `"متابعه / متابعة"` 24-Hour Free-Text Window Opt-In with `"جاري المتابعة"` Auto-Reply + non-mandatory optional Utility Template & automatic normal-text fallback)**, **Multi-Outage 12-Hour (`From -> To AM/PM`) Duration Reports & Heatmap Cell Minutes**, **Sub-Timeout Ping Flapping Analytics (`UNSTABLE — NOT DOWN`)**, **Interactive Star/Tree Network Topology Map**, **Multi-Threaded Subnet Scanner**, and **Protected Security & Dispatch Audit Logs**.
 
 ---
 
@@ -386,49 +410,56 @@
 
 1. **♾️ سعة مفتوحة بالكامل (`Unlimited VPN Branches, Servers, Firewalls, Routers, Switches & Cameras`)**
    - **🇪🇬 عربي:** مراقبة عدد غير محدود من الفروع والسيرفرات والراوترات والفايروول والسويتشات وأجهزة الـ NVR/DVR وكاميرات المراقبة في وقت واحد بكفاءة عالية جداً بفضل محرك الفحص غير المتزامن متعدد الخيوط.
-   - **🇬🇧 English:** Zero cap on monitored VPN branches, Windows/Linux servers, MikroTik routers, Sophos firewalls, ISP routers, APs, NanoStations, switches, NVRs, and IP cameras.
+   - **🇬🇧 English:** Zero cap on monitored VPN branches, Windows/Linux servers, MikroTik routers, Sophos firewalls, Ruijie/Reyee devices, ISP routers, APs, NanoStations, switches, NVRs, and IP cameras.
 
 2. **📡 شريط الميكروتيك الرئيسي والفرعي الحي + النسخ الاحتياطي الأسبوعي (`Master & Sub-MikroTik RouterOS API + Weekly .rsc Backup`)**
    - **🇪🇬 عربي:** شريط علوي مستقل لراوتر **`MASTER MIKROTIK`** وراوترات الفروع **`SUB-MKT`** يتصل مباشرة عبر `RouterOS API (Port 8728)` لقراءة الفروع المتصلة، استهلاك المعالج `CPU %`، الرامات `RAM %`، الهارد `Disk %`، درجة الحرارة `°C`، الفولت `V`، وسرعة السحب والرفع `kbps/Mbps`، مع أخذ نسخة احتياطية `.rsc` تلقائياً كل أسبوع!
    - **🇬🇧 English:** Dedicated top full-width **Master MikroTik VPN Concentrator** banner plus **Sub-MikroTik** cards reading live `CPU %`, `RAM %`, `Disk %`, `Board Temp °C`, `Voltage V`, `Rx/Tx Bandwidth`, and active PPP/VPN tunnels via RouterOS API, plus automated weekly `.rsc` configuration backups.
 
-3. **🌐 دعم شامل لراوترات WE وشركات الإنترنت بمصر + فايروول Sophos + الأكسس بوينت + NanoStation مع الكشف التلقائي (`Multi-Vendor Support + Smart Auto-Detect + Right-Click Reboot`)**
+3. **🌐 دعم شامل لأجهزة روجيه رييه الصينية (`Ruijie / Reyee`) + راوترات WE بمصر + فايروول Sophos + الأكسس بوينت + NanoStation مع الكشف التلقائي (`Multi-Vendor Support + Smart Auto-Detect + Right-Click Reboot`)**
    - **🇪🇬 عربي:** يمكنك إضافة ومراقبة وعمل **كليك يمين -> `Remote Reboot`** بضغطة واحدة لكل من:
+     - **أجهزة روجيه / رييه الصينية (`Ruijie / Reyee Switches, APs & Routers`):** دعم أصيل عبر واجهة `Ruijie eWeb HTTP/CGI` و `SSH CLI` لبوابات وراوترات `Reyee RG-EG / RG-EW`، سويتشات `Ruijie / Reyee RG-ES200 / RG-NBS3100 / RG-S2910`، وأجهزة الأكسس بوينت `Reyee RG-RAP2200 / RG-RAP2260 / RG-EAP`!
      - **راوترات WE وشركات الإنترنت في مصر:** `Huawei (HG630 / HG633 / DG8045 / EchoLife FTTH)`، `ZTE (ZXHN H168N / H188A / H298A / F660 / F670L)`، `TP-Link (Archer VR300 / VR400 / VR600 / TD-W9960)`، و `Nokia Fiber ONT (G-240W / G-2425G-A)`، بالإضافة لأي راوتر قياسي.
      - **جدران الحماية Sophos Firewall:** دعم كامل لموديلات `Sophos XG / XGS (SFOS WebAdmin Port 4444 & SSH)` و `Sophos UTM 9`.
      - **أجهزة الواي فاي Access Points:** جميع موديلات `TP-Link (TL-WA / Archer / EAP Omada)`، `D-Link (DAP / DIR)`، و `Ubiquiti UniFi AP`.
      - **أجهزة الربط اللاسلكي النانو ستيشن (`Ubiquiti NanoStation AirOS`):** `NanoStation M2 / M5 / Loco M2 / Loco M5 / NanoStation 5AC`.
-     - **زر الكشف التلقائي الذكي (`🔍 Auto-Detect`):** بمجرد كتابة الـ IP واليوزر والباسورد والضغط على **`Auto-Detect`**، يفحص البرنامج البورتات وبصمة الجهاز (`HTTP/HTTPS/4444/8728/8291/SSH/SMB`) ويختار التصنيف والموديل والبورت تلقائياً!
-   - **🇬🇧 English:** Native protocol drivers for right-click remote reboot and monitoring across **Egyptian ISP/WE VDSL & FTTH Routers** (`Huawei`, `ZTE`, `TP-Link`, `Nokia`), **Sophos Firewalls** (`XG/XGS Port 4444 & SSH`, `UTM`), **Access Points** (`TP-Link`, `D-Link`, `UniFi`), and **Ubiquiti NanoStation AirOS** (`M2/M5/Loco/5AC`), complete with a **`🔍 Auto-Detect`** button that probes ports and HTTP/SSH/RouterOS banners to select the exact vendor, model, and port automatically.
+     - **زر الكشف التلقائي الذكي (`🔍 Auto-Detect`):** بمجرد كتابة الـ IP واليوزر والباسورد والضغط على **`Auto-Detect`**، يفحص البرنامج البورتات وبصمة الجهاز (`Ruijie eWeb/SSH`, `HTTP/HTTPS/4444/8728/8291/SSH/SMB`) ويختار التصنيف والموديل والبورت تلقائياً!
+   - **🇬🇧 English:** Native protocol drivers for right-click remote reboot and monitoring across **Chinese Ruijie / Reyee Routers, Switches & Access Points** (`RG-EG`, `RG-EW`, `RG-ES`, `RG-NBS`, `RG-S2910`, `RG-RAP` via eWeb HTTP/CGI & SSH), **Egyptian ISP/WE VDSL & FTTH Routers** (`Huawei`, `ZTE`, `TP-Link`, `Nokia`), **Sophos Firewalls** (`XG/XGS Port 4444 & SSH`, `UTM`), **Access Points** (`TP-Link`, `D-Link`, `UniFi`), and **Ubiquiti NanoStation AirOS** (`M2/M5/Loco/5AC`), complete with a **`🔍 Auto-Detect`** button that probes ports and banners to select the exact vendor, model, and port automatically.
 
 4. **⏰ مدير جدولة إعادة التشغيل التلقائي بنظام 12 ساعة + إشعارات الواتساب الاختيارية (`12-Hour AM/PM Scheduled Device Auto-Reboot Manager`)**
-   - **🇪🇬 عربي:** نافذة مخصصة لإنشاء جداول إعادة تشغيل دورية (`يومياً Daily` أو `أسبوعياً Weekly` في يوم محدد) لأي مجموعة تختارها من الأجهزة (راوترات WE، فايروول سوفوس، أكسس بوينت، نانو ستيشن، ميكروتيك، سيرفرات) بتوقيت **12 ساعة (`01..12 : 00..59 AM/PM`)**، مع **خيار تفعيل أو إلغاء إرسال إشعار واتساب** عند تنفيذ الريستارت المجدول!
-   - **🇬🇧 English:** Create unlimited `Daily` or `Weekly` auto-reboot rules using a native **12-Hour (`AM/PM`) clock** targeting multiple selected routers/firewalls/APs/NanoStations/servers simultaneously, with a per-rule checkbox to **enable or silence WhatsApp execution notifications**.
+   - **🇪🇬 عربي:** نافذة مخصصة لإنشاء جداول إعادة تشغيل دورية (`يومياً Daily` أو `أسبوعياً Weekly` في يوم محدد) لأي مجموعة تختارها من الأجهزة (روجيه رييه، راوترات WE، فايروول سوفوس، أكسس بوينت، نانو ستيشن، ميكروتيك، سيرفرات) بتوقيت **12 ساعة (`01..12 : 00..59 AM/PM`)**، مع **خيار تفعيل أو إلغاء إرسال إشعار واتساب** عند تنفيذ الريستارت المجدول!
+   - **🇬🇧 English:** Create unlimited `Daily` or `Weekly` auto-reboot rules using a native **12-Hour (`AM/PM`) clock** targeting multiple selected Ruijie/Reyee devices, ISP routers, firewalls, APs, NanoStations, and servers simultaneously, with a per-rule checkbox to **enable or silence WhatsApp execution notifications**.
 
-5. **📲 مركز إشعارات الواتساب المتقدم (QR مباشر + 4 أرقام بقوالب مختلفة + Meta Cloud API بقالب اختياري غير إجباري) وإيميل Gmail SMTP**
+5. **📲 مركز إشعارات الواتساب المتقدم (QR مباشر + 4 أرقام بقوالب مختلفة + Meta Cloud API بكلمة `متابعة` لفتح الـ 24 ساعة أو قالب اختياري) وإيميل Gmail SMTP**
    - **🇪🇬 عربي:**
      - **ربط الواتساب المباشر عبر الـ QR Code (`Direct WhatsApp QR Persistent Session`):** ربط مباشر من داخل البرنامج عبر متصفح مدمج مشفر (`Edge / Chrome / Brave`) مع زر **`Generate / Refresh QR`** وحفظ الجلسة بتشفير `AES-256 + DPAPI` لتعمل تلقائياً حتى بعد ريستارت الكمبيوتر بدون أي اشتراكات API!
      - **الإرسال لـ 1 إلى 4 أرقام بقوالب مختلفة لمنع الحظر (`Up to 4 Recipient Numbers + Distinct Anti-Ban Templates`):** يمكنك إدخال رقم واحد أو حتى **4 أرقام واتساب**، ويرسل البرنامج لكل رقم رسالة بصياغة مختلفة من القوالب المحفوظة لنفس العطل مع فاصل زمني بشري وكود عشوائي (`#NOC-XXXX`) لمنع الحظر تماماً، مع تحويل تلقائي للأرقام المصرية المحفوظة بصيغة `010/011/012/015` إلى الصيغة الدولية `201...`.
-     - **دعم Meta Official WhatsApp Cloud API بقالب Utility اختياري وذكي:** عند اختيار `Meta Cloud API`، يظهر إعداد **`Optional Meta Template (If Available)`** وزر الدليل الإرشادي **`[Guide]`** لكيفية إنشاء قالب `UTILITY` مقبول في ميتا. **القالب غير إجباري إطلاقاً** — إذا لم تفعّله أو لم يكن متاحاً بعد، يرسل البرنامج الرسائل النصية الاحترافية العادية المتفق عليها تلقائياً بدون توقف!
+     - **ميزة فتح نافذة الـ 24 ساعة في Meta Cloud API بكلمة (`متابعه` / `متابعة`):** لتجنب تعقيد القوالب في واتساب الرسمي لميتا، بمجرد أن يرسل أي رقم من الأرقام الـ 4 المحددة رسالة للرقم الرسمي فيها كلمة **`متابعه`** أو **`متابعة`**، يرد عليه البرنامج تلقائياً فوراً برسالة **`✅ جاري المتابعة... تم تفعيل إشعارات الشبكة الحية لمدة 24 ساعة`**، وبذلك تنفتح نافذة الـ 24 ساعة رسمياً في ميتا ليستقبل كافة تفاصيل الأعطال والعودة النصية العادية بلا أي قيود!
+     - **قالب Utility اختياري غير إجباري + نسخ الأخطاء بضغطة زر:** إعداد **`Optional Meta Template (If Available)`** غير مفعل افتراضياً وغير إجباري، وإذا لم يكن متاحاً يرسل الرسائل العادية تلقائياً. كما أن رسائل التشخيص قابلة للتحديد بالماوس مع ظهور زر **`Copy Error`** عند حدوث خطأ فقط لنسخ سبب المشكلة فوراً.
      - **تنبيهات البريد الإلكتروني الفورية (`Gmail SMTP TLS 587 / SSL 465`):** إرسال تقارير السقوط والعودة وعدم الاستقرار لعدة إيميلات في نفس اللحظة.
    - **🇬🇧 English:**
      - **Built-in Direct WhatsApp QR Session:** Zero-API-fee persistent browser session (`AES-256 + DPAPI`) with one-click **`Generate / Refresh QR`**.
      - **1-to-4 Recipient Numbers with Per-Number Anti-Ban Templates:** Configure 1 to 4 WhatsApp numbers (auto-normalizing local `010/011/012/015` numbers to international `201...`); each recipient receives a distinct saved template variant with human typing delay and unique `#NOC-XXXX` token.
-     - **Official Meta Cloud API + Non-Mandatory Optional Utility Template & Guide:** Includes dedicated `Optional Meta Template (If Available)` settings (`noc_device_alert`, language code, and step-by-step **`[Guide]`**). **Templates are strictly optional**: unchecked by default so normal agreed-upon Anti-Ban text alerts dispatch immediately across up to 4 phones. When checked, the engine sends via your approved Meta `UTILITY` template (bypassing the 24-hour customer care window), and **if the template is missing, unapproved, or rejected, it automatically falls back in real time to sending standard Anti-Ban text messages** (and falls back to Direct QR if active) so critical outage alerts are never blocked!
+     - **Official Meta Cloud API `"متابعه / متابعة"` 24-Hour Free-Text Window + Auto-Reply:** Authorized admins/recipients simply message **`متابعه`** or **`متابعة`** (`follow`) to your Meta WhatsApp Business number -> the built-in webhook listener immediately replies **`✅ جاري المتابعة...`** and unlocks Meta's 24-hour customer care window — allowing rich, unrestricted plain-text outage/recovery updates without needing templates!
+     - **Non-Mandatory Optional Utility Template & Auto-Fallback:** `Optional Meta Template` remains unchecked by default with automatic fallback to normal text alerts, and all diagnostic dialogs support mouse text selection while displaying a **`Copy Error`** button strictly on error alerts.
      - **Gmail SMTP Alerts (`Port 587 STARTTLS` & `Port 465 Implicit SSL`):** Multi-recipient HTML/text email dispatch on Down, Recovery, and Instability.
 
-6. **📉 تقرير عدم استقرار الخدمة وتذبذب البنج (`Service Instability & Sub-Timeout Ping Flapping Report — UNSTABLE, NOT DOWN`)**
+6. **⏱️ تقرير مدد الانقطاع الكلي وتفاصيل كل فصل بنظام 12 ساعة (`Outage Durations & 12-Hour From -> To AM/PM Multi-Outage Report`) + دقائق الانقطاع داخل خلايا الـ Heatmap**
+   - **🇪🇬 عربي:** يعرض داخل كل خلية حمراء في الـ Heatmap عدد مرات الفصل وإجمالي الدقائق (`3x • 1h25m`)، بالإضافة لتقرير مستقل (`Outage Durations`) يوضح لكل فرع أو جهاز وقع: المدة بالدقائق والمدة الكاملة، وإذا وقع أكثر من مرة يكتب **كل مرة على حدة من الساعة كام للساعة كام بنظام 12 ساعة (`From hh:mm AM/PM -> To hh:mm AM/PM`)** شاملة الأعطال الحية المستمرة (`Until Now - LIVE`) مع الطباعة العرضية وتصدير `CSV`.
+   - **🇬🇧 English:** Displays exact outage count + minutes directly inside red Heatmap cells (`3x • 1h25m`), paired with a dedicated **`Outage Durations (12h)`** report logging total branch downtime and every individual outage session's exact **12-hour `From -> To AM/PM`** timestamps and minutes, ready for `A4 Landscape HTML` printing and `CSV` export.
+
+7. **📉 تقرير عدم استقرار الخدمة وتذبذب البنج (`Service Instability & Sub-Timeout Ping Flapping Report — UNSTABLE, NOT DOWN`)**
    - **🇪🇬 عربي:** يكشف الخطوط والأجهزة التي تقطع لثوانٍ معدودة وترجع قبل الوصول لوقت السقوط الكامل (والتي تسبب تقطيع الصوت وبطء الأنظمة دون أن تظهر `DOWN`)، ويصنفها تلقائياً **`UNSTABLE — NOT DOWN`** مع رسم بياني لساعات الذروة وسجل زمني كامل بنظام **12 ساعة (`AM/PM`)** قابل للطباعة والتصدير `CSV`.
    - **🇬🇧 English:** Captures sub-timeout micro-cuts and repeated packet drops that recover before triggering a full `DOWN` alarm, classifying degraded circuits as **`UNSTABLE — NOT DOWN`** with a 24-hour peak flapping chart, intensity ranking, and printable/CSV episode log in 12-hour `AM/PM` format.
 
-7. **🗺️ خريطة الشبكة التفاعلية الحية (`Interactive Visual Star/Tree Network Topology Map`) والماسح التلقائي للشبكة (`Auto IP Subnet Scanner`) وسجل التدقيق (`Security & Dispatch Audit Log`)**
+8. **🗺️ خريطة الشبكة التفاعلية الحية (`Interactive Visual Star/Tree Network Topology Map`) والماسح التلقائي للشبكة (`Auto IP Subnet Scanner`) وسجل التدقيق (`Security & Dispatch Audit Log`)**
    - **🇪🇬 عربي:** خريطة رسومية حية تربط الإنترنت الرئيسي براوتر الميكروتيك المركزي وكافة الفروع والسيرفرات والفايروول بنقاط مضيئة متحركة، مع ماسح شبكي يكتشف جميع أجهزة الشبكة تلقائياً ويضيفها بضغطة زر، وسجل تدقيق محمي يوثق كل عملية دخول أو تعديل أو إرسال إشعار واتساب/إيميل بنظام `12h AM/PM`.
    - **🇬🇧 English:** Live animated star/tree topology map, multi-threaded IP range scanner with automatic port/vendor fingerprinting (`8728/8291`, `445/3389`, `22`, `80/554`), and tamper-evident Admin/Supervisor + WhatsApp/Email dispatch audit trail.
 
 ---
 
-## 🖼️ ثانياً: الشرح المصور الكامل لكافة شاشات وإعدادات نسخة المؤسسات (16 شاشة)
-## Screen-by-Screen Visual Guide — Enterprise NOC Edition (All 16 Screens)
+## 🖼️ ثانياً: الشرح المصور الكامل لكافة شاشات وإعدادات نسخة المؤسسات (17 شاشة)
+## Screen-by-Screen Visual Guide — Enterprise NOC Edition (All 17 Screens)
 
 ---
 
@@ -450,29 +481,35 @@
 </div>
 
 - **🇪🇬 الشرح التفصيلي بالعربية (كافة عناصر الشاشة الرئيسية للمؤسسات):**
-  - **شريط الأدوات المؤسسي الموسع:** يضم جميع أدوات التحكم السريع: **`+ Add Device`**، **`Check / Refresh`**، **`Select All`**، **`Filter`**، **`IP Scanner`** (الماسح الشبكي)، **`Reboot Schedule`** (جدولة الريستارت 12 ساعة)، **`Outage Report`**، **`Instability Report`** (تقرير عدم الاستقرار)، **`Notifications`** (مركز الواتساب والإيميل)، **`Audio: ON`**، **`Admin Settings`**، **`Audit Log`** (سجل التدقيق والإرسال)، **`Full Screen`**، و **`Tray`**.
+  - **شريط الأدوات المؤسسي الموسع:** يضم جميع أدوات التحكم السريع: **`+ Add Device`**، **`Check / Refresh`**، **`Select All`**، **`Filter`**، **`IP Scanner`** (الماسح الشبكي)، **`Reboot Schedule`** (جدولة الريستارت 12 ساعة)، **`Outage Durations`** (تقرير مدد الانقطاع بالـ 12 ساعة)، **`Outage Report`**، **`Instability Report`** (تقرير عدم الاستقرار)، **`Notifications`** (مركز الواتساب والإيميل)، **`Audio: ON`**، **`Admin Settings`**، **`Audit Log`** (سجل التدقيق والإرسال)، **`Full Screen`**، و **`Tray`**.
   - **شريط الميكروتيك الرئيسي (`MASTER MKT — MikroTik CCR2004 Core Router`):** يعرض في أعلى الشاشة حالة راوتر الـ Core الرئيسي، البنج، سرعة الترافيك، استهلاك **`CPU %` / `RAM %` / درجة الحرارة `46°C` / الفولت `24.2V` / وقت التشغيل `Uptime`**، الرسم الموجي الخاص بالميكروتيك، وأزرار **`Check` / `Trace` / `Reboot` / `Edit` / `Del` / `View`**.
-  - **مصفوفة الفروع والسيرفرات والأجهزة المتعددة:** تعرض الفروع على اليسار، وعلى اليمين تعرض جنباً إلى جنب فايروول **`Sophos XGS`**، راوتر **`WE VDSL`**، جهاز **`Ubiquiti NanoStation`**، **`TP-Link Omada AP`**، والسيرفرات مع مؤشر جودة الخدمة **`QoS %`** ونسبة الفقد **`Loss %`** واستهلاك الموارد، ودعم **كليك يمين -> `Remote Reboot`** لأي جهاز!
+  - **مصفوفة الفروع والسيرفرات والأجهزة المتعددة:** تعرض الفروع على اليسار، وعلى اليمين تعرض جنباً إلى جنب أجهزة **`Ruijie / Reyee`**، فايروول **`Sophos XGS`**، راوتر **`WE VDSL`**، جهاز **`Ubiquiti NanoStation`**، **`TP-Link Omada AP`**، والسيرفرات مع مؤشر جودة الخدمة **`QoS %`** ونسبة الفقد **`Loss %`** واستهلاك الموارد، ودعم **كليك يمين -> `Remote Reboot`** لأي جهاز!
 
 - **🇬🇧 Detailed English Explanation (Enterprise Main NOC Dashboard):**
-  - **Expanded Enterprise Command Bar:** Instant one-click access to `+ Add Device`, `IP Scanner`, `Reboot Schedule` (12h auto-reboot manager), `Outage Report`, `Instability Report` (ping-flapping analyzer), `Notifications` (SMTP & WhatsApp QR/Meta center), `Admin Settings`, and `Audit Log`.
+  - **Expanded Enterprise Command Bar:** Instant one-click access to `+ Add Device`, `IP Scanner`, `Reboot Schedule` (12h auto-reboot manager), **`Outage Durations`** (12h `From -> To` multi-outage report), `Outage Report`, `Instability Report` (ping-flapping analyzer), `Notifications` (SMTP & WhatsApp QR/Meta center), `Admin Settings`, and `Audit Log`.
   - **Dedicated Top `MASTER MKT` Concentrator Banner:** Full-width live telemetry row for the headquarters core MikroTik router (`CPU %`, `RAM %`, `Temperature °C`, `Voltage V`, `ICMP/API Bandwidth`, live waveform, and direct `Check / Trace / Reboot / View` controls).
-  - **Multi-Vendor Telemetry Cards:** Simultaneous monitoring of VPN Branches alongside `Sophos Firewall`, `WE VDSL Router`, `Ubiquiti NanoStation`, `TP-Link Access Point`, and `Windows/Linux Servers`, displaying live `QoS %`, `Loss %`, `CPU/RAM/Disk`, and right-click remote reboot actions.
+  - **Multi-Vendor Telemetry Cards:** Simultaneous monitoring of VPN Branches alongside `Ruijie / Reyee Routers, Switches & APs`, `Sophos Firewall`, `WE VDSL Router`, `Ubiquiti NanoStation`, `TP-Link Access Point`, and `Windows/Linux Servers`, displaying live `QoS %`, `Loss %`, `CPU/RAM/Disk`, and right-click remote reboot actions.
 
 ---
 
-### 🔷 شاشة (E-03): محرر الأجهزة المتعدد (راوترات WE، سوفوس، أكسس بوينت، NanoStation، وميكروتيك) وزر الكشف التلقائي `Auto-Detect` | Multi-Vendor Device Editor & Smart Auto-Detect
+### 🔷 شاشة (E-03): محرر الأجهزة المتعدد (روجيه رييه Ruijie/Reyee، راوترات WE، سوفوس، أكسس بوينت، NanoStation، وميكروتيك) وزر الكشف التلقائي `Auto-Detect` | Multi-Vendor Device Editor & Smart Auto-Detect
 
 <div align="center">
+  <img src="./5_Screenshots_and_Assets/ent_03b_node_editor_ruijie_reyee.svg" alt="E-03B Enterprise Ruijie Reyee Switches APs and Routers Support" width="840" />
+  <br /><br />
   <img src="./5_Screenshots_and_Assets/ent_03_node_editor_mikrotik.png" alt="E-03 Enterprise Multi-Vendor Device Editor" width="760" />
 </div>
 
-- **🇪🇬 الشرح التفصيلي بالعربية (إضافة وضبط أي جهاز أو راوتر أو فايروول):**
-  - **`★ ENTERPRISE MONITORING PROFILES` (القوالب الجاهزة):** احفظ إعدادات البنج والصوت مرة واحدة كقالب (مثلاً `WE Branch Router` أو `Critical SQL Server`) وطبّقها على عشرات الأجهزة بضغطة زر.
-  - **`1. DEVICE IDENTITY & MIKROTIK ROLE`:** تحديد اسم الجهاز، الـ IP، التصنيف (`VPN Branch` / `Master MikroTik` / `Sub-MikroTik` / `Server, Firewall, AP, Switch, Camera`)، وخيار سحب فروع الـ VPN تلقائياً من الميكروتيك (`VPN Active`).
+- **🇪🇬 الشرح التفصيلي بالعربية (إضافة وضبط أجهزة روجيه رييه أو أي راوتر أو فايروول):**
+  - **`★ ENTERPRISE MONITORING PROFILES` (القوالب الجاهزة):** احفظ إعدادات البنج والصوت مرة واحدة كقالب (مثلاً `Ruijie Branch Switch` أو `WE Branch Router`) وطبّقها على عشرات الأجهزة بضغطة زر.
+  - **`1. DEVICE IDENTITY & MIKROTIK ROLE`:** تحديد اسم الجهاز، الـ IP، التصنيف (`VPN Branch` / `Master MikroTik` / `Sub-MikroTik` / `Server, Firewall, Ruijie/Reyee, AP, Switch, Camera`)، وخيار سحب فروع الـ VPN تلقائياً من الميكروتيك (`VPN Active`).
   - **`2 & 3. PING THRESHOLDS & CUSTOM .WAV VOICE ALERTS`:** ضبط توقيتات الفحص وحساسية البنج والرسائل الصوتية المنطوقة وتكرار الإنذار.
   - **`4. ENCRYPTED REMOTE REBOOT & SMART AUTO-DETECT` (الريستارت المشفر والكشف التلقائي):**
     - فعّل **`Enable Right-Click Remote Reboot`** واختر من قائمة **`Model / OS`** أي موديل من الموديلات المدعومة:
+      - **أجهزة روجيه / رييه الصينية (`Ruijie / Reyee`):**
+        - `Ruijie / Reyee Router (RG-EG / RG-EW — eWeb HTTP / SSH)`
+        - `Ruijie / Reyee Switch (RG-ES / RG-NBS / RG-S2910 — eWeb / SSH)`
+        - `Ruijie / Reyee Access Point (RG-RAP / RG-EAP — eWeb / SSH)`
       - `WE / ISP Router - Huawei (HG630 / HG633 / DG8045 / FTTH)`
       - `WE / ISP Router - ZTE (H168N / H188A / H298A / F660 / F670L)`
       - `WE / ISP Router - TP-Link (Archer VR300 / VR400 / VR600 / TD-W9960)`
@@ -481,15 +518,14 @@
       - `Access Point - TP-Link / Omada` & `Access Point - D-Link / UniFi`
       - `Ubiquiti NanoStation (AirOS M2 / M5 / Loco / 5AC)`
       - `MikroTik RouterOS API / SSH`، `Windows Server (WMI/RPC)`، `Linux SSH`، `Asterisk PBX SSH`.
-    - **زر `🔍 Auto-Detect`:** اضغط عليه بعد كتابة الـ IP ليكتشف البرنامج نوع وموديل الجهاز والبورت المناسب تلقائياً في ثوانٍ!
+    - **زر `🔍 Auto-Detect`:** اضغط عليه بعد كتابة الـ IP ليكتشف البرنامج نوع وموديل الجهاز (بما فيها بصمة `Ruijie / Reyee eWeb & SSH`) والبورت المناسب تلقائياً في ثوانٍ!
 
-- **🇬🇧 Detailed English Explanation (Enterprise Multi-Vendor Node Editor):**
+- **🇬🇧 Detailed English Explanation (Enterprise Multi-Vendor & Ruijie/Reyee Node Editor):**
   - **Reusable Monitoring Profiles:** Save polling intervals, thresholds, and audio profiles once and apply them across new devices instantly.
   - **MikroTik Concentrator Role:** Configure `Master Server (Full-Width Row)` or `Sub-MikroTik` and toggle `VPN Active` to pull active RouterOS PPP/VPN sessions.
-  - **Multi-Vendor Remote Reboot & `🔍 Auto-Detect`:** Check `Enable Right-Click Remote Reboot`, enter `Admin Username`, `Password`, and `Protocol Port`, and either choose the exact device driver from `Model / OS` (**WE/ISP Huawei, ZTE, TP-Link, Nokia; Sophos XG/XGS/UTM; TP-Link/D-Link/UniFi APs; Ubiquiti NanoStation AirOS; MikroTik; Windows WMI; Linux SSH**) or click **`🔍 Auto-Detect`** to probe open ports and device signatures automatically!
+  - **Multi-Vendor Remote Reboot & `🔍 Auto-Detect`:** Check `Enable Right-Click Remote Reboot`, enter `Admin Username`, `Password`, and `Protocol Port`, and either choose the exact device driver from `Model / OS` (**Chinese Ruijie / Reyee `RG-EG / RG-EW` Routers, `RG-ES / RG-NBS / RG-S2910` Switches, `RG-RAP / RG-EAP` Access Points; WE/ISP Huawei, ZTE, TP-Link, Nokia; Sophos XG/XGS/UTM; TP-Link/D-Link/UniFi APs; Ubiquiti NanoStation AirOS; MikroTik; Windows WMI; Linux SSH**) or click **`🔍 Auto-Detect`** to probe open ports and device signatures automatically!
 
 ---
-
 ### 🔷 شاشة (E-04): إعدادات المسؤول، منع السكون 24/7 والنسخ الاحتياطي المشفر `.nmcfg` | Enterprise Admin Settings & Encrypted `.nmcfg` Backup
 
 <div align="center">
@@ -501,14 +537,16 @@
 
 ---
 
-### 🔷 شاشة (E-05): الخريطة الحرارية الشهرية (30 يوماً) ومؤشر جودة الخدمة `QoS %` والطباعة العرضية | Enterprise 30-Day QoS & SLA Heatmap
+### 🔷 شاشة (E-05): الخريطة الحرارية المحدثة بدقائق الانقطاع داخل الخلايا ومؤشر `QoS %` وتوقيتات الـ 12 ساعة | Enterprise 30-Day QoS Heatmap with Exact Downtime Minutes & 12h Intervals
 
 <div align="center">
+  <img src="./5_Screenshots_and_Assets/ent_05b_heatmap_durations_12h.svg" alt="E-05B Enterprise Heatmap with Exact Outage Minutes and 12h Intervals" width="100%" />
+  <br /><br />
   <img src="./5_Screenshots_and_Assets/ent_05_heatmap_qos_30d.png" alt="E-05 Enterprise 30-Day Monthly QoS and SLA Heatmap" width="100%" />
 </div>
 
-- **🇪🇬 الشرح التفصيلي بالعربية:** تعرض استقرار كافة الفروع وأجهزة الميكروتيك وفايروول سوفوس وراوترات WE والنانو ستيشن على مدار `30 يوماً`، مع عمود حصري لقياس **جودة الخدمة الشاملة (`Service Quality — QoS %`)** الذي يدمج سرعة البنج ونسبة الفقد والتذبذب في تقييم واضح (`Excellent 99.5%` / `Very Good` / `OFFLINE`)، وزر مباشر لفتح **`Instability Report`**، وطباعة تقارير `A4 Landscape` مرقمة الصفحات (`Page X of Y`) بنظام **12 ساعة (`AM/PM`)**.
-- **🇬🇧 Detailed English Explanation:** Rolling 30-day enterprise heatmap across all multi-vendor devices featuring the exclusive **`Service Quality (QoS %)`** composite score (combining RTT latency, packet loss, and jitter), automatic `#1 UNSTABLE` ranking, direct jump to **`Instability Report`**, and `A4 Landscape` page-numbered HTML/CSV report export in 12-hour `AM/PM` format.
+- **🇪🇬 الشرح التفصيلي بالعربية:** تعرض استقرار كافة الفروع وأجهزة `Ruijie/Reyee` والميكروتيك وفايروول سوفوس وراوترات WE والنانو ستيشن على مدار `30 يوماً`، مع عرض **عدد مرات السقوط وإجمالي دقائق الانقطاع مباشرة داخل كل خلية حمراء (`2x • 52m` أو `3x • 1h25m`)**، وفي الرسم البياني الجانبي (`3 Down (1h25m) / 2 Up`)، بالإضافة لعمود **`Outage Intervals (From -> To 12h AM/PM)`** الذي يعرض كل فصل من الساعة كام للساعة كام بنظام 12 ساعة، وعمود **جودة الخدمة الشاملة (`QoS %`)**، وأزرار مباشرة لفتح **`Outage Durations (12h)`** و **`Instability Report`**، وطباعة تقارير `A4 Landscape` مرقمة الصفحات (`Page X of Y`).
+- **🇬🇧 Detailed English Explanation:** Rolling 30-day enterprise heatmap across all multi-vendor devices displaying **exact outage count + downtime minutes inside red cells (`2x • 52m`, `3x • 1h25m`)**, combined duration on the right bar chart, a dedicated **`Outage Intervals (From -> To 12h AM/PM)`** summary column, the exclusive **`Service Quality (QoS %)`** score, direct jump buttons to **`Outage Durations (12h)`** and **`Instability Report`**, and `A4 Landscape` page-numbered HTML/CSV report export.
 
 ---
 
@@ -523,7 +561,7 @@
 
 ---
 
-### 🔷 شاشة (E-07): نافذة الفحص الحي المتقدم للمؤسسات وتتبع المسار المدمج واختيار فترة التتقرير | Enterprise Live Telemetry & Traceroute Inspector
+### 🔷 شاشة (E-07): نافذة الفحص الحي المتقدم للمؤسسات وتتبع المسار المدمج واختيار فترة التقرير | Enterprise Live Telemetry & Traceroute Inspector
 
 <div align="center">
   <img src="./5_Screenshots_and_Assets/ent_07_live_inspector_traceroute.svg" alt="E-07 Enterprise Live Telemetry Inspector and Print Period Selector" width="100%" />
@@ -564,24 +602,25 @@
 
 ---
 
-### 🔷 شاشة (E-09B): مركز الإشعارات الموحد (2) — ربط Meta WhatsApp Cloud API الرسمي + القالب الاختياري `Utility Template` والدليل الإرشادي والتحويل التلقائي للرسائل العادية | Notifications Center (Part 2: Official Meta Cloud API, Non-Mandatory Utility Template & Auto-Fallback)
+### 🔷 شاشة (E-09B): مركز الإشعارات الموحد (2) — ربط Meta WhatsApp Cloud API الرسمي + فتح نافذة الـ 24 ساعة بكلمة (`متابعه` / `متابعة`) والرد التلقائي (`جاري المتابعة`) + القالب الاختياري | Notifications Center (Part 2: Official Meta Cloud API, 24h "متابعة" Auto-Reply & Optional Utility Template)
 
 <div align="center">
-  <img src="./5_Screenshots_and_Assets/ent_09b_notifications_meta_cloud_api.svg" alt="E-09B Enterprise Meta Official WhatsApp Cloud API and Optional Utility Template" width="900" />
+  <img src="./5_Screenshots_and_Assets/ent_09b_notifications_meta_cloud_api.svg" alt="E-09B Enterprise Meta Official WhatsApp Cloud API 24h Follow-Up and Optional Utility Template" width="900" />
 </div>
 
-- **🇪🇬 الشرح التفصيلي بالعربية (إعدادات Meta Cloud API الذكية والقالب الاختياري):**
-  - عند اختيار **`4. Meta Official WhatsApp Cloud API (Graph v20.0)`** من قائمة البوابات، تظهر حقول **`Phone Number ID`** و **`Bearer Token`**، وتحتها مباشرة شريط القالب الذكي:
-  - **`[ ] Optional Meta Template (If Available)` (قالب ميتا اختياري وغير إجباري إطلاقاً):**
-    - **الوضع الافتراضي (غير مفعّل):** يقوم البرنامج بإرسال الرسائل النصية الاحترافية العادية المتفق عليها مباشرة (ولكل رقم من الـ 4 أرقام قالب نصي مختلف بنظام 12 ساعة) بدون اشتراط وجود قالب معتمد!
-    - **في حال تفعيله:** إذا كان القالب (`noc_device_alert`) معتمداً ومتاحاً في حساب ميتا يرسل به لتخطي نافذة الـ 24 ساعة، **أما إذا كان القالب قيد المراجعة أو غير متاح لأي سبب، يقوم البرنامج تلقائياً في نفس اللحظة بالتحويل وإرسال الرسائل العادية المتفق عليها** (أو الإرسال عبر جلسة الـ QR المباشرة إن كانت متصلة) حتى لا تضيع أي رسالة إنذار!
-  - **زر الدليل الإرشادي `[Guide]`:** يعرض خطوات تفصيلية جاهزة للنسخ لكيفية إنشاء قالب من فئة **`UTILITY`** داخل `WhatsApp Manager` بمتغيراته الخمسة `{{1}}..{{5}}` وكيفية استخراج توكن دائم بصلاحية `whatsapp_business_messaging`.
-  - كما يدعم مركز الإشعارات أيضاً بوابات **`CallMeBot Free API`**، **`UltraMsg`**، **`Green-API`**، و **`Custom REST Webhook`**.
+- **🇪🇬 الشرح التفصيلي بالعربية (إعدادات Meta Cloud API الذكية + فتح الـ 24 ساعة بكلمة `متابعة`):**
+  - عند اختيار **`4. Meta Official WhatsApp Cloud API (Graph v20.0)`** من قائمة البوابات، تظهر حقول **`Phone Number ID`** و **`Bearer Token`**، وتحتها مباشرة نظامان ذكيان لضمان وصول الرسائل 100%:
+  - **1. ميزة فتح نافذة الـ 24 ساعة تلقائياً بكلمة `متابعه` / `متابعة` (`24h Free-Text Follow-Up Mode`):**
+    - لأن ميتا تمنع إرسال رسائل نصية حرة إلا إذا بادر المستلم بمراسلة الرقم أولاً، وفرنا خيار **`24h Free-Text ("متابعة")`** مع مستمع `Webhook` مدمج: بمجرد أن يرسل أي رقم من الأرقام الـ 4 المحددة رسالة للرقم الرسمي مكتوب فيها **`متابعه`** أو **`متابعة`**، يرد عليه البرنامج تلقائياً فوراً برسالة **`✅ جاري المتابعة... تم تفعيل إشعارات الشبكة الحية لمدة 24 ساعة`**، وتنفتح نافذة الـ 24 ساعة رسمياً في ميتا ليبدأ البرنامج في إرسال كافة تفاصيل الأعطال والعودة النصية العادية له بحرية تامة، مع زر **`[Webhook Setup]`** لشرح الربط خطوة بخطوة!
+  - **2. `[ ] Optional Meta Template (If Available)` (قالب ميتا اختياري وغير إجباري إطلاقاً):**
+    - **الوضع الافتراضي (غير مفعّل):** يرسل البرنامج الرسائل النصية الاحترافية العادية المتفق عليها مباشرة بدون إجبارك على قالب!
+    - **في حال تفعيله:** إذا كان القالب (`noc_device_alert`) متاحاً يرسل به، **وإذا لم يكن متاحاً يقوم البرنامج تلقائياً بالتحويل وإرسال الرسائل العادية المتفق عليها** حتى لا تضيع أي رسالة!
+  - **نسخ رسائل الخطأ فقط (`Smart Selectable Error Diagnostics`):** جميع نوافذ رسائل الفحص قابلة للتحديد والنسخ بالماوس، ويظهر زر **`Copy Error`** عند وجود خطأ فقط لنسخ نص الخطأ وتفاصيله بضغطة واحدة.
 
-- **🇬🇧 Detailed English Explanation (Meta Cloud API & Non-Mandatory Utility Template):**
-  - Selecting **`4. Meta Official WhatsApp Cloud API (Graph v20.0)`** reveals `Phone Number ID`, `Bearer Token` (with scope diagnostics if a token lacks `whatsapp_business_messaging`), and the **`Optional Meta Template (If Available)`** bar (`Template Name`, `Language`, and **`[Guide]`**).
-  - **Non-Mandatory by Design with Automatic Fallback:** Left unchecked by default so normal agreed-upon Anti-Ban text alerts dispatch immediately across up to 4 phones. When checked, the engine sends via your approved Meta `UTILITY` template (bypassing the 24-hour customer care window), and **if the template is missing, unapproved, or rejected, it automatically falls back in real time to sending standard Anti-Ban text messages** (and falls back to Direct QR if active) so critical outage alerts are never blocked!
-  - **`[Guide]` Button:** Opens a built-in step-by-step guide with copy-ready `UTILITY` template body (`{{1}}..{{5}}`) for Meta Business Manager approval.
+- **🇬🇧 Detailed English Explanation (Meta Cloud API, 24h `"متابعة"` Keyword Opt-In & Optional Template):**
+  - **`24h Free-Text ("متابعة")` Mode + Auto-Reply:** Includes a built-in HTTP Webhook listener (`Port 8975`, `Verify Token`, and **`[Webhook Setup]`** guide). Whenever any of the 1-to-4 configured numbers texts **`متابعه`** or **`متابعة`** (`follow`) to your Meta WhatsApp Business number, the tool automatically replies **`✅ جاري المتابعة...`** and unlocks Meta's 24-hour customer care window — allowing rich, unrestricted plain-text outage/recovery updates without needing templates!
+  - **Non-Mandatory Optional Utility Template & Auto-Fallback:** `Optional Meta Template` remains unchecked by default with automatic fallback to normal text alerts, and all diagnostic dialogs support mouse text selection while displaying a **`Copy Error`** button strictly on error alerts.
+  - **Clean Error Copy UX:** Every diagnostic dialog allows mouse text selection (`Ctrl+C`), while the dedicated **`Copy Error`** button appears strictly on error alerts.
 
 ---
 
@@ -656,10 +695,28 @@
 
 ---
 
-### 🔷 شاشة (E-15): شاشة معلومات وترخيص نسخة المؤسسات | Enterprise Edition Official About & Licensing Dialog
+### 🔷 شاشة (E-15): تقرير مدد الانقطاع الكلي وتعدد مرات السقوط بنظام 12 ساعة (`From -> To AM/PM`) | Enterprise Outage Durations & 12-Hour Multi-Outage Report
 
 <div align="center">
-  <img src="./5_Screenshots_and_Assets/ent_08_about.png" alt="E-15 Enterprise Edition About Dialog" width="680" />
+  <img src="./5_Screenshots_and_Assets/ent_15_outage_durations_12h_report.svg" alt="E-15 Enterprise Outage Durations and 12-Hour Multi-Outage Report" width="100%" />
+</div>
+
+- **🇪🇬 الشرح التفصيلي بالعربية (تقرير مدد الانقطاع وتوقيتات كل فصل بالـ 12 ساعة للمؤسسات):**
+  - صُمم هذا التقرير للإجابة الفورية والدقيقة على أهم سؤال تشغيلي: **«الفرع أو السيرفر وقع كام دقيقة؟ وإجمالي مدة توقفه كام؟ ولو وقع أكتر من مرة وقع من الساعة كام للساعة كام بالـ 12 ساعة؟»**
+  - **5 بطاقات قياس تنفيذية (`KPI Cards`):** الفروع والأجهزة المتأثرة، إجمالي جلسات الانقطاع، الأجهزة الفاصلة حالياً (`LIVE DOWN`)، **إجمالي وقت التوقف المجمع بالدقائق والساعات (`203 min / 3h 23m`)**، وأطول عطل منفرد.
+  - **القسم الأول (`Per-Branch Total Downtime & Multi-Outage 12h Summary`):** يرتب الفروع والأجهزة تنازلياً حسب إجمالي مدة التوقف، ويعرض في نفس السطر جميع مرات السقوط بتوقيت **12 ساعة (`#1) 02:10 PM -> 02:38 PM (28m) | #2) 06:15 PM -> 06:47 PM (32m) | #3) 03:45 AM -> LIVE (25m)`)**.
+  - **القسم الثاني (`Individual Outage Sessions Log`):** يسجل كل واقعة انقطاع في صف مستقل برقم تسلسلي على الفرع (`Outage #1 of 3`, `Outage #2 of 3`, `Outage #3 of 3`)، مع وقت البداية **`From Time (12h AM/PM)`** ووقت العودة **`To Time (12h AM/PM)`** (أو `Until Now - LIVE` للأعطال الجارية لحظياً)، والمدة بالدقائق والمدة الكاملة، مع طباعة **`A4 Landscape HTML`** مرقمة الصفحات وتصدير **`CSV`**.
+
+- **🇬🇧 Detailed English Explanation (Enterprise Outage Durations & 12-Hour Multi-Outage Report):**
+  - Answers exact SLA auditing questions instantly: how many minutes a branch or device was down, its cumulative downtime (`Xh Ym`), and — whenever a branch drops multiple times — **the exact 12-hour `From Time (AM/PM)` -> `To Time (AM/PM)` and duration of every single outage session**.
+  - Combines **5 Executive KPI Cards**, **Table 1 (`Per-Branch Total Downtime & Multi-Outage Summary`)**, and **Table 2 (`Individual Outage Sessions Log` including `ONGOING LIVE` outages)** with `Today (24h) / 7 Days / 30 Days / All History` filters, branch selector, **`Save & Print HTML` (`A4 Landscape`)**, and **`Export CSV`**.
+
+---
+
+### 🔷 شاشة (E-16): شاشة معلومات وترخيص نسخة المؤسسات | Enterprise Edition Official About & Licensing Dialog
+
+<div align="center">
+  <img src="./5_Screenshots_and_Assets/ent_08_about.png" alt="E-16 Enterprise Edition About Dialog" width="680" />
 </div>
 
 - **🇪🇬 الشرح التفصيلي بالعربية:** توضح ملخص قدرات نسخة المؤسسات (`Enterprise Edition`) وبيانات التواصل المباشر مع مهندس التصميم والتطوير **م. محمود سالم — شركة سالم تكنو لتكنولوجيا المعلومات (`01000920353` — `www.salemtechno.com`)**.
@@ -681,8 +738,10 @@
 | **سرينة الطوارئ المزدوجة + رسائل صوتية `.WAV` + كتم 15 دقيقة تلقائي العودة** | ✅ متاح بالكامل *(Included)* | ✅ متاح بالكامل *(Included)* |
 | **الإشعارات الجانبية الفورية فوق سطح المكتب (`Bottom-Right Outage Toasts`)** | ✅ متاح بالكامل *(Included)* | ✅ متاح بالكامل *(Included)* |
 | **منع دخول الويندوز والشاشة في وضع السكون (`24/7 NOC Keep-Awake`)** | ✅ متاح بالكامل *(Included)* | ✅ متاح بالكامل *(Included)* |
-| **الخرائط الحرارية (`24h / 7d / 30d`) + طباعة `A4 Landscape` مرقمة بنظام `12h AM/PM`** | ✅ متاح بالكامل *(Included)* | ✅ متاح + تحليل **`QoS %`** وتصدير **`CSV`** |
+| **الخرائط الحرارية (`24h / 7d / 30d`) مع عرض دقائق الفصل داخل الخلايا الحمراء + طباعة `A4 Landscape`** | ✅ متاح بالكامل *(Included)* | ✅ متاح + تحليل **`QoS %`** وتصدير **`CSV`** |
+| **تقرير مدد الانقطاع الكلي وتفاصيل كل فصل بنظام 12 ساعة (`Outage Durations & 12h From -> To Report`)** | ✅ متاح بالكامل (`HTML + CSV`) | ✅ متاح بعدد غير محدود (`HTML + CSV`) |
 | **إعادة تشغيل سيرفرات `Windows WMI / Linux SSH / Asterisk PBX` بكليك يمين** | ✅ متاح (لسيرفر واحد) | ✅ متاح بعدد غير محدود *(Unlimited)* |
+| **دعم ومراقبة وريستارت أجهزة روجيه / رييه الصينية (`Ruijie / Reyee Switches, APs & Routers`)** | ✅ متاح (لجهاز واحد) | ✅ مفتوح بالكامل + `Auto-Detect` + جدولة 12h |
 | **شريط ومراقبة راوترات `Master & Sub-MikroTik RouterOS API` + نسخ `.rsc` أسبوعي** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (`CPU/RAM/Temp/Volt/VPNs`) |
 | **دعم ومراقبة وريستارت راوترات الإنترنت بمصر (`WE / Huawei / ZTE / TP-Link / Nokia`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (كليك يمين ريستارت فوري) |
 | **دعم ومراقبة وريستارت جدران الحماية `Sophos Firewall (XG / XGS / UTM)`** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (`WebAdmin 4444` & `SSH`) |
@@ -691,6 +750,7 @@
 | **جدولة إعادة التشغيل التلقائي للأجهزة بنظام 12 ساعة (`12h AM/PM Auto-Reboot Scheduler`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (مع خيار تفعيل/كتم إشعار الواتساب) |
 | **ربط الواتساب المباشر بالـ QR Code (`Direct Persistent QR — No API Key`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (جلسة مشفرة دائمة + `Refresh QR`) |
 | **إرسال الواتساب لـ 1 إلى 4 أرقام بقوالب مختلفة لمنع الحظر (`1-4 Phones Anti-Ban`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (رسالة مختلفة لكل رقم بنظام 12h) |
+| **فتح نافذة الـ 24 ساعة في واتساب ميتا بكلمة (`متابعه` / `متابعة`) مع رد تلقائي (`جاري المتابعة`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (`24h Free-Text Window + Webhook`) |
 | **دعم `Meta Cloud API` الرسمي بقالب `Utility` اختياري + دليل إرشادي + تحويل تلقائي للرسائل العادية** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (`Optional Template + Auto Fallback`) |
 | **تنبيهات البريد الإلكتروني الفورية (`Gmail SMTP TLS 587 / SSL 465`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (متعدد المستلمين) |
 | **تقرير عدم استقرار الخدمة وتذبذب البنج (`Ping Flapping: UNSTABLE — NOT DOWN`)** | ❌ في نسخة `Enterprise` فقط | ✅ **حصري** (يرصد الرمشات القصيرة بالساعة) |
@@ -715,14 +775,14 @@
 ## 📞 التواصل مع المطور وطلب ترخيص نسخة المؤسسات
 ## Contact Developer & Request Enterprise Edition License
 
-**للحصول على نسخة المؤسسات الاحترافية المفتوحة بالكامل (`Enterprise NOC Edition`) أو لطلب التخصيص والدعم الفني للشركات:**
+**للحصول على نسخة المؤسسات الاحترافية المفتوحة بالكامل (`Enterprise NOC Edition`) أو لطلب التخصيص والدعم الفني للشركات:**  
 **To license the full unlimited `Enterprise NOC Edition` or inquire about corporate IT solutions & customization:**
 
 <br />
 
-**👨‍💻 Lead Architect & Developer:** **Eng. Mahmoud Salem (مهندس محمود سالم)**
-**🏢 Company:** **[Salem Techno IT Solutions (سالم تكنو لتكنولوجيا المعلومات)](https://www.salemtechno.com)**
-**📞 Phone / WhatsApp:** **`01000920353`** (`+201000920353`)
+**👨‍💻 Lead Architect & Developer:** **Eng. Mahmoud Salem (مهندس محمود سالم)**  
+**🏢 Company:** **[Salem Techno IT Solutions (سالم تكنو لتكنولوجيا المعلومات)](https://www.salemtechno.com)**  
+**📞 Phone / WhatsApp:** **`01000920353`** (`+201000920353`)  
 **🌐 Official Website:** **[https://www.salemtechno.com](https://www.salemtechno.com)**
 
 <br />
