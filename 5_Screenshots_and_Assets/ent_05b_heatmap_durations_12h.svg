@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="680" viewBox="0 0 1160 680" font-family="Segoe UI, Consolas, Arial, sans-serif">
+  <defs>
+    <pattern id="gridHm5b" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#0b261c" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1160" height="680" fill="#cbd5e1" rx="6"/>
+  <rect x="0" y="0" width="1160" height="28" fill="#dbeafe" rx="6"/>
+  <circle cx="15" cy="14" r="7.5" fill="#064e3b" stroke="#00ff88" stroke-width="1.5"/>
+  <text x="30" y="19" fill="#1e293b" font-size="12" font-weight="600">Stability Heatmap &amp; Outage Durations Analytics (7-Day / 24h / 30-Day + 12h From -&gt; To Intervals)</text>
+  <rect x="1116" y="4" width="36" height="20" rx="3" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="1130" y="18" fill="#334155" font-size="11.5" font-weight="bold">X</text>
+
+  <rect x="5" y="28" width="1150" height="647" fill="#040d0a"/>
+  <rect x="5" y="28" width="1150" height="647" fill="url(#gridHm5b)"/>
+  <rect x="8" y="31" width="1144" height="641" fill="none" stroke="#10b981" stroke-width="2" rx="4"/>
+
+  <!-- Header -->
+  <rect x="20" y="40" width="1120" height="38" rx="8" fill="#0a261a" stroke="#10b981" stroke-width="1.4"/>
+  <text x="34" y="64" fill="#34d399" font-size="13" font-weight="bold">STABILITY HEATMAP, OUTAGE DURATIONS (MINUTES) &amp; 12-HOUR INTERVALS (DAY / WEEK / MONTH)</text>
+  <text x="1126" y="64" fill="#fde047" font-size="12" font-weight="bold" text-anchor="end">DATE &amp; TIME: 2026-11-15 | 04:10:25 AM</text>
+
+  <!-- Top Buttons -->
+  <rect x="20" y="85" width="106" height="32" rx="6" fill="#143e4e" stroke="#58afa5"/>
+  <text x="73" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Today (24 Hours)</text>
+  <rect x="132" y="85" width="114" height="32" rx="6" fill="#0a8044" stroke="#34d399" stroke-width="1.5"/>
+  <text x="189" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Last 7 Days (Week)</text>
+  <rect x="252" y="85" width="118" height="32" rx="6" fill="#143e4e" stroke="#58afa5"/>
+  <text x="311" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Last 30 Days (Month)</text>
+  <rect x="376" y="85" width="150" height="32" rx="6" fill="#b92434" stroke="#fca5a5" stroke-width="1.6"/>
+  <text x="451" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Outage Durations (12h)</text>
+  <rect x="532" y="85" width="122" height="32" rx="6" fill="#9a4408" stroke="#fde047"/>
+  <text x="593" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Rank: Top Unstable</text>
+  <rect x="660" y="85" width="118" height="32" rx="6" fill="#6d28d9" stroke="#c4b5fd"/>
+  <text x="719" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Instability Report</text>
+  <rect x="784" y="85" width="98" height="32" rx="6" fill="#854d0e" stroke="#fbbf24"/>
+  <text x="833" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Reset Heatmap</text>
+  <rect x="888" y="85" width="122" height="32" rx="6" fill="#0a8044" stroke="#34d399"/>
+  <text x="949" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Save &amp; Print Report</text>
+  <rect x="1016" y="85" width="60" height="32" rx="6" fill="#14768a" stroke="#52e8f8"/>
+  <text x="1046" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">F11</text>
+  <rect x="1082" y="85" width="58" height="32" rx="6" fill="#af202c" stroke="#ff7880"/>
+  <text x="1111" y="105" fill="#ffffff" font-size="10.5" font-weight="bold" text-anchor="middle">Close</text>
+
+  <!-- Canvas Panel -->
+  <rect x="20" y="124" width="1120" height="278" rx="8" fill="#061410" stroke="#10b981" stroke-width="1.2"/>
+  <text x="34" y="143" fill="#34d399" font-size="11.5" font-weight="bold">7-DAY WEEKLY HEATMAP (11/09 - 11/15) — EXACT DOWNTIME MINUTES INSIDE CELLS</text>
+  <rect x="526" y="133" width="11" height="11" fill="#10b981"/><text x="541" y="143" fill="#ffffff" font-size="10.5" font-weight="bold">Online</text>
+  <rect x="588" y="133" width="11" height="11" fill="#f59e0b"/><text x="603" y="143" fill="#ffffff" font-size="10.5" font-weight="bold">High Ping</text>
+  <rect x="668" y="133" width="11" height="11" fill="#ef4444"/><text x="683" y="143" fill="#ffffff" font-size="10.5" font-weight="bold">Down (Mins)</text>
+  <line x1="744" y1="130" x2="744" y2="395" stroke="#334155"/>
+  <text x="758" y="143" fill="#34d399" font-size="11.5" font-weight="bold">OUTAGE (DOWN + DURATION) VS. RECOVERY CHART</text>
+
+  <!-- Axis Bar -->
+  <rect x="32" y="150" width="700" height="22" fill="#0a2018" stroke="#10b981" stroke-opacity="0.5"/>
+  <text x="40" y="165" fill="#fde047" font-size="10" font-weight="bold">BRANCH / DAY &amp; DATE</text>
+  <text x="225" y="165" fill="#bae6fd" font-size="9.5" font-weight="bold" text-anchor="middle">Mon 11/09</text>
+  <text x="300" y="165" fill="#bae6fd" font-size="9.5" font-weight="bold" text-anchor="middle">Tue 11/10</text>
+  <text x="375" y="165" fill="#bae6fd" font-size="9.5" font-weight="bold" text-anchor="middle">Wed 11/11</text>
+  <text x="450" y="165" fill="#bae6fd" font-size="9.5" font-weight="bold" text-anchor="middle">Thu 11/12</text>
+  <text x="525" y="165" fill="#bae6fd" font-size="9.5" font-weight="bold" text-anchor="middle">Fri 11/13</text>
+  <text x="600" y="165" fill="#bae6fd" font-size="9.5" font-weight="bold" text-anchor="middle">Sat 11/14</text>
+  <text x="678" y="165" fill="#fde047" font-size="9.5" font-weight="bold" text-anchor="middle">Sun 11/15</text>
+
+  <!-- Hovered Inspector Sub-bar -->
+  <rect x="756" y="150" width="372" height="22" fill="#0a2018" stroke="#fde047" stroke-opacity="0.7"/>
+  <text x="764" y="165" fill="#fde047" font-size="9.5" font-weight="bold">Branch 03 | 3x Outages • 85m (1h 25m): 02:10PM-&gt;02:38PM, 06:15PM-&gt;06:47PM, LIVE</text>
+
+  <!-- Row 1: Branch 03 -->
+  <text x="34" y="198" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 03 - East Office</text>
+  <rect x="190" y="180" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="265" y="180" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="340" y="180" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="415" y="180" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="490" y="180" width="70" height="28" rx="3" fill="#ef4444"/><text x="525" y="198" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">2x • 52m</text>
+  <rect x="565" y="180" width="70" height="28" rx="3" fill="#ef4444"/><text x="600" y="198" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">2x • 1h00m</text>
+  <rect x="640" y="180" width="74" height="28" rx="3" fill="#ef4444" stroke="#ffffff" stroke-width="1.8"/><text x="677" y="198" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">1x • 25m</text>
+  <rect x="758" y="181" width="128" height="12" fill="#e13038"/><rect x="758" y="195" width="90" height="12" fill="#10af73"/>
+  <text x="894" y="197" fill="#fecaca" font-size="10.5" font-weight="bold">3 Down (1h25m) / 2 Up (94.2%)</text>
+
+  <!-- Row 2: Branch 02 -->
+  <text x="34" y="236" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 02 - North Region</text>
+  <rect x="190" y="218" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="265" y="218" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="340" y="218" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="415" y="218" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="490" y="218" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="565" y="218" width="70" height="28" rx="3" fill="#ef4444"/><text x="600" y="236" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">2x • 47m</text>
+  <rect x="640" y="218" width="74" height="28" rx="3" fill="#10b981"/>
+  <rect x="758" y="219" width="88" height="12" fill="#e13038"/><rect x="758" y="233" width="88" height="12" fill="#10af73"/>
+  <text x="854" y="235" fill="#fecaca" font-size="10.5" font-weight="bold">2 Down (47m) / 2 Up (98.9%)</text>
+
+  <!-- Row 3: Demo ERP Server -->
+  <text x="34" y="274" fill="#ffffff" font-size="10.5" font-weight="bold">Demo ERP &amp; SQL Server</text>
+  <rect x="190" y="256" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="265" y="256" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="340" y="256" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="415" y="256" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="490" y="256" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="565" y="256" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="640" y="256" width="74" height="28" rx="3" fill="#ef4444"/><text x="677" y="274" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">2x • 39m</text>
+  <rect x="758" y="257" width="88" height="12" fill="#e13038"/><rect x="758" y="271" width="46" height="12" fill="#10af73"/>
+  <text x="854" y="273" fill="#fecaca" font-size="10.5" font-weight="bold">2 Down (39m) / 1 Up (99.1%)</text>
+
+  <!-- Row 4: Ruijie Reyee Switch -->
+  <text x="34" y="312" fill="#ffffff" font-size="10.5" font-weight="bold">Ruijie Reyee RG-EG210G</text>
+  <rect x="190" y="294" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="265" y="294" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="340" y="294" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="415" y="294" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="490" y="294" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="565" y="294" width="70" height="28" rx="3" fill="#ef4444"/><text x="600" y="312" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">1x • 14m</text>
+  <rect x="640" y="294" width="74" height="28" rx="3" fill="#10b981"/>
+  <rect x="758" y="295" width="46" height="12" fill="#e13038"/><rect x="758" y="309" width="46" height="12" fill="#10af73"/>
+  <text x="812" y="311" fill="#fecaca" font-size="10.5" font-weight="bold">1 Down (14m) / 1 Up (99.7%)</text>
+
+  <!-- Row 5: Branch 04 -->
+  <text x="34" y="350" fill="#ffffff" font-size="10.5" font-weight="bold">Branch 04 - Central Hub</text>
+  <rect x="190" y="332" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="265" y="332" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="340" y="332" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="415" y="332" width="70" height="28" rx="3" fill="#10b981"/>
+  <rect x="490" y="332" width="70" height="28" rx="3" fill="#ef4444"/><text x="525" y="350" fill="#ffffff" font-size="10" font-weight="bold" text-anchor="middle">1x • 18m</text>
+  <rect x="565" y="332" width="70" height="28" rx="3" fill="#f59e0b"/>
+  <rect x="640" y="332" width="74" height="28" rx="3" fill="#f59e0b"/>
+  <rect x="758" y="333" width="46" height="12" fill="#e13038"/><rect x="758" y="347" width="46" height="12" fill="#10af73"/>
+  <text x="812" y="349" fill="#fecaca" font-size="10.5" font-weight="bold">1 Down (18m) / 1 Up (99.5%)</text>
+
+  <!-- Bottom Summary Grid -->
+  <rect x="20" y="410" width="1120" height="190" fill="#06100c" stroke="#1e293b"/>
+  <rect x="20" y="410" width="1120" height="26" fill="#0a2418"/>
+  <text x="28" y="427" fill="#10b981" font-size="10.2" font-weight="bold">Rank #</text>
+  <text x="112" y="427" fill="#10b981" font-size="10.2" font-weight="bold">Branch / Device</text>
+  <text x="275" y="427" fill="#10b981" font-size="10.2" font-weight="bold">Down Count</text>
+  <text x="365" y="427" fill="#10b981" font-size="10.2" font-weight="bold">Recovery</text>
+  <text x="445" y="427" fill="#10b981" font-size="10.2" font-weight="bold">Downtime (Mins &amp; Full)</text>
+  <text x="615" y="427" fill="#10b981" font-size="10.2" font-weight="bold">Outage Intervals (From -&gt; To 12h AM/PM)</text>
+  <text x="1062" y="427" fill="#10b981" font-size="10.2" font-weight="bold">QoS / SLA%</text>
+
+  <rect x="21" y="436" width="1118" height="30" fill="#0c3a28"/>
+  <text x="28" y="455" fill="#fecaca" font-size="10.2" font-weight="bold">#1 UNSTABLE</text>
+  <text x="112" y="455" fill="#ffffff" font-size="10.2" font-weight="bold">Branch 03 - East Office</text>
+  <text x="275" y="455" fill="#fca5a5" font-size="10.2" font-weight="bold">3 times DOWN</text>
+  <text x="365" y="455" fill="#34d399" font-size="10.2" font-weight="bold">2 times UP</text>
+  <text x="445" y="455" fill="#fca5a5" font-size="10.2" font-weight="bold">85 min (1h 25m)</text>
+  <text x="615" y="455" fill="#fde047" font-size="9.8" font-weight="bold">#1) 02:10PM-&gt;02:38PM (28m) | #2) 06:15PM-&gt;06:47PM (32m) | #3) 03:45AM-&gt;LIVE (25m)</text>
+  <text x="1062" y="455" fill="#fca5a5" font-size="10.2" font-weight="bold">94.20%</text>
+
+  <line x1="20" y1="467" x2="1140" y2="467" stroke="#1e293b"/>
+  <text x="28" y="486" fill="#ffffff" font-size="10.2" font-weight="bold">#2</text>
+  <text x="112" y="486" fill="#ffffff" font-size="10.2" font-weight="bold">Branch 02 - North Region</text>
+  <text x="275" y="486" fill="#fca5a5" font-size="10.2" font-weight="bold">2 times DOWN</text>
+  <text x="365" y="486" fill="#34d399" font-size="10.2" font-weight="bold">2 times UP</text>
+  <text x="445" y="486" fill="#fca5a5" font-size="10.2" font-weight="bold">47 min</text>
+  <text x="615" y="486" fill="#fde047" font-size="9.8" font-weight="bold">#1) 11:05:00 AM -&gt; 11:24:00 AM (19 min)  |  #2) 01:20:00 PM -&gt; 01:48:00 PM (28 min)</text>
+  <text x="1062" y="486" fill="#34d399" font-size="10.2" font-weight="bold">98.90%</text>
+
+  <line x1="20" y1="498" x2="1140" y2="498" stroke="#1e293b"/>
+  <text x="28" y="517" fill="#ffffff" font-size="10.2" font-weight="bold">#3</text>
+  <text x="112" y="517" fill="#ffffff" font-size="10.2" font-weight="bold">Demo ERP &amp; SQL Server</text>
+  <text x="275" y="517" fill="#fca5a5" font-size="10.2" font-weight="bold">2 times DOWN</text>
+  <text x="365" y="517" fill="#34d399" font-size="10.2" font-weight="bold">1 times UP</text>
+  <text x="445" y="517" fill="#fca5a5" font-size="10.2" font-weight="bold">39 min</text>
+  <text x="615" y="517" fill="#fde047" font-size="9.8" font-weight="bold">#1) 12:40:00 AM -&gt; 01:02:00 AM (22 min)  |  #2) 03:53:00 AM -&gt; Until Now (LIVE - 17m)</text>
+  <text x="1062" y="517" fill="#fca5a5" font-size="10.2" font-weight="bold">99.10%</text>
+
+  <line x1="20" y1="529" x2="1140" y2="529" stroke="#1e293b"/>
+  <text x="28" y="548" fill="#ffffff" font-size="10.2" font-weight="bold">#4</text>
+  <text x="112" y="548" fill="#ffffff" font-size="10.2" font-weight="bold">Ruijie Reyee RG-EG210G</text>
+  <text x="275" y="548" fill="#fca5a5" font-size="10.2" font-weight="bold">1 times DOWN</text>
+  <text x="365" y="548" fill="#34d399" font-size="10.2" font-weight="bold">1 times UP</text>
+  <text x="445" y="548" fill="#fca5a5" font-size="10.2" font-weight="bold">14 min</text>
+  <text x="615" y="548" fill="#fde047" font-size="9.8" font-weight="bold">#1) 03:00:00 AM -&gt; 03:14:00 AM (14 min)</text>
+  <text x="1062" y="548" fill="#34d399" font-size="10.2" font-weight="bold">99.70%</text>
+
+  <line x1="20" y1="560" x2="1140" y2="560" stroke="#1e293b"/>
+  <text x="28" y="579" fill="#94a3b8" font-size="10.2" font-weight="bold">#5</text>
+  <text x="112" y="579" fill="#94a3b8" font-size="10.2" font-weight="bold">Branch 01 - Main HQ (VPN)</text>
+  <text x="275" y="579" fill="#94a3b8" font-size="10.2">0 times DOWN</text>
+  <text x="365" y="579" fill="#94a3b8" font-size="10.2">0 times UP</text>
+  <text x="445" y="579" fill="#94a3b8" font-size="10.2">0 min</text>
+  <text x="615" y="579" fill="#94a3b8" font-size="9.8">-- (100% Online)</text>
+  <text x="1062" y="579" fill="#34d399" font-size="10.2" font-weight="bold">100.00%</text>
+
+  <text x="580" y="618" fill="#6ee7b7" font-size="10.3" font-weight="bold" text-anchor="middle">Click Any Heatmap Cell or Double-Click Any Row to Open Full 12-Hour (From -&gt; To AM/PM) Outage Durations Report</text>
+
+  <rect x="8" y="630" width="1144" height="42" fill="#080e1c"/>
+  <text x="580" y="647" fill="#7dd3fc" font-size="10.5" font-weight="bold" text-anchor="middle">Network Monitor Professional Tool v1.0  —  Stability Heatmap &amp; 12-Hour Outage Duration Analytics</text>
+  <text x="580" y="664" fill="#fde047" font-size="10" font-weight="bold" text-anchor="middle">Copyright © 2026 Salem Techno | Developed by Eng. Mahmoud Salem | Tel: 01000920353 | www.salemtechno.com</text>
+</svg>
